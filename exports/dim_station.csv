@@ -1,0 +1,13 @@
+﻿id,name,city,province,latitude,longitude,kind,active
+1,Pacific Central,Vancouver,British Columbia,49.28,-123.12,Hub,1
+2,Thompson Terminal,Kamloops,British Columbia,50.67,-120.33,Terminal,1
+3,Foothills Exchange,Calgary,Alberta,51.05,-114.07,Hub,1
+4,Northern Gateway,Edmonton,Alberta,53.55,-113.49,Hub,1
+5,Prairie Centre,Regina,Saskatchewan,50.45,-104.62,Terminal,1
+6,River Landing,Saskatoon,Saskatchewan,52.13,-106.67,Terminal,1
+7,Union Exchange,Winnipeg,Manitoba,49.9,-97.14,Hub,1
+8,Wheat City Terminal,Brandon,Manitoba,49.85,-99.95,Terminal,1
+9,Lakeshore Hub,Toronto,Ontario,43.65,-79.38,Hub,1
+10,Capital Exchange,Ottawa,Ontario,45.42,-75.7,Terminal,1
+11,Métropole Hub,Montréal,Quebec,45.5,-73.57,Hub,1
+12,Capitale Terminal,Québec,Quebec,46.81,-71.21,Hub,1

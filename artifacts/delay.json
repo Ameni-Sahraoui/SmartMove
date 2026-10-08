@@ -1,0 +1,5137 @@
+{
+  "records": [
+    {
+      "id": 32311,
+      "code": "SM-032311",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-08-31T18:10:00Z",
+      "probability": 0.3993350565433502,
+      "weather_index": 0.411,
+      "congestion_index": 0.599
+    },
+    {
+      "id": 32312,
+      "code": "SM-032312",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-08-31T18:20:00Z",
+      "probability": 0.35238394141197205,
+      "weather_index": 0.27,
+      "congestion_index": 0.747
+    },
+    {
+      "id": 32314,
+      "code": "SM-032314",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-08-31T18:00:00Z",
+      "probability": 0.7993783950805664,
+      "weather_index": 0.316,
+      "congestion_index": 0.864
+    },
+    {
+      "id": 32315,
+      "code": "SM-032315",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-08-31T18:10:00Z",
+      "probability": 0.21949759125709534,
+      "weather_index": 0.019,
+      "congestion_index": 0.721
+    },
+    {
+      "id": 32317,
+      "code": "SM-032317",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-08-31T18:30:00Z",
+      "probability": 0.4557337462902069,
+      "weather_index": 0.067,
+      "congestion_index": 0.651
+    },
+    {
+      "id": 32318,
+      "code": "SM-032318",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-08-31T18:00:00Z",
+      "probability": 0.6907584071159363,
+      "weather_index": 0.329,
+      "congestion_index": 0.711
+    },
+    {
+      "id": 32320,
+      "code": "SM-032320",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-08-31T18:20:00Z",
+      "probability": 0.3147954046726227,
+      "weather_index": 0.283,
+      "congestion_index": 0.6
+    },
+    {
+      "id": 32321,
+      "code": "SM-032321",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-08-31T18:30:00Z",
+      "probability": 0.18538086116313934,
+      "weather_index": 0.151,
+      "congestion_index": 0.471
+    },
+    {
+      "id": 32323,
+      "code": "SM-032323",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-08-31T18:10:00Z",
+      "probability": 0.23547104001045227,
+      "weather_index": 0.194,
+      "congestion_index": 0.532
+    },
+    {
+      "id": 32324,
+      "code": "SM-032324",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-08-31T18:20:00Z",
+      "probability": 0.24608013033866882,
+      "weather_index": 0.464,
+      "congestion_index": 0.298
+    },
+    {
+      "id": 32326,
+      "code": "SM-032326",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-08-31T18:00:00Z",
+      "probability": 0.3673272430896759,
+      "weather_index": 0.302,
+      "congestion_index": 0.644
+    },
+    {
+      "id": 32327,
+      "code": "SM-032327",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-08-31T18:10:00Z",
+      "probability": 0.19685088098049164,
+      "weather_index": 0.106,
+      "congestion_index": 0.554
+    },
+    {
+      "id": 32329,
+      "code": "SM-032329",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-08-31T18:30:00Z",
+      "probability": 0.3621760904788971,
+      "weather_index": 0.391,
+      "congestion_index": 0.579
+    },
+    {
+      "id": 32330,
+      "code": "SM-032330",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-08-31T18:00:00Z",
+      "probability": 0.40067076683044434,
+      "weather_index": 0.381,
+      "congestion_index": 0.707
+    },
+    {
+      "id": 32332,
+      "code": "SM-032332",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-08-31T18:20:00Z",
+      "probability": 0.6741978526115417,
+      "weather_index": 0.305,
+      "congestion_index": 0.623
+    },
+    {
+      "id": 32333,
+      "code": "SM-032333",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-01T07:10:00Z",
+      "probability": 0.17865803837776184,
+      "weather_index": 0.137,
+      "congestion_index": 0.489
+    },
+    {
+      "id": 32334,
+      "code": "SM-032334",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-01T07:20:00Z",
+      "probability": 0.4061194956302643,
+      "weather_index": 0.453,
+      "congestion_index": 0.586
+    },
+    {
+      "id": 32335,
+      "code": "SM-032335",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-01T07:30:00Z",
+      "probability": 0.6520990133285522,
+      "weather_index": 0.437,
+      "congestion_index": 0.483
+    },
+    {
+      "id": 32336,
+      "code": "SM-032336",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-01T07:00:00Z",
+      "probability": 0.442239910364151,
+      "weather_index": 0.031,
+      "congestion_index": 0.618
+    },
+    {
+      "id": 32337,
+      "code": "SM-032337",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-01T07:10:00Z",
+      "probability": 0.23855090141296387,
+      "weather_index": 0.154,
+      "congestion_index": 0.589
+    },
+    {
+      "id": 32338,
+      "code": "SM-032338",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-01T07:20:00Z",
+      "probability": 0.40695130825042725,
+      "weather_index": 0.468,
+      "congestion_index": 0.551
+    },
+    {
+      "id": 32339,
+      "code": "SM-032339",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-01T07:30:00Z",
+      "probability": 0.7494979500770569,
+      "weather_index": 0.32,
+      "congestion_index": 0.811
+    },
+    {
+      "id": 32340,
+      "code": "SM-032340",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-01T07:00:00Z",
+      "probability": 0.7130391597747803,
+      "weather_index": 0.513,
+      "congestion_index": 0.587
+    },
+    {
+      "id": 32341,
+      "code": "SM-032341",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-01T07:10:00Z",
+      "probability": 0.23856554925441742,
+      "weather_index": 0.208,
+      "congestion_index": 0.533
+    },
+    {
+      "id": 32342,
+      "code": "SM-032342",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-01T07:20:00Z",
+      "probability": 0.2630751132965088,
+      "weather_index": 0.222,
+      "congestion_index": 0.603
+    },
+    {
+      "id": 32343,
+      "code": "SM-032343",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-01T07:30:00Z",
+      "probability": 0.20699501037597656,
+      "weather_index": 0.065,
+      "congestion_index": 0.581
+    },
+    {
+      "id": 32344,
+      "code": "SM-032344",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-01T07:00:00Z",
+      "probability": 0.27176228165626526,
+      "weather_index": 0.05,
+      "congestion_index": 0.809
+    },
+    {
+      "id": 32345,
+      "code": "SM-032345",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-01T07:10:00Z",
+      "probability": 0.37968555092811584,
+      "weather_index": 0.257,
+      "congestion_index": 0.8
+    },
+    {
+      "id": 32346,
+      "code": "SM-032346",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-01T07:20:00Z",
+      "probability": 0.2629505693912506,
+      "weather_index": 0.253,
+      "congestion_index": 0.529
+    },
+    {
+      "id": 32347,
+      "code": "SM-032347",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-01T07:30:00Z",
+      "probability": 0.254668653011322,
+      "weather_index": 0.471,
+      "congestion_index": 0.255
+    },
+    {
+      "id": 32348,
+      "code": "SM-032348",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-01T07:00:00Z",
+      "probability": 0.35007819533348083,
+      "weather_index": 0.282,
+      "congestion_index": 0.65
+    },
+    {
+      "id": 32349,
+      "code": "SM-032349",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-01T07:10:00Z",
+      "probability": 0.1429833620786667,
+      "weather_index": 0.093,
+      "congestion_index": 0.444
+    },
+    {
+      "id": 32350,
+      "code": "SM-032350",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-01T07:20:00Z",
+      "probability": 0.13870465755462646,
+      "weather_index": 0.151,
+      "congestion_index": 0.35
+    },
+    {
+      "id": 32351,
+      "code": "SM-032351",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-01T07:30:00Z",
+      "probability": 0.4238389730453491,
+      "weather_index": 0.394,
+      "congestion_index": 0.676
+    },
+    {
+      "id": 32352,
+      "code": "SM-032352",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-01T07:00:00Z",
+      "probability": 0.4527609944343567,
+      "weather_index": 0.451,
+      "congestion_index": 0.652
+    },
+    {
+      "id": 32353,
+      "code": "SM-032353",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-01T07:10:00Z",
+      "probability": 0.44493353366851807,
+      "weather_index": 0.199,
+      "congestion_index": 0.512
+    },
+    {
+      "id": 32354,
+      "code": "SM-032354",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-01T07:20:00Z",
+      "probability": 0.4732982814311981,
+      "weather_index": 0.112,
+      "congestion_index": 0.644
+    },
+    {
+      "id": 32355,
+      "code": "SM-032355",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-01T12:10:00Z",
+      "probability": 0.14900876581668854,
+      "weather_index": 0.07,
+      "congestion_index": 0.469
+    },
+    {
+      "id": 32356,
+      "code": "SM-032356",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-01T12:20:00Z",
+      "probability": 0.13173210620880127,
+      "weather_index": 0.151,
+      "congestion_index": 0.259
+    },
+    {
+      "id": 32357,
+      "code": "SM-032357",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-01T12:00:00Z",
+      "probability": 0.44507575035095215,
+      "weather_index": 0.355,
+      "congestion_index": 0.287
+    },
+    {
+      "id": 32358,
+      "code": "SM-032358",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-01T12:10:00Z",
+      "probability": 0.1978735774755478,
+      "weather_index": 0.311,
+      "congestion_index": 0.307
+    },
+    {
+      "id": 32359,
+      "code": "SM-032359",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-01T12:30:00Z",
+      "probability": 0.3717937469482422,
+      "weather_index": 0.059,
+      "congestion_index": 0.552
+    },
+    {
+      "id": 32360,
+      "code": "SM-032360",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-01T12:00:00Z",
+      "probability": 0.5972941517829895,
+      "weather_index": 0.147,
+      "congestion_index": 0.835
+    },
+    {
+      "id": 32361,
+      "code": "SM-032361",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-01T12:20:00Z",
+      "probability": 0.09516529738903046,
+      "weather_index": 0.142,
+      "congestion_index": 0.119
+    },
+    {
+      "id": 32362,
+      "code": "SM-032362",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-01T12:30:00Z",
+      "probability": 0.2995763123035431,
+      "weather_index": 0.315,
+      "congestion_index": 0.506
+    },
+    {
+      "id": 32363,
+      "code": "SM-032363",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-01T12:10:00Z",
+      "probability": 0.08831996470689774,
+      "weather_index": 0.123,
+      "congestion_index": 0.074
+    },
+    {
+      "id": 32364,
+      "code": "SM-032364",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-01T12:20:00Z",
+      "probability": 0.24126967787742615,
+      "weather_index": 0.366,
+      "congestion_index": 0.41
+    },
+    {
+      "id": 32365,
+      "code": "SM-032365",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-01T12:00:00Z",
+      "probability": 0.1861782670021057,
+      "weather_index": 0.251,
+      "congestion_index": 0.334
+    },
+    {
+      "id": 32366,
+      "code": "SM-032366",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-01T12:10:00Z",
+      "probability": 0.12296053767204285,
+      "weather_index": 0.125,
+      "congestion_index": 0.342
+    },
+    {
+      "id": 32367,
+      "code": "SM-032367",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-01T12:30:00Z",
+      "probability": 0.315854549407959,
+      "weather_index": 0.457,
+      "congestion_index": 0.404
+    },
+    {
+      "id": 32368,
+      "code": "SM-032368",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-01T12:00:00Z",
+      "probability": 0.13818949460983276,
+      "weather_index": 0.203,
+      "congestion_index": 0.259
+    },
+    {
+      "id": 32369,
+      "code": "SM-032369",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-01T12:20:00Z",
+      "probability": 0.41544315218925476,
+      "weather_index": 0.227,
+      "congestion_index": 0.414
+    },
+    {
+      "id": 32370,
+      "code": "SM-032370",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-01T18:10:00Z",
+      "probability": 0.351658433675766,
+      "weather_index": 0.269,
+      "congestion_index": 0.741
+    },
+    {
+      "id": 32371,
+      "code": "SM-032371",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-01T18:20:00Z",
+      "probability": 0.1471477895975113,
+      "weather_index": 0.238,
+      "congestion_index": 0.254
+    },
+    {
+      "id": 32372,
+      "code": "SM-032372",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-01T18:30:00Z",
+      "probability": 0.39635002613067627,
+      "weather_index": 0.106,
+      "congestion_index": 0.512
+    },
+    {
+      "id": 32373,
+      "code": "SM-032373",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-01T18:00:00Z",
+      "probability": 0.6712964177131653,
+      "weather_index": 0.183,
+      "congestion_index": 0.842
+    },
+    {
+      "id": 32374,
+      "code": "SM-032374",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-01T18:10:00Z",
+      "probability": 0.29733312129974365,
+      "weather_index": 0.217,
+      "congestion_index": 0.733
+    },
+    {
+      "id": 32375,
+      "code": "SM-032375",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-01T18:20:00Z",
+      "probability": 0.351658433675766,
+      "weather_index": 0.266,
+      "congestion_index": 0.735
+    },
+    {
+      "id": 32376,
+      "code": "SM-032376",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-01T18:30:00Z",
+      "probability": 0.5354543924331665,
+      "weather_index": 0.145,
+      "congestion_index": 0.697
+    },
+    {
+      "id": 32377,
+      "code": "SM-032377",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-01T18:00:00Z",
+      "probability": 0.7293169498443604,
+      "weather_index": 0.433,
+      "congestion_index": 0.61
+    },
+    {
+      "id": 32378,
+      "code": "SM-032378",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-01T18:10:00Z",
+      "probability": 0.30922797322273254,
+      "weather_index": 0.245,
+      "congestion_index": 0.685
+    },
+    {
+      "id": 32379,
+      "code": "SM-032379",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-01T18:20:00Z",
+      "probability": 0.2630751132965088,
+      "weather_index": 0.222,
+      "congestion_index": 0.606
+    },
+    {
+      "id": 32380,
+      "code": "SM-032380",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-01T18:30:00Z",
+      "probability": 0.29377761483192444,
+      "weather_index": 0.068,
+      "congestion_index": 0.783
+    },
+    {
+      "id": 32381,
+      "code": "SM-032381",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-01T18:00:00Z",
+      "probability": 0.2472296804189682,
+      "weather_index": 0.072,
+      "congestion_index": 0.733
+    },
+    {
+      "id": 32382,
+      "code": "SM-032382",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-01T18:10:00Z",
+      "probability": 0.3287527859210968,
+      "weather_index": 0.15,
+      "congestion_index": 0.819
+    },
+    {
+      "id": 32383,
+      "code": "SM-032383",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-01T18:20:00Z",
+      "probability": 0.29820889234542847,
+      "weather_index": 0.267,
+      "congestion_index": 0.613
+    },
+    {
+      "id": 32384,
+      "code": "SM-032384",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-01T18:30:00Z",
+      "probability": 0.3031248152256012,
+      "weather_index": 0.099,
+      "congestion_index": 0.774
+    },
+    {
+      "id": 32385,
+      "code": "SM-032385",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-01T18:00:00Z",
+      "probability": 0.1230669841170311,
+      "weather_index": 0.083,
+      "congestion_index": 0.306
+    },
+    {
+      "id": 32386,
+      "code": "SM-032386",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-01T18:10:00Z",
+      "probability": 0.2447909563779831,
+      "weather_index": 0.17,
+      "congestion_index": 0.624
+    },
+    {
+      "id": 32387,
+      "code": "SM-032387",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-01T18:20:00Z",
+      "probability": 0.3887658715248108,
+      "weather_index": 0.14,
+      "congestion_index": 0.873
+    },
+    {
+      "id": 32388,
+      "code": "SM-032388",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-01T18:30:00Z",
+      "probability": 0.202829971909523,
+      "weather_index": 0.22,
+      "congestion_index": 0.456
+    },
+    {
+      "id": 32389,
+      "code": "SM-032389",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-01T18:00:00Z",
+      "probability": 0.5789644122123718,
+      "weather_index": 0.488,
+      "congestion_index": 0.803
+    },
+    {
+      "id": 32390,
+      "code": "SM-032390",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-01T18:10:00Z",
+      "probability": 0.5663041472434998,
+      "weather_index": 0.094,
+      "congestion_index": 0.763
+    },
+    {
+      "id": 32391,
+      "code": "SM-032391",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-01T18:20:00Z",
+      "probability": 0.660094141960144,
+      "weather_index": 0.166,
+      "congestion_index": 0.885
+    },
+    {
+      "id": 32392,
+      "code": "SM-032392",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-02T07:10:00Z",
+      "probability": 0.3343447148799896,
+      "weather_index": 0.404,
+      "congestion_index": 0.568
+    },
+    {
+      "id": 32393,
+      "code": "SM-032393",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-02T07:20:00Z",
+      "probability": 0.28817006945610046,
+      "weather_index": 0.199,
+      "congestion_index": 0.726
+    },
+    {
+      "id": 32394,
+      "code": "SM-032394",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-02T07:30:00Z",
+      "probability": 0.3856496512889862,
+      "weather_index": 0.096,
+      "congestion_index": 0.476
+    },
+    {
+      "id": 32395,
+      "code": "SM-032395",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-02T07:00:00Z",
+      "probability": 0.48720216751098633,
+      "weather_index": 0.051,
+      "congestion_index": 0.708
+    },
+    {
+      "id": 32396,
+      "code": "SM-032396",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-02T07:10:00Z",
+      "probability": 0.18938803672790527,
+      "weather_index": 0.045,
+      "congestion_index": 0.627
+    },
+    {
+      "id": 32397,
+      "code": "SM-032397",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-02T07:20:00Z",
+      "probability": 0.30125725269317627,
+      "weather_index": 0.231,
+      "congestion_index": 0.756
+    },
+    {
+      "id": 32398,
+      "code": "SM-032398",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-02T07:30:00Z",
+      "probability": 0.44782549142837524,
+      "weather_index": 0.054,
+      "congestion_index": 0.606
+    },
+    {
+      "id": 32399,
+      "code": "SM-032399",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-02T07:00:00Z",
+      "probability": 0.44545722007751465,
+      "weather_index": 0.216,
+      "congestion_index": 0.546
+    },
+    {
+      "id": 32400,
+      "code": "SM-032400",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-02T07:10:00Z",
+      "probability": 0.46194422245025635,
+      "weather_index": 0.403,
+      "congestion_index": 0.732
+    },
+    {
+      "id": 32401,
+      "code": "SM-032401",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-02T07:20:00Z",
+      "probability": 0.4809229373931885,
+      "weather_index": 0.416,
+      "congestion_index": 0.746
+    },
+    {
+      "id": 32402,
+      "code": "SM-032402",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-02T07:30:00Z",
+      "probability": 0.17744511365890503,
+      "weather_index": 0.033,
+      "congestion_index": 0.564
+    },
+    {
+      "id": 32403,
+      "code": "SM-032403",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-02T07:00:00Z",
+      "probability": 0.14320196211338043,
+      "weather_index": 0.135,
+      "congestion_index": 0.397
+    },
+    {
+      "id": 32404,
+      "code": "SM-032404",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-02T07:10:00Z",
+      "probability": 0.2139025181531906,
+      "weather_index": 0.148,
+      "congestion_index": 0.543
+    },
+    {
+      "id": 32405,
+      "code": "SM-032405",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-02T07:20:00Z",
+      "probability": 0.3740645945072174,
+      "weather_index": 0.123,
+      "congestion_index": 0.905
+    },
+    {
+      "id": 32406,
+      "code": "SM-032406",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-02T07:30:00Z",
+      "probability": 0.187159463763237,
+      "weather_index": 0.062,
+      "congestion_index": 0.536
+    },
+    {
+      "id": 32407,
+      "code": "SM-032407",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-02T07:00:00Z",
+      "probability": 0.11987984925508499,
+      "weather_index": 0.164,
+      "congestion_index": 0.232
+    },
+    {
+      "id": 32408,
+      "code": "SM-032408",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-02T07:10:00Z",
+      "probability": 0.16826505959033966,
+      "weather_index": 0.184,
+      "congestion_index": 0.428
+    },
+    {
+      "id": 32409,
+      "code": "SM-032409",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-02T07:20:00Z",
+      "probability": 0.15561386942863464,
+      "weather_index": 0.098,
+      "congestion_index": 0.463
+    },
+    {
+      "id": 32410,
+      "code": "SM-032410",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-02T07:30:00Z",
+      "probability": 0.290004163980484,
+      "weather_index": 0.23,
+      "congestion_index": 0.693
+    },
+    {
+      "id": 32411,
+      "code": "SM-032411",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-02T07:00:00Z",
+      "probability": 0.2628101706504822,
+      "weather_index": 0.465,
+      "congestion_index": 0.316
+    },
+    {
+      "id": 32412,
+      "code": "SM-032412",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-02T07:10:00Z",
+      "probability": 0.3455425500869751,
+      "weather_index": 0.16,
+      "congestion_index": 0.368
+    },
+    {
+      "id": 32413,
+      "code": "SM-032413",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-02T07:20:00Z",
+      "probability": 0.2930960953235626,
+      "weather_index": 0.172,
+      "congestion_index": 0.264
+    },
+    {
+      "id": 32414,
+      "code": "SM-032414",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-02T12:10:00Z",
+      "probability": 0.23646016418933868,
+      "weather_index": 0.124,
+      "congestion_index": 0.711
+    },
+    {
+      "id": 32415,
+      "code": "SM-032415",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-02T12:20:00Z",
+      "probability": 0.1902763545513153,
+      "weather_index": 0.479,
+      "congestion_index": 0.115
+    },
+    {
+      "id": 32416,
+      "code": "SM-032416",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-02T12:00:00Z",
+      "probability": 0.44430771470069885,
+      "weather_index": 0.382,
+      "congestion_index": 0.256
+    },
+    {
+      "id": 32417,
+      "code": "SM-032417",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-02T12:10:00Z",
+      "probability": 0.2367580384016037,
+      "weather_index": 0.21,
+      "congestion_index": 0.531
+    },
+    {
+      "id": 32418,
+      "code": "SM-032418",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-02T12:30:00Z",
+      "probability": 0.6916654109954834,
+      "weather_index": 0.329,
+      "congestion_index": 0.688
+    },
+    {
+      "id": 32419,
+      "code": "SM-032419",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-02T12:00:00Z",
+      "probability": 0.215707466006279,
+      "weather_index": 0.08,
+      "congestion_index": 0.0
+    },
+    {
+      "id": 32420,
+      "code": "SM-032420",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-02T12:20:00Z",
+      "probability": 0.393870085477829,
+      "weather_index": 0.318,
+      "congestion_index": 0.712
+    },
+    {
+      "id": 32421,
+      "code": "SM-032421",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-02T12:30:00Z",
+      "probability": 0.310006320476532,
+      "weather_index": 0.441,
+      "congestion_index": 0.421
+    },
+    {
+      "id": 32422,
+      "code": "SM-032422",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-02T12:10:00Z",
+      "probability": 0.0812278613448143,
+      "weather_index": 0.087,
+      "congestion_index": 0.091
+    },
+    {
+      "id": 32423,
+      "code": "SM-032423",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-02T12:20:00Z",
+      "probability": 0.12313421815633774,
+      "weather_index": 0.143,
+      "congestion_index": 0.251
+    },
+    {
+      "id": 32424,
+      "code": "SM-032424",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-02T12:00:00Z",
+      "probability": 0.2877480685710907,
+      "weather_index": 0.543,
+      "congestion_index": 0.291
+    },
+    {
+      "id": 32425,
+      "code": "SM-032425",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-02T12:10:00Z",
+      "probability": 0.22505363821983337,
+      "weather_index": 0.378,
+      "congestion_index": 0.382
+    },
+    {
+      "id": 32426,
+      "code": "SM-032426",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-02T12:30:00Z",
+      "probability": 0.45364826917648315,
+      "weather_index": 0.474,
+      "congestion_index": 0.62
+    },
+    {
+      "id": 32427,
+      "code": "SM-032427",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-02T12:00:00Z",
+      "probability": 0.32895877957344055,
+      "weather_index": 0.352,
+      "congestion_index": 0.579
+    },
+    {
+      "id": 32428,
+      "code": "SM-032428",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-02T12:20:00Z",
+      "probability": 0.7653542757034302,
+      "weather_index": 0.441,
+      "congestion_index": 0.666
+    },
+    {
+      "id": 32429,
+      "code": "SM-032429",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-02T18:10:00Z",
+      "probability": 0.23643259704113007,
+      "weather_index": 0.347,
+      "congestion_index": 0.401
+    },
+    {
+      "id": 32430,
+      "code": "SM-032430",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-02T18:20:00Z",
+      "probability": 0.264305055141449,
+      "weather_index": 0.298,
+      "congestion_index": 0.454
+    },
+    {
+      "id": 32431,
+      "code": "SM-032431",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-02T18:30:00Z",
+      "probability": 0.4864468276500702,
+      "weather_index": 0.116,
+      "congestion_index": 0.642
+    },
+    {
+      "id": 32432,
+      "code": "SM-032432",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-02T18:00:00Z",
+      "probability": 0.5676867961883545,
+      "weather_index": 0.206,
+      "congestion_index": 0.613
+    },
+    {
+      "id": 32433,
+      "code": "SM-032433",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-02T18:10:00Z",
+      "probability": 0.5499366521835327,
+      "weather_index": 0.49,
+      "congestion_index": 0.746
+    },
+    {
+      "id": 32434,
+      "code": "SM-032434",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-02T18:20:00Z",
+      "probability": 0.24094995856285095,
+      "weather_index": 0.233,
+      "congestion_index": 0.527
+    },
+    {
+      "id": 32435,
+      "code": "SM-032435",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-02T18:30:00Z",
+      "probability": 0.668776273727417,
+      "weather_index": 0.335,
+      "congestion_index": 0.613
+    },
+    {
+      "id": 32436,
+      "code": "SM-032436",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-02T18:00:00Z",
+      "probability": 0.7797824740409851,
+      "weather_index": 0.271,
+      "congestion_index": 1.0
+    },
+    {
+      "id": 32437,
+      "code": "SM-032437",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-02T18:10:00Z",
+      "probability": 0.2372237592935562,
+      "weather_index": 0.334,
+      "congestion_index": 0.419
+    },
+    {
+      "id": 32438,
+      "code": "SM-032438",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-02T18:20:00Z",
+      "probability": 0.4307117760181427,
+      "weather_index": 0.513,
+      "congestion_index": 0.549
+    },
+    {
+      "id": 32439,
+      "code": "SM-032439",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-02T18:30:00Z",
+      "probability": 0.40353548526763916,
+      "weather_index": 0.175,
+      "congestion_index": 0.878
+    },
+    {
+      "id": 32440,
+      "code": "SM-032440",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-02T18:00:00Z",
+      "probability": 0.41269609332084656,
+      "weather_index": 0.196,
+      "congestion_index": 0.899
+    },
+    {
+      "id": 32441,
+      "code": "SM-032441",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-02T18:10:00Z",
+      "probability": 0.24079371988773346,
+      "weather_index": 0.152,
+      "congestion_index": 0.651
+    },
+    {
+      "id": 32442,
+      "code": "SM-032442",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-02T18:20:00Z",
+      "probability": 0.138522207736969,
+      "weather_index": 0.139,
+      "congestion_index": 0.392
+    },
+    {
+      "id": 32443,
+      "code": "SM-032443",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-02T18:30:00Z",
+      "probability": 0.07562514394521713,
+      "weather_index": 0.02,
+      "congestion_index": 0.17
+    },
+    {
+      "id": 32444,
+      "code": "SM-032444",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-02T18:00:00Z",
+      "probability": 0.3058755099773407,
+      "weather_index": 0.13,
+      "congestion_index": 0.781
+    },
+    {
+      "id": 32445,
+      "code": "SM-032445",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-02T18:10:00Z",
+      "probability": 0.2051016241312027,
+      "weather_index": 0.188,
+      "congestion_index": 0.482
+    },
+    {
+      "id": 32446,
+      "code": "SM-032446",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-02T18:20:00Z",
+      "probability": 0.25241371989250183,
+      "weather_index": 0.403,
+      "congestion_index": 0.376
+    },
+    {
+      "id": 32447,
+      "code": "SM-032447",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-02T18:30:00Z",
+      "probability": 0.4106917381286621,
+      "weather_index": 0.427,
+      "congestion_index": 0.617
+    },
+    {
+      "id": 32448,
+      "code": "SM-032448",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-02T18:00:00Z",
+      "probability": 0.2844775319099426,
+      "weather_index": 0.306,
+      "congestion_index": 0.489
+    },
+    {
+      "id": 32449,
+      "code": "SM-032449",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-02T18:10:00Z",
+      "probability": 0.3762202560901642,
+      "weather_index": 0.118,
+      "congestion_index": 0.512
+    },
+    {
+      "id": 32450,
+      "code": "SM-032450",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-02T18:20:00Z",
+      "probability": 0.4993152618408203,
+      "weather_index": 0.24,
+      "congestion_index": 0.563
+    },
+    {
+      "id": 32451,
+      "code": "SM-032451",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-03T07:10:00Z",
+      "probability": 0.38458508253097534,
+      "weather_index": 0.384,
+      "congestion_index": 0.66
+    },
+    {
+      "id": 32452,
+      "code": "SM-032452",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-03T07:20:00Z",
+      "probability": 0.23480774462223053,
+      "weather_index": 0.169,
+      "congestion_index": 0.596
+    },
+    {
+      "id": 32453,
+      "code": "SM-032453",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-03T07:30:00Z",
+      "probability": 0.5958553552627563,
+      "weather_index": 0.386,
+      "congestion_index": 0.477
+    },
+    {
+      "id": 32454,
+      "code": "SM-032454",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-03T07:00:00Z",
+      "probability": 0.6870520710945129,
+      "weather_index": 0.541,
+      "congestion_index": 0.539
+    },
+    {
+      "id": 32455,
+      "code": "SM-032455",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-03T07:10:00Z",
+      "probability": 0.37453824281692505,
+      "weather_index": 0.265,
+      "congestion_index": 0.776
+    },
+    {
+      "id": 32456,
+      "code": "SM-032456",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-03T07:20:00Z",
+      "probability": 0.3313324749469757,
+      "weather_index": 0.319,
+      "congestion_index": 0.587
+    },
+    {
+      "id": 32457,
+      "code": "SM-032457",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-03T07:30:00Z",
+      "probability": 0.42740553617477417,
+      "weather_index": 0.334,
+      "congestion_index": 0.259
+    },
+    {
+      "id": 32458,
+      "code": "SM-032458",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-03T07:00:00Z",
+      "probability": 0.620806097984314,
+      "weather_index": 0.124,
+      "congestion_index": 0.849
+    },
+    {
+      "id": 32459,
+      "code": "SM-032459",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-03T07:10:00Z",
+      "probability": 0.1518198847770691,
+      "weather_index": 0.188,
+      "congestion_index": 0.381
+    },
+    {
+      "id": 32460,
+      "code": "SM-032460",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-03T07:20:00Z",
+      "probability": 0.5141060948371887,
+      "weather_index": 0.341,
+      "congestion_index": 0.928
+    },
+    {
+      "id": 32461,
+      "code": "SM-032461",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-03T07:30:00Z",
+      "probability": 0.18391934037208557,
+      "weather_index": 0.223,
+      "congestion_index": 0.41
+    },
+    {
+      "id": 32462,
+      "code": "SM-032462",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-03T07:00:00Z",
+      "probability": 0.09550435096025467,
+      "weather_index": 0.131,
+      "congestion_index": 0.182
+    },
+    {
+      "id": 32463,
+      "code": "SM-032463",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-03T07:10:00Z",
+      "probability": 0.24479518830776215,
+      "weather_index": 0.472,
+      "congestion_index": 0.274
+    },
+    {
+      "id": 32464,
+      "code": "SM-032464",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-03T07:20:00Z",
+      "probability": 0.12312842905521393,
+      "weather_index": 0.28,
+      "congestion_index": 0.187
+    },
+    {
+      "id": 32465,
+      "code": "SM-032465",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-03T07:30:00Z",
+      "probability": 0.2864154279232025,
+      "weather_index": 0.367,
+      "congestion_index": 0.478
+    },
+    {
+      "id": 32466,
+      "code": "SM-032466",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-03T07:00:00Z",
+      "probability": 0.21603785455226898,
+      "weather_index": 0.077,
+      "congestion_index": 0.682
+    },
+    {
+      "id": 32467,
+      "code": "SM-032467",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-03T07:10:00Z",
+      "probability": 0.33225998282432556,
+      "weather_index": 0.446,
+      "congestion_index": 0.445
+    },
+    {
+      "id": 32468,
+      "code": "SM-032468",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-03T07:20:00Z",
+      "probability": 0.21229690313339233,
+      "weather_index": 0.219,
+      "congestion_index": 0.478
+    },
+    {
+      "id": 32469,
+      "code": "SM-032469",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-03T07:30:00Z",
+      "probability": 0.6634723544120789,
+      "weather_index": 0.502,
+      "congestion_index": 0.952
+    },
+    {
+      "id": 32470,
+      "code": "SM-032470",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-03T07:00:00Z",
+      "probability": 0.2115658074617386,
+      "weather_index": 0.214,
+      "congestion_index": 0.476
+    },
+    {
+      "id": 32471,
+      "code": "SM-032471",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-03T07:10:00Z",
+      "probability": 0.4730672836303711,
+      "weather_index": 0.036,
+      "congestion_index": 0.709
+    },
+    {
+      "id": 32472,
+      "code": "SM-032472",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-03T07:20:00Z",
+      "probability": 0.47907254099845886,
+      "weather_index": 0.266,
+      "congestion_index": 0.433
+    },
+    {
+      "id": 32473,
+      "code": "SM-032473",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-03T12:10:00Z",
+      "probability": 0.2560795247554779,
+      "weather_index": 0.431,
+      "congestion_index": 0.331
+    },
+    {
+      "id": 32474,
+      "code": "SM-032474",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-03T12:20:00Z",
+      "probability": 0.21552522480487823,
+      "weather_index": 0.158,
+      "congestion_index": 0.548
+    },
+    {
+      "id": 32475,
+      "code": "SM-032475",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-03T12:00:00Z",
+      "probability": 0.3609367609024048,
+      "weather_index": 0.05,
+      "congestion_index": 0.521
+    },
+    {
+      "id": 32476,
+      "code": "SM-032476",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-03T12:10:00Z",
+      "probability": 0.3486185669898987,
+      "weather_index": 0.46,
+      "congestion_index": 0.478
+    },
+    {
+      "id": 32477,
+      "code": "SM-032477",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-03T12:30:00Z",
+      "probability": 0.44310158491134644,
+      "weather_index": 0.227,
+      "congestion_index": 0.456
+    },
+    {
+      "id": 32478,
+      "code": "SM-032478",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-03T12:00:00Z",
+      "probability": 0.647794246673584,
+      "weather_index": 0.47,
+      "congestion_index": 0.472
+    },
+    {
+      "id": 32479,
+      "code": "SM-032479",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-03T12:20:00Z",
+      "probability": 0.2693364918231964,
+      "weather_index": 0.276,
+      "congestion_index": 0.511
+    },
+    {
+      "id": 32480,
+      "code": "SM-032480",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-03T12:30:00Z",
+      "probability": 0.21161815524101257,
+      "weather_index": 0.356,
+      "congestion_index": 0.353
+    },
+    {
+      "id": 32481,
+      "code": "SM-032481",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-03T12:10:00Z",
+      "probability": 0.47372516989707947,
+      "weather_index": 0.466,
+      "congestion_index": 0.637
+    },
+    {
+      "id": 32482,
+      "code": "SM-032482",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-03T12:20:00Z",
+      "probability": 0.30154287815093994,
+      "weather_index": 0.289,
+      "congestion_index": 0.524
+    },
+    {
+      "id": 32483,
+      "code": "SM-032483",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-03T12:00:00Z",
+      "probability": 0.2376122623682022,
+      "weather_index": 0.225,
+      "congestion_index": 0.521
+    },
+    {
+      "id": 32484,
+      "code": "SM-032484",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-03T12:10:00Z",
+      "probability": 0.4037981629371643,
+      "weather_index": 0.479,
+      "congestion_index": 0.447
+    },
+    {
+      "id": 32485,
+      "code": "SM-032485",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-03T12:30:00Z",
+      "probability": 0.15824951231479645,
+      "weather_index": 0.269,
+      "congestion_index": 0.273
+    },
+    {
+      "id": 32486,
+      "code": "SM-032486",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-03T12:00:00Z",
+      "probability": 0.2837902903556824,
+      "weather_index": 0.288,
+      "congestion_index": 0.49
+    },
+    {
+      "id": 32487,
+      "code": "SM-032487",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-03T12:20:00Z",
+      "probability": 0.5897864699363708,
+      "weather_index": 0.204,
+      "congestion_index": 0.738
+    },
+    {
+      "id": 32488,
+      "code": "SM-032488",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-03T18:10:00Z",
+      "probability": 0.35384753346443176,
+      "weather_index": 0.444,
+      "congestion_index": 0.548
+    },
+    {
+      "id": 32489,
+      "code": "SM-032489",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-03T18:20:00Z",
+      "probability": 0.32502642273902893,
+      "weather_index": 0.161,
+      "congestion_index": 0.807
+    },
+    {
+      "id": 32490,
+      "code": "SM-032490",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-03T18:30:00Z",
+      "probability": 0.446205735206604,
+      "weather_index": 0.101,
+      "congestion_index": 0.582
+    },
+    {
+      "id": 32491,
+      "code": "SM-032491",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-03T18:00:00Z",
+      "probability": 0.6079484224319458,
+      "weather_index": 0.218,
+      "congestion_index": 0.743
+    },
+    {
+      "id": 32492,
+      "code": "SM-032492",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-03T18:10:00Z",
+      "probability": 0.3354441523551941,
+      "weather_index": 0.348,
+      "congestion_index": 0.586
+    },
+    {
+      "id": 32493,
+      "code": "SM-032493",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-03T18:20:00Z",
+      "probability": 0.235594242811203,
+      "weather_index": 0.406,
+      "congestion_index": 0.335
+    },
+    {
+      "id": 32494,
+      "code": "SM-032494",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-03T18:30:00Z",
+      "probability": 0.586679995059967,
+      "weather_index": 0.143,
+      "congestion_index": 0.762
+    },
+    {
+      "id": 32495,
+      "code": "SM-032495",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-03T18:00:00Z",
+      "probability": 0.4688912034034729,
+      "weather_index": 0.123,
+      "congestion_index": 0.602
+    },
+    {
+      "id": 32496,
+      "code": "SM-032496",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-03T18:10:00Z",
+      "probability": 0.1190558671951294,
+      "weather_index": 0.114,
+      "congestion_index": 0.358
+    },
+    {
+      "id": 32497,
+      "code": "SM-032497",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-03T18:20:00Z",
+      "probability": 0.6159840226173401,
+      "weather_index": 0.48,
+      "congestion_index": 0.89
+    },
+    {
+      "id": 32498,
+      "code": "SM-032498",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-03T18:30:00Z",
+      "probability": 0.29070964455604553,
+      "weather_index": 0.22,
+      "congestion_index": 0.709
+    },
+    {
+      "id": 32499,
+      "code": "SM-032499",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-03T18:00:00Z",
+      "probability": 0.582261860370636,
+      "weather_index": 0.349,
+      "congestion_index": 1.0
+    },
+    {
+      "id": 32500,
+      "code": "SM-032500",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-03T18:10:00Z",
+      "probability": 0.19588927924633026,
+      "weather_index": 0.247,
+      "congestion_index": 0.418
+    },
+    {
+      "id": 32501,
+      "code": "SM-032501",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-03T18:20:00Z",
+      "probability": 0.19989924132823944,
+      "weather_index": 0.108,
+      "congestion_index": 0.572
+    },
+    {
+      "id": 32502,
+      "code": "SM-032502",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-03T18:30:00Z",
+      "probability": 0.2962091565132141,
+      "weather_index": 0.201,
+      "congestion_index": 0.733
+    },
+    {
+      "id": 32503,
+      "code": "SM-032503",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-03T18:00:00Z",
+      "probability": 0.23865242302417755,
+      "weather_index": 0.3,
+      "congestion_index": 0.388
+    },
+    {
+      "id": 32504,
+      "code": "SM-032504",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-03T18:10:00Z",
+      "probability": 0.21577151119709015,
+      "weather_index": 0.333,
+      "congestion_index": 0.376
+    },
+    {
+      "id": 32505,
+      "code": "SM-032505",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-03T18:20:00Z",
+      "probability": 0.1800287961959839,
+      "weather_index": 0.225,
+      "congestion_index": 0.395
+    },
+    {
+      "id": 32506,
+      "code": "SM-032506",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-03T18:30:00Z",
+      "probability": 0.392362117767334,
+      "weather_index": 0.153,
+      "congestion_index": 0.929
+    },
+    {
+      "id": 32507,
+      "code": "SM-032507",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-03T18:00:00Z",
+      "probability": 0.19258886575698853,
+      "weather_index": 0.048,
+      "congestion_index": 0.66
+    },
+    {
+      "id": 32508,
+      "code": "SM-032508",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-03T18:10:00Z",
+      "probability": 0.3118131458759308,
+      "weather_index": 0.132,
+      "congestion_index": 0.351
+    },
+    {
+      "id": 32509,
+      "code": "SM-032509",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-03T18:20:00Z",
+      "probability": 0.38025963306427,
+      "weather_index": 0.174,
+      "congestion_index": 0.453
+    },
+    {
+      "id": 32510,
+      "code": "SM-032510",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-04T07:10:00Z",
+      "probability": 0.18017129600048065,
+      "weather_index": 0.228,
+      "congestion_index": 0.428
+    },
+    {
+      "id": 32511,
+      "code": "SM-032511",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-04T07:20:00Z",
+      "probability": 0.1701948493719101,
+      "weather_index": 0.064,
+      "congestion_index": 0.507
+    },
+    {
+      "id": 32512,
+      "code": "SM-032512",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-04T07:30:00Z",
+      "probability": 0.7828097939491272,
+      "weather_index": 0.433,
+      "congestion_index": 0.755
+    },
+    {
+      "id": 32513,
+      "code": "SM-032513",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-04T07:00:00Z",
+      "probability": 0.4585115909576416,
+      "weather_index": 0.157,
+      "congestion_index": 0.576
+    },
+    {
+      "id": 32514,
+      "code": "SM-032514",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-04T07:10:00Z",
+      "probability": 0.3159385919570923,
+      "weather_index": 0.271,
+      "congestion_index": 0.667
+    },
+    {
+      "id": 32515,
+      "code": "SM-032515",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-04T07:20:00Z",
+      "probability": 0.471574991941452,
+      "weather_index": 0.251,
+      "congestion_index": 0.961
+    },
+    {
+      "id": 32516,
+      "code": "SM-032516",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-04T07:30:00Z",
+      "probability": 0.4494602382183075,
+      "weather_index": 0.274,
+      "congestion_index": 0.371
+    },
+    {
+      "id": 32517,
+      "code": "SM-032517",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-04T07:00:00Z",
+      "probability": 0.5547625422477722,
+      "weather_index": 0.319,
+      "congestion_index": 0.545
+    },
+    {
+      "id": 32518,
+      "code": "SM-032518",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-04T07:10:00Z",
+      "probability": 0.33535200357437134,
+      "weather_index": 0.249,
+      "congestion_index": 0.721
+    },
+    {
+      "id": 32519,
+      "code": "SM-032519",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-04T07:20:00Z",
+      "probability": 0.23569869995117188,
+      "weather_index": 0.21,
+      "congestion_index": 0.565
+    },
+    {
+      "id": 32520,
+      "code": "SM-032520",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-04T07:30:00Z",
+      "probability": 0.48905545473098755,
+      "weather_index": 0.278,
+      "congestion_index": 0.904
+    },
+    {
+      "id": 32521,
+      "code": "SM-032521",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-04T07:00:00Z",
+      "probability": 0.24357834458351135,
+      "weather_index": 0.235,
+      "congestion_index": 0.559
+    },
+    {
+      "id": 32522,
+      "code": "SM-032522",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-04T07:10:00Z",
+      "probability": 0.23819178342819214,
+      "weather_index": 0.316,
+      "congestion_index": 0.429
+    },
+    {
+      "id": 32523,
+      "code": "SM-032523",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-04T07:20:00Z",
+      "probability": 0.3276275396347046,
+      "weather_index": 0.305,
+      "congestion_index": 0.616
+    },
+    {
+      "id": 32524,
+      "code": "SM-032524",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-04T07:30:00Z",
+      "probability": 0.36806726455688477,
+      "weather_index": 0.228,
+      "congestion_index": 0.815
+    },
+    {
+      "id": 32525,
+      "code": "SM-032525",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-04T07:00:00Z",
+      "probability": 0.23450778424739838,
+      "weather_index": 0.253,
+      "congestion_index": 0.464
+    },
+    {
+      "id": 32526,
+      "code": "SM-032526",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-04T07:10:00Z",
+      "probability": 0.35565847158432007,
+      "weather_index": 0.119,
+      "congestion_index": 0.855
+    },
+    {
+      "id": 32527,
+      "code": "SM-032527",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-04T07:20:00Z",
+      "probability": 0.348361611366272,
+      "weather_index": 0.219,
+      "congestion_index": 0.808
+    },
+    {
+      "id": 32528,
+      "code": "SM-032528",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-04T07:30:00Z",
+      "probability": 0.4362974762916565,
+      "weather_index": 0.286,
+      "congestion_index": 0.809
+    },
+    {
+      "id": 32529,
+      "code": "SM-032529",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-04T07:00:00Z",
+      "probability": 0.2586851716041565,
+      "weather_index": 0.196,
+      "congestion_index": 0.653
+    },
+    {
+      "id": 32530,
+      "code": "SM-032530",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-04T07:10:00Z",
+      "probability": 0.5446394085884094,
+      "weather_index": 0.362,
+      "congestion_index": 0.41
+    },
+    {
+      "id": 32531,
+      "code": "SM-032531",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-04T07:20:00Z",
+      "probability": 0.5043354630470276,
+      "weather_index": 0.246,
+      "congestion_index": 0.477
+    },
+    {
+      "id": 32532,
+      "code": "SM-032532",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-04T12:10:00Z",
+      "probability": 0.1496344804763794,
+      "weather_index": 0.19,
+      "congestion_index": 0.357
+    },
+    {
+      "id": 32533,
+      "code": "SM-032533",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-04T12:20:00Z",
+      "probability": 0.2742999196052551,
+      "weather_index": 0.446,
+      "congestion_index": 0.363
+    },
+    {
+      "id": 32534,
+      "code": "SM-032534",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-04T12:00:00Z",
+      "probability": 0.2416868954896927,
+      "weather_index": 0.076,
+      "congestion_index": 0.18
+    },
+    {
+      "id": 32535,
+      "code": "SM-032535",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-04T12:10:00Z",
+      "probability": 0.18101373314857483,
+      "weather_index": 0.29,
+      "congestion_index": 0.303
+    },
+    {
+      "id": 32536,
+      "code": "SM-032536",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-04T12:30:00Z",
+      "probability": 0.6056059002876282,
+      "weather_index": 0.411,
+      "congestion_index": 0.483
+    },
+    {
+      "id": 32537,
+      "code": "SM-032537",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-04T12:00:00Z",
+      "probability": 0.5287032723426819,
+      "weather_index": 0.288,
+      "congestion_index": 0.472
+    },
+    {
+      "id": 32538,
+      "code": "SM-032538",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-04T12:20:00Z",
+      "probability": 0.28705674409866333,
+      "weather_index": 0.336,
+      "congestion_index": 0.486
+    },
+    {
+      "id": 32539,
+      "code": "SM-032539",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-04T12:30:00Z",
+      "probability": 0.10654250532388687,
+      "weather_index": 0.162,
+      "congestion_index": 0.209
+    },
+    {
+      "id": 32540,
+      "code": "SM-032540",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-04T12:10:00Z",
+      "probability": 0.23819178342819214,
+      "weather_index": 0.346,
+      "congestion_index": 0.439
+    },
+    {
+      "id": 32541,
+      "code": "SM-032541",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-04T12:20:00Z",
+      "probability": 0.28776079416275024,
+      "weather_index": 0.583,
+      "congestion_index": 0.303
+    },
+    {
+      "id": 32542,
+      "code": "SM-032542",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-04T12:00:00Z",
+      "probability": 0.1460733711719513,
+      "weather_index": 0.134,
+      "congestion_index": 0.431
+    },
+    {
+      "id": 32543,
+      "code": "SM-032543",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-04T12:10:00Z",
+      "probability": 0.22335004806518555,
+      "weather_index": 0.171,
+      "congestion_index": 0.572
+    },
+    {
+      "id": 32544,
+      "code": "SM-032544",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-04T12:30:00Z",
+      "probability": 0.1604887694120407,
+      "weather_index": 0.237,
+      "congestion_index": 0.338
+    },
+    {
+      "id": 32545,
+      "code": "SM-032545",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-04T12:00:00Z",
+      "probability": 0.255232036113739,
+      "weather_index": 0.422,
+      "congestion_index": 0.331
+    },
+    {
+      "id": 32546,
+      "code": "SM-032546",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-04T12:20:00Z",
+      "probability": 0.3772488534450531,
+      "weather_index": 0.134,
+      "congestion_index": 0.505
+    },
+    {
+      "id": 32547,
+      "code": "SM-032547",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-04T18:10:00Z",
+      "probability": 0.21713730692863464,
+      "weather_index": 0.1,
+      "congestion_index": 0.608
+    },
+    {
+      "id": 32548,
+      "code": "SM-032548",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-04T18:20:00Z",
+      "probability": 0.19357550144195557,
+      "weather_index": 0.126,
+      "congestion_index": 0.528
+    },
+    {
+      "id": 32549,
+      "code": "SM-032549",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-04T18:30:00Z",
+      "probability": 0.6601123809814453,
+      "weather_index": 0.118,
+      "congestion_index": 0.903
+    },
+    {
+      "id": 32550,
+      "code": "SM-032550",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-04T18:00:00Z",
+      "probability": 0.5977290272712708,
+      "weather_index": 0.359,
+      "congestion_index": 0.523
+    },
+    {
+      "id": 32551,
+      "code": "SM-032551",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-04T18:10:00Z",
+      "probability": 0.12655335664749146,
+      "weather_index": 0.069,
+      "congestion_index": 0.442
+    },
+    {
+      "id": 32552,
+      "code": "SM-032552",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-04T18:20:00Z",
+      "probability": 0.2834870219230652,
+      "weather_index": 0.083,
+      "congestion_index": 0.817
+    },
+    {
+      "id": 32553,
+      "code": "SM-032553",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-04T18:30:00Z",
+      "probability": 0.5140490531921387,
+      "weather_index": 0.123,
+      "congestion_index": 0.733
+    },
+    {
+      "id": 32554,
+      "code": "SM-032554",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-04T18:00:00Z",
+      "probability": 0.7366611957550049,
+      "weather_index": 0.318,
+      "congestion_index": 0.769
+    },
+    {
+      "id": 32555,
+      "code": "SM-032555",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-04T18:10:00Z",
+      "probability": 0.33642062544822693,
+      "weather_index": 0.358,
+      "congestion_index": 0.586
+    },
+    {
+      "id": 32556,
+      "code": "SM-032556",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-04T18:20:00Z",
+      "probability": 0.19625551998615265,
+      "weather_index": 0.221,
+      "congestion_index": 0.446
+    },
+    {
+      "id": 32557,
+      "code": "SM-032557",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-04T18:30:00Z",
+      "probability": 0.40479761362075806,
+      "weather_index": 0.189,
+      "congestion_index": 0.863
+    },
+    {
+      "id": 32558,
+      "code": "SM-032558",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-04T18:00:00Z",
+      "probability": 0.7070241570472717,
+      "weather_index": 0.554,
+      "congestion_index": 0.983
+    },
+    {
+      "id": 32559,
+      "code": "SM-032559",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-04T18:10:00Z",
+      "probability": 0.2094067931175232,
+      "weather_index": 0.113,
+      "congestion_index": 0.58
+    },
+    {
+      "id": 32560,
+      "code": "SM-032560",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-04T18:20:00Z",
+      "probability": 0.3782004117965698,
+      "weather_index": 0.277,
+      "congestion_index": 0.756
+    },
+    {
+      "id": 32561,
+      "code": "SM-032561",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-04T18:30:00Z",
+      "probability": 0.24712474644184113,
+      "weather_index": 0.248,
+      "congestion_index": 0.481
+    },
+    {
+      "id": 32562,
+      "code": "SM-032562",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-04T18:00:00Z",
+      "probability": 0.21884331107139587,
+      "weather_index": 0.137,
+      "congestion_index": 0.623
+    },
+    {
+      "id": 32563,
+      "code": "SM-032563",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-04T18:10:00Z",
+      "probability": 0.2027941197156906,
+      "weather_index": 0.14,
+      "congestion_index": 0.571
+    },
+    {
+      "id": 32564,
+      "code": "SM-032564",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-04T18:20:00Z",
+      "probability": 0.40565618872642517,
+      "weather_index": 0.144,
+      "congestion_index": 0.866
+    },
+    {
+      "id": 32565,
+      "code": "SM-032565",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-04T18:30:00Z",
+      "probability": 0.48387423157691956,
+      "weather_index": 0.516,
+      "congestion_index": 0.629
+    },
+    {
+      "id": 32566,
+      "code": "SM-032566",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-04T18:00:00Z",
+      "probability": 0.3681309223175049,
+      "weather_index": 0.127,
+      "congestion_index": 0.887
+    },
+    {
+      "id": 32567,
+      "code": "SM-032567",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-04T18:10:00Z",
+      "probability": 0.5829732418060303,
+      "weather_index": 0.343,
+      "congestion_index": 0.472
+    },
+    {
+      "id": 32568,
+      "code": "SM-032568",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-04T18:20:00Z",
+      "probability": 0.3336241543292999,
+      "weather_index": 0.124,
+      "congestion_index": 0.4
+    },
+    {
+      "id": 32569,
+      "code": "SM-032569",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-05T07:10:00Z",
+      "probability": 0.17505857348442078,
+      "weather_index": 0.202,
+      "congestion_index": 0.393
+    },
+    {
+      "id": 32570,
+      "code": "SM-032570",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-05T07:20:00Z",
+      "probability": 0.48632192611694336,
+      "weather_index": 0.336,
+      "congestion_index": 0.842
+    },
+    {
+      "id": 32571,
+      "code": "SM-032571",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-05T07:30:00Z",
+      "probability": 0.8027418255805969,
+      "weather_index": 0.493,
+      "congestion_index": 0.752
+    },
+    {
+      "id": 32572,
+      "code": "SM-032572",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-05T07:00:00Z",
+      "probability": 0.6890465617179871,
+      "weather_index": 0.543,
+      "congestion_index": 0.547
+    },
+    {
+      "id": 32573,
+      "code": "SM-032573",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-05T07:10:00Z",
+      "probability": 0.23270666599273682,
+      "weather_index": 0.252,
+      "congestion_index": 0.452
+    },
+    {
+      "id": 32574,
+      "code": "SM-032574",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-05T07:20:00Z",
+      "probability": 0.3035840392112732,
+      "weather_index": 0.233,
+      "congestion_index": 0.738
+    },
+    {
+      "id": 32575,
+      "code": "SM-032575",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-05T07:30:00Z",
+      "probability": 0.6144496202468872,
+      "weather_index": 0.476,
+      "congestion_index": 0.354
+    },
+    {
+      "id": 32576,
+      "code": "SM-032576",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-05T07:00:00Z",
+      "probability": 0.621222734451294,
+      "weather_index": 0.075,
+      "congestion_index": 0.899
+    },
+    {
+      "id": 32577,
+      "code": "SM-032577",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-05T07:10:00Z",
+      "probability": 0.22603043913841248,
+      "weather_index": 0.219,
+      "congestion_index": 0.51
+    },
+    {
+      "id": 32578,
+      "code": "SM-032578",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-05T07:20:00Z",
+      "probability": 0.3935350179672241,
+      "weather_index": 0.528,
+      "congestion_index": 0.426
+    },
+    {
+      "id": 32579,
+      "code": "SM-032579",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-05T07:30:00Z",
+      "probability": 0.14803573489189148,
+      "weather_index": 0.062,
+      "congestion_index": 0.449
+    },
+    {
+      "id": 32580,
+      "code": "SM-032580",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-05T07:00:00Z",
+      "probability": 0.24758665263652802,
+      "weather_index": 0.184,
+      "congestion_index": 0.595
+    },
+    {
+      "id": 32581,
+      "code": "SM-032581",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-05T07:10:00Z",
+      "probability": 0.28122276067733765,
+      "weather_index": 0.337,
+      "congestion_index": 0.478
+    },
+    {
+      "id": 32582,
+      "code": "SM-032582",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-05T07:20:00Z",
+      "probability": 0.17953023314476013,
+      "weather_index": 0.293,
+      "congestion_index": 0.277
+    },
+    {
+      "id": 32583,
+      "code": "SM-032583",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-05T07:30:00Z",
+      "probability": 0.3109588325023651,
+      "weather_index": 0.277,
+      "congestion_index": 0.617
+    },
+    {
+      "id": 32584,
+      "code": "SM-032584",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-05T07:00:00Z",
+      "probability": 0.1273619681596756,
+      "weather_index": 0.127,
+      "congestion_index": 0.361
+    },
+    {
+      "id": 32585,
+      "code": "SM-032585",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-05T07:10:00Z",
+      "probability": 0.3710131049156189,
+      "weather_index": 0.371,
+      "congestion_index": 0.658
+    },
+    {
+      "id": 32586,
+      "code": "SM-032586",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-05T07:20:00Z",
+      "probability": 0.2765890955924988,
+      "weather_index": 0.326,
+      "congestion_index": 0.468
+    },
+    {
+      "id": 32587,
+      "code": "SM-032587",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-05T07:30:00Z",
+      "probability": 0.2635425627231598,
+      "weather_index": 0.257,
+      "congestion_index": 0.53
+    },
+    {
+      "id": 32588,
+      "code": "SM-032588",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-05T07:00:00Z",
+      "probability": 0.2176472246646881,
+      "weather_index": 0.357,
+      "congestion_index": 0.367
+    },
+    {
+      "id": 32589,
+      "code": "SM-032589",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-05T07:10:00Z",
+      "probability": 0.8338319659233093,
+      "weather_index": 0.437,
+      "congestion_index": 0.873
+    },
+    {
+      "id": 32590,
+      "code": "SM-032590",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-05T07:20:00Z",
+      "probability": 0.6293970942497253,
+      "weather_index": 0.283,
+      "congestion_index": 0.636
+    },
+    {
+      "id": 32591,
+      "code": "SM-032591",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-05T12:10:00Z",
+      "probability": 0.18101373314857483,
+      "weather_index": 0.3,
+      "congestion_index": 0.303
+    },
+    {
+      "id": 32592,
+      "code": "SM-032592",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-05T12:20:00Z",
+      "probability": 0.11542835831642151,
+      "weather_index": 0.128,
+      "congestion_index": 0.347
+    },
+    {
+      "id": 32593,
+      "code": "SM-032593",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-05T12:00:00Z",
+      "probability": 0.5099860429763794,
+      "weather_index": 0.144,
+      "congestion_index": 0.642
+    },
+    {
+      "id": 32594,
+      "code": "SM-032594",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-05T12:10:00Z",
+      "probability": 0.30183175206184387,
+      "weather_index": 0.241,
+      "congestion_index": 0.697
+    },
+    {
+      "id": 32595,
+      "code": "SM-032595",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-05T12:30:00Z",
+      "probability": 0.4372483193874359,
+      "weather_index": 0.458,
+      "congestion_index": 0.253
+    },
+    {
+      "id": 32596,
+      "code": "SM-032596",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-05T12:00:00Z",
+      "probability": 0.6755875945091248,
+      "weather_index": 0.517,
+      "congestion_index": 0.479
+    },
+    {
+      "id": 32597,
+      "code": "SM-032597",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-05T12:20:00Z",
+      "probability": 0.22349853813648224,
+      "weather_index": 0.364,
+      "congestion_index": 0.369
+    },
+    {
+      "id": 32598,
+      "code": "SM-032598",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-05T12:30:00Z",
+      "probability": 0.14340709149837494,
+      "weather_index": 0.194,
+      "congestion_index": 0.261
+    },
+    {
+      "id": 32599,
+      "code": "SM-032599",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-05T12:10:00Z",
+      "probability": 0.2490653246641159,
+      "weather_index": 0.175,
+      "congestion_index": 0.675
+    },
+    {
+      "id": 32600,
+      "code": "SM-032600",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-05T12:20:00Z",
+      "probability": 0.28705674409866333,
+      "weather_index": 0.355,
+      "congestion_index": 0.497
+    },
+    {
+      "id": 32601,
+      "code": "SM-032601",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-05T12:00:00Z",
+      "probability": 0.20472638309001923,
+      "weather_index": 0.373,
+      "congestion_index": 0.287
+    },
+    {
+      "id": 32602,
+      "code": "SM-032602",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-05T12:10:00Z",
+      "probability": 0.09170370548963547,
+      "weather_index": 0.199,
+      "congestion_index": 0.114
+    },
+    {
+      "id": 32603,
+      "code": "SM-032603",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-05T12:30:00Z",
+      "probability": 0.15698856115341187,
+      "weather_index": 0.099,
+      "congestion_index": 0.467
+    },
+    {
+      "id": 32604,
+      "code": "SM-032604",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-05T12:00:00Z",
+      "probability": 0.11231515556573868,
+      "weather_index": 0.105,
+      "congestion_index": 0.246
+    },
+    {
+      "id": 32605,
+      "code": "SM-032605",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-05T12:20:00Z",
+      "probability": 0.2252964973449707,
+      "weather_index": 0.11,
+      "congestion_index": 0.161
+    },
+    {
+      "id": 32606,
+      "code": "SM-032606",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-05T18:10:00Z",
+      "probability": 0.2328643649816513,
+      "weather_index": 0.172,
+      "congestion_index": 0.58
+    },
+    {
+      "id": 32607,
+      "code": "SM-032607",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-05T18:20:00Z",
+      "probability": 0.21552522480487823,
+      "weather_index": 0.161,
+      "congestion_index": 0.538
+    },
+    {
+      "id": 32608,
+      "code": "SM-032608",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-05T18:30:00Z",
+      "probability": 0.6917804479598999,
+      "weather_index": 0.223,
+      "congestion_index": 0.816
+    },
+    {
+      "id": 32609,
+      "code": "SM-032609",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-05T18:00:00Z",
+      "probability": 0.5113580226898193,
+      "weather_index": 0.134,
+      "congestion_index": 0.681
+    },
+    {
+      "id": 32610,
+      "code": "SM-032610",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-05T18:10:00Z",
+      "probability": 0.12150213122367859,
+      "weather_index": 0.12,
+      "congestion_index": 0.372
+    },
+    {
+      "id": 32611,
+      "code": "SM-032611",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-05T18:20:00Z",
+      "probability": 0.23223410546779633,
+      "weather_index": 0.224,
+      "congestion_index": 0.516
+    },
+    {
+      "id": 32612,
+      "code": "SM-032612",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-05T18:30:00Z",
+      "probability": 0.5087196230888367,
+      "weather_index": 0.092,
+      "congestion_index": 0.748
+    },
+    {
+      "id": 32613,
+      "code": "SM-032613",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-05T18:00:00Z",
+      "probability": 0.7622507214546204,
+      "weather_index": 0.51,
+      "congestion_index": 0.615
+    },
+    {
+      "id": 32614,
+      "code": "SM-032614",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-05T18:10:00Z",
+      "probability": 0.2689792513847351,
+      "weather_index": 0.165,
+      "congestion_index": 0.723
+    },
+    {
+      "id": 32615,
+      "code": "SM-032615",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-05T18:20:00Z",
+      "probability": 0.1675187200307846,
+      "weather_index": 0.189,
+      "congestion_index": 0.411
+    },
+    {
+      "id": 32616,
+      "code": "SM-032616",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-05T18:30:00Z",
+      "probability": 0.38431134819984436,
+      "weather_index": 0.249,
+      "congestion_index": 0.83
+    },
+    {
+      "id": 32617,
+      "code": "SM-032617",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-05T18:00:00Z",
+      "probability": 0.5202001929283142,
+      "weather_index": 0.448,
+      "congestion_index": 0.797
+    },
+    {
+      "id": 32618,
+      "code": "SM-032618",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-05T18:10:00Z",
+      "probability": 0.4468558132648468,
+      "weather_index": 0.44,
+      "congestion_index": 0.649
+    },
+    {
+      "id": 32619,
+      "code": "SM-032619",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-05T18:20:00Z",
+      "probability": 0.3001345098018646,
+      "weather_index": 0.288,
+      "congestion_index": 0.555
+    },
+    {
+      "id": 32620,
+      "code": "SM-032620",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-05T18:30:00Z",
+      "probability": 0.3109588325023651,
+      "weather_index": 0.274,
+      "congestion_index": 0.624
+    },
+    {
+      "id": 32621,
+      "code": "SM-032621",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-05T18:00:00Z",
+      "probability": 0.3525506556034088,
+      "weather_index": 0.263,
+      "congestion_index": 0.727
+    },
+    {
+      "id": 32622,
+      "code": "SM-032622",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-05T18:10:00Z",
+      "probability": 0.28753039240837097,
+      "weather_index": 0.14,
+      "congestion_index": 0.763
+    },
+    {
+      "id": 32623,
+      "code": "SM-032623",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-05T18:20:00Z",
+      "probability": 0.33454522490501404,
+      "weather_index": 0.435,
+      "congestion_index": 0.46
+    },
+    {
+      "id": 32624,
+      "code": "SM-032624",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-05T18:30:00Z",
+      "probability": 0.49288228154182434,
+      "weather_index": 0.39,
+      "congestion_index": 0.823
+    },
+    {
+      "id": 32625,
+      "code": "SM-032625",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-05T18:00:00Z",
+      "probability": 0.2384089082479477,
+      "weather_index": 0.163,
+      "congestion_index": 0.638
+    },
+    {
+      "id": 32626,
+      "code": "SM-032626",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-05T18:10:00Z",
+      "probability": 0.4602453112602234,
+      "weather_index": 0.222,
+      "congestion_index": 0.486
+    },
+    {
+      "id": 32627,
+      "code": "SM-032627",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-05T18:20:00Z",
+      "probability": 0.5337604284286499,
+      "weather_index": 0.191,
+      "congestion_index": 0.641
+    },
+    {
+      "id": 32628,
+      "code": "SM-032628",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-06T07:10:00Z",
+      "probability": 0.13006745278835297,
+      "weather_index": 0.073,
+      "congestion_index": 0.443
+    },
+    {
+      "id": 32629,
+      "code": "SM-032629",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-06T07:20:00Z",
+      "probability": 0.5242383480072021,
+      "weather_index": 0.399,
+      "congestion_index": 0.859
+    },
+    {
+      "id": 32630,
+      "code": "SM-032630",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-06T07:30:00Z",
+      "probability": 0.35548606514930725,
+      "weather_index": 0.016,
+      "congestion_index": 0.55
+    },
+    {
+      "id": 32631,
+      "code": "SM-032631",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-06T07:00:00Z",
+      "probability": 0.6756146550178528,
+      "weather_index": 0.144,
+      "congestion_index": 0.926
+    },
+    {
+      "id": 32632,
+      "code": "SM-032632",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-06T07:10:00Z",
+      "probability": 0.21681812405586243,
+      "weather_index": 0.385,
+      "congestion_index": 0.344
+    },
+    {
+      "id": 32633,
+      "code": "SM-032633",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-06T07:20:00Z",
+      "probability": 0.19198067486286163,
+      "weather_index": 0.103,
+      "congestion_index": 0.559
+    },
+    {
+      "id": 32634,
+      "code": "SM-032634",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-06T07:30:00Z",
+      "probability": 0.5901873707771301,
+      "weather_index": 0.219,
+      "congestion_index": 0.671
+    },
+    {
+      "id": 32635,
+      "code": "SM-032635",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-06T07:00:00Z",
+      "probability": 0.4509572684764862,
+      "weather_index": 0.042,
+      "congestion_index": 0.661
+    },
+    {
+      "id": 32636,
+      "code": "SM-032636",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-06T07:10:00Z",
+      "probability": 0.22582858800888062,
+      "weather_index": 0.404,
+      "congestion_index": 0.305
+    },
+    {
+      "id": 32637,
+      "code": "SM-032637",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-06T07:20:00Z",
+      "probability": 0.21245016157627106,
+      "weather_index": 0.523,
+      "congestion_index": 0.165
+    },
+    {
+      "id": 32638,
+      "code": "SM-032638",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-06T07:30:00Z",
+      "probability": 0.28630301356315613,
+      "weather_index": 0.43,
+      "congestion_index": 0.381
+    },
+    {
+      "id": 32639,
+      "code": "SM-032639",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-06T07:00:00Z",
+      "probability": 0.5192482471466064,
+      "weather_index": 0.41,
+      "congestion_index": 0.819
+    },
+    {
+      "id": 32640,
+      "code": "SM-032640",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-06T07:10:00Z",
+      "probability": 0.30591675639152527,
+      "weather_index": 0.132,
+      "congestion_index": 0.805
+    },
+    {
+      "id": 32641,
+      "code": "SM-032641",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-06T07:20:00Z",
+      "probability": 0.24375779926776886,
+      "weather_index": 0.15,
+      "congestion_index": 0.668
+    },
+    {
+      "id": 32642,
+      "code": "SM-032642",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-06T07:30:00Z",
+      "probability": 0.5708385109901428,
+      "weather_index": 0.467,
+      "congestion_index": 0.805
+    },
+    {
+      "id": 32643,
+      "code": "SM-032643",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-06T07:00:00Z",
+      "probability": 0.22259022295475006,
+      "weather_index": 0.132,
+      "congestion_index": 0.643
+    },
+    {
+      "id": 32644,
+      "code": "SM-032644",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-06T07:10:00Z",
+      "probability": 0.3022916913032532,
+      "weather_index": 0.302,
+      "congestion_index": 0.535
+    },
+    {
+      "id": 32645,
+      "code": "SM-032645",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-06T07:20:00Z",
+      "probability": 0.1919533908367157,
+      "weather_index": 0.124,
+      "congestion_index": 0.548
+    },
+    {
+      "id": 32646,
+      "code": "SM-032646",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-06T07:30:00Z",
+      "probability": 0.2730497121810913,
+      "weather_index": 0.172,
+      "congestion_index": 0.753
+    },
+    {
+      "id": 32647,
+      "code": "SM-032647",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-06T07:00:00Z",
+      "probability": 0.3804047405719757,
+      "weather_index": 0.251,
+      "congestion_index": 0.824
+    },
+    {
+      "id": 32648,
+      "code": "SM-032648",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-06T07:10:00Z",
+      "probability": 0.6127486228942871,
+      "weather_index": 0.053,
+      "congestion_index": 0.904
+    },
+    {
+      "id": 32649,
+      "code": "SM-032649",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-06T07:20:00Z",
+      "probability": 0.3126983046531677,
+      "weather_index": 0.132,
+      "congestion_index": 0.305
+    },
+    {
+      "id": 32650,
+      "code": "SM-032650",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-06T12:10:00Z",
+      "probability": 0.13634853065013885,
+      "weather_index": 0.337,
+      "congestion_index": 0.164
+    },
+    {
+      "id": 32651,
+      "code": "SM-032651",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-06T12:20:00Z",
+      "probability": 0.13654740154743195,
+      "weather_index": 0.085,
+      "congestion_index": 0.398
+    },
+    {
+      "id": 32652,
+      "code": "SM-032652",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-06T12:00:00Z",
+      "probability": 0.48301029205322266,
+      "weather_index": 0.294,
+      "congestion_index": 0.337
+    },
+    {
+      "id": 32653,
+      "code": "SM-032653",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-06T12:10:00Z",
+      "probability": 0.2269904911518097,
+      "weather_index": 0.428,
+      "congestion_index": 0.278
+    },
+    {
+      "id": 32654,
+      "code": "SM-032654",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-06T12:30:00Z",
+      "probability": 0.5423568487167358,
+      "weather_index": 0.36,
+      "congestion_index": 0.426
+    },
+    {
+      "id": 32655,
+      "code": "SM-032655",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-06T12:00:00Z",
+      "probability": 0.4634121060371399,
+      "weather_index": 0.227,
+      "congestion_index": 0.491
+    },
+    {
+      "id": 32656,
+      "code": "SM-032656",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-06T12:20:00Z",
+      "probability": 0.48496749997138977,
+      "weather_index": 0.526,
+      "congestion_index": 0.602
+    },
+    {
+      "id": 32657,
+      "code": "SM-032657",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-06T12:30:00Z",
+      "probability": 0.16369931399822235,
+      "weather_index": 0.218,
+      "congestion_index": 0.344
+    },
+    {
+      "id": 32658,
+      "code": "SM-032658",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-06T12:10:00Z",
+      "probability": 0.06953108310699463,
+      "weather_index": 0.043,
+      "congestion_index": 0.11
+    },
+    {
+      "id": 32659,
+      "code": "SM-032659",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-06T12:20:00Z",
+      "probability": 0.28705674409866333,
+      "weather_index": 0.332,
+      "congestion_index": 0.502
+    },
+    {
+      "id": 32660,
+      "code": "SM-032660",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-06T12:00:00Z",
+      "probability": 0.1434943675994873,
+      "weather_index": 0.119,
+      "congestion_index": 0.411
+    },
+    {
+      "id": 32661,
+      "code": "SM-032661",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-06T12:10:00Z",
+      "probability": 0.07555247843265533,
+      "weather_index": 0.066,
+      "congestion_index": 0.17
+    },
+    {
+      "id": 32662,
+      "code": "SM-032662",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-06T12:30:00Z",
+      "probability": 0.08767130225896835,
+      "weather_index": 0.143,
+      "congestion_index": 0.0
+    },
+    {
+      "id": 32663,
+      "code": "SM-032663",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-06T12:00:00Z",
+      "probability": 0.18456807732582092,
+      "weather_index": 0.174,
+      "congestion_index": 0.478
+    },
+    {
+      "id": 32664,
+      "code": "SM-032664",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-06T12:20:00Z",
+      "probability": 0.393581748008728,
+      "weather_index": 0.18,
+      "congestion_index": 0.434
+    },
+    {
+      "id": 32665,
+      "code": "SM-032665",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-06T18:10:00Z",
+      "probability": 0.19181540608406067,
+      "weather_index": 0.044,
+      "congestion_index": 0.616
+    },
+    {
+      "id": 32666,
+      "code": "SM-032666",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-06T18:20:00Z",
+      "probability": 0.15324829518795013,
+      "weather_index": 0.184,
+      "congestion_index": 0.366
+    },
+    {
+      "id": 32667,
+      "code": "SM-032667",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-06T18:30:00Z",
+      "probability": 0.40071338415145874,
+      "weather_index": 0.184,
+      "congestion_index": 0.42
+    },
+    {
+      "id": 32668,
+      "code": "SM-032668",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-06T18:00:00Z",
+      "probability": 0.43945956230163574,
+      "weather_index": 0.009,
+      "congestion_index": 0.612
+    },
+    {
+      "id": 32669,
+      "code": "SM-032669",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-06T18:10:00Z",
+      "probability": 0.30851665139198303,
+      "weather_index": 0.275,
+      "congestion_index": 0.584
+    },
+    {
+      "id": 32670,
+      "code": "SM-032670",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-06T18:20:00Z",
+      "probability": 0.2928673028945923,
+      "weather_index": 0.377,
+      "congestion_index": 0.501
+    },
+    {
+      "id": 32671,
+      "code": "SM-032671",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-06T18:30:00Z",
+      "probability": 0.676506757736206,
+      "weather_index": 0.536,
+      "congestion_index": 0.516
+    },
+    {
+      "id": 32672,
+      "code": "SM-032672",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-06T18:00:00Z",
+      "probability": 0.4074212908744812,
+      "weather_index": 0.211,
+      "congestion_index": 0.374
+    },
+    {
+      "id": 32673,
+      "code": "SM-032673",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-06T18:10:00Z",
+      "probability": 0.24240244925022125,
+      "weather_index": 0.262,
+      "congestion_index": 0.481
+    },
+    {
+      "id": 32674,
+      "code": "SM-032674",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-06T18:20:00Z",
+      "probability": 0.3409668803215027,
+      "weather_index": 0.223,
+      "congestion_index": 0.784
+    },
+    {
+      "id": 32675,
+      "code": "SM-032675",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-06T18:30:00Z",
+      "probability": 0.48387423157691956,
+      "weather_index": 0.484,
+      "congestion_index": 0.618
+    },
+    {
+      "id": 32676,
+      "code": "SM-032676",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-06T18:00:00Z",
+      "probability": 0.2001987099647522,
+      "weather_index": 0.05,
+      "congestion_index": 0.664
+    },
+    {
+      "id": 32677,
+      "code": "SM-032677",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-06T18:10:00Z",
+      "probability": 0.2560650110244751,
+      "weather_index": 0.43,
+      "congestion_index": 0.346
+    },
+    {
+      "id": 32678,
+      "code": "SM-032678",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-06T18:20:00Z",
+      "probability": 0.21537046134471893,
+      "weather_index": 0.125,
+      "congestion_index": 0.624
+    },
+    {
+      "id": 32679,
+      "code": "SM-032679",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-06T18:30:00Z",
+      "probability": 0.23076142370700836,
+      "weather_index": 0.368,
+      "congestion_index": 0.38
+    },
+    {
+      "id": 32680,
+      "code": "SM-032680",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-06T18:00:00Z",
+      "probability": 0.21861757338047028,
+      "weather_index": 0.168,
+      "congestion_index": 0.554
+    },
+    {
+      "id": 32681,
+      "code": "SM-032681",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-06T18:10:00Z",
+      "probability": 0.25163036584854126,
+      "weather_index": 0.179,
+      "congestion_index": 0.632
+    },
+    {
+      "id": 32682,
+      "code": "SM-032682",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-06T18:20:00Z",
+      "probability": 0.1983795166015625,
+      "weather_index": 0.3,
+      "congestion_index": 0.337
+    },
+    {
+      "id": 32683,
+      "code": "SM-032683",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-06T18:30:00Z",
+      "probability": 0.45282527804374695,
+      "weather_index": 0.364,
+      "congestion_index": 0.802
+    },
+    {
+      "id": 32684,
+      "code": "SM-032684",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-06T18:00:00Z",
+      "probability": 0.22021949291229248,
+      "weather_index": 0.272,
+      "congestion_index": 0.421
+    },
+    {
+      "id": 32685,
+      "code": "SM-032685",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-06T18:10:00Z",
+      "probability": 0.6609666347503662,
+      "weather_index": 0.284,
+      "congestion_index": 0.693
+    },
+    {
+      "id": 32686,
+      "code": "SM-032686",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-06T18:20:00Z",
+      "probability": 0.6925703287124634,
+      "weather_index": 0.325,
+      "congestion_index": 0.602
+    },
+    {
+      "id": 32687,
+      "code": "SM-032687",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-07T07:10:00Z",
+      "probability": 0.29088708758354187,
+      "weather_index": 0.334,
+      "congestion_index": 0.483
+    },
+    {
+      "id": 32688,
+      "code": "SM-032688",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-07T07:20:00Z",
+      "probability": 0.22036226093769073,
+      "weather_index": 0.102,
+      "congestion_index": 0.585
+    },
+    {
+      "id": 32689,
+      "code": "SM-032689",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-07T07:30:00Z",
+      "probability": 0.4792751967906952,
+      "weather_index": 0.111,
+      "congestion_index": 0.596
+    },
+    {
+      "id": 32690,
+      "code": "SM-032690",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-07T07:00:00Z",
+      "probability": 0.47396859526634216,
+      "weather_index": 0.072,
+      "congestion_index": 0.649
+    },
+    {
+      "id": 32691,
+      "code": "SM-032691",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-07T07:10:00Z",
+      "probability": 0.5193899869918823,
+      "weather_index": 0.466,
+      "congestion_index": 0.729
+    },
+    {
+      "id": 32692,
+      "code": "SM-032692",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-07T07:20:00Z",
+      "probability": 0.4212246835231781,
+      "weather_index": 0.31,
+      "congestion_index": 0.754
+    },
+    {
+      "id": 32693,
+      "code": "SM-032693",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-07T07:30:00Z",
+      "probability": 0.4550020098686218,
+      "weather_index": 0.071,
+      "congestion_index": 0.632
+    },
+    {
+      "id": 32694,
+      "code": "SM-032694",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-07T07:00:00Z",
+      "probability": 0.6817513108253479,
+      "weather_index": 0.331,
+      "congestion_index": 0.667
+    },
+    {
+      "id": 32695,
+      "code": "SM-032695",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-07T07:10:00Z",
+      "probability": 0.2808515429496765,
+      "weather_index": 0.405,
+      "congestion_index": 0.418
+    },
+    {
+      "id": 32696,
+      "code": "SM-032696",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-07T07:20:00Z",
+      "probability": 0.26122522354125977,
+      "weather_index": 0.163,
+      "congestion_index": 0.702
+    },
+    {
+      "id": 32697,
+      "code": "SM-032697",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-07T07:30:00Z",
+      "probability": 0.15367841720581055,
+      "weather_index": 0.173,
+      "congestion_index": 0.369
+    },
+    {
+      "id": 32698,
+      "code": "SM-032698",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-07T07:00:00Z",
+      "probability": 0.10441858321428299,
+      "weather_index": 0.04,
+      "congestion_index": 0.348
+    },
+    {
+      "id": 32699,
+      "code": "SM-032699",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-07T07:10:00Z",
+      "probability": 0.0800398737192154,
+      "weather_index": 0.073,
+      "congestion_index": 0.114
+    },
+    {
+      "id": 32700,
+      "code": "SM-032700",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-07T07:20:00Z",
+      "probability": 0.17784547805786133,
+      "weather_index": 0.36,
+      "congestion_index": 0.238
+    },
+    {
+      "id": 32701,
+      "code": "SM-032701",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-07T07:30:00Z",
+      "probability": 0.42692360281944275,
+      "weather_index": 0.084,
+      "congestion_index": 1.0
+    },
+    {
+      "id": 32702,
+      "code": "SM-032702",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-07T07:00:00Z",
+      "probability": 0.3653196096420288,
+      "weather_index": 0.18,
+      "congestion_index": 0.831
+    },
+    {
+      "id": 32703,
+      "code": "SM-032703",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-07T07:10:00Z",
+      "probability": 0.23306897282600403,
+      "weather_index": 0.158,
+      "congestion_index": 0.574
+    },
+    {
+      "id": 32704,
+      "code": "SM-032704",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-07T07:20:00Z",
+      "probability": 0.5065395832061768,
+      "weather_index": 0.294,
+      "congestion_index": 0.926
+    },
+    {
+      "id": 32705,
+      "code": "SM-032705",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-07T07:30:00Z",
+      "probability": 0.2316000610589981,
+      "weather_index": 0.279,
+      "congestion_index": 0.427
+    },
+    {
+      "id": 32706,
+      "code": "SM-032706",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-07T07:00:00Z",
+      "probability": 0.33305448293685913,
+      "weather_index": 0.176,
+      "congestion_index": 0.783
+    },
+    {
+      "id": 32707,
+      "code": "SM-032707",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-07T07:10:00Z",
+      "probability": 0.5889152884483337,
+      "weather_index": 0.123,
+      "congestion_index": 0.779
+    },
+    {
+      "id": 32708,
+      "code": "SM-032708",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-07T07:20:00Z",
+      "probability": 0.7136713862419128,
+      "weather_index": 0.351,
+      "congestion_index": 0.717
+    },
+    {
+      "id": 32709,
+      "code": "SM-032709",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-07T12:10:00Z",
+      "probability": 0.15330059826374054,
+      "weather_index": 0.204,
+      "congestion_index": 0.351
+    },
+    {
+      "id": 32710,
+      "code": "SM-032710",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-07T12:20:00Z",
+      "probability": 0.2331244945526123,
+      "weather_index": 0.344,
+      "congestion_index": 0.387
+    },
+    {
+      "id": 32711,
+      "code": "SM-032711",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-07T12:00:00Z",
+      "probability": 0.2894176244735718,
+      "weather_index": 0.138,
+      "congestion_index": 0.246
+    },
+    {
+      "id": 32712,
+      "code": "SM-032712",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-07T12:10:00Z",
+      "probability": 0.19826261699199677,
+      "weather_index": 0.141,
+      "congestion_index": 0.521
+    },
+    {
+      "id": 32713,
+      "code": "SM-032713",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-07T12:30:00Z",
+      "probability": 0.3023187518119812,
+      "weather_index": 0.146,
+      "congestion_index": 0.27
+    },
+    {
+      "id": 32714,
+      "code": "SM-032714",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-07T12:00:00Z",
+      "probability": 0.4721936583518982,
+      "weather_index": 0.478,
+      "congestion_index": 0.218
+    },
+    {
+      "id": 32715,
+      "code": "SM-032715",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-07T12:20:00Z",
+      "probability": 0.24100984632968903,
+      "weather_index": 0.163,
+      "congestion_index": 0.584
+    },
+    {
+      "id": 32716,
+      "code": "SM-032716",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-07T12:30:00Z",
+      "probability": 0.18850040435791016,
+      "weather_index": 0.433,
+      "congestion_index": 0.218
+    },
+    {
+      "id": 32717,
+      "code": "SM-032717",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-07T12:10:00Z",
+      "probability": 0.3587179481983185,
+      "weather_index": 0.418,
+      "congestion_index": 0.507
+    },
+    {
+      "id": 32718,
+      "code": "SM-032718",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-07T12:20:00Z",
+      "probability": 0.1376776099205017,
+      "weather_index": 0.165,
+      "congestion_index": 0.31
+    },
+    {
+      "id": 32719,
+      "code": "SM-032719",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-07T12:00:00Z",
+      "probability": 0.20620249211788177,
+      "weather_index": 0.377,
+      "congestion_index": 0.256
+    },
+    {
+      "id": 32720,
+      "code": "SM-032720",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-07T12:10:00Z",
+      "probability": 0.1418360024690628,
+      "weather_index": 0.22,
+      "congestion_index": 0.255
+    },
+    {
+      "id": 32721,
+      "code": "SM-032721",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-07T12:30:00Z",
+      "probability": 0.20433397591114044,
+      "weather_index": 0.103,
+      "congestion_index": 0.567
+    },
+    {
+      "id": 32722,
+      "code": "SM-032722",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-07T12:00:00Z",
+      "probability": 0.11287086457014084,
+      "weather_index": 0.076,
+      "congestion_index": 0.324
+    },
+    {
+      "id": 32723,
+      "code": "SM-032723",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-07T12:20:00Z",
+      "probability": 0.4390435218811035,
+      "weather_index": 0.324,
+      "congestion_index": 0.251
+    },
+    {
+      "id": 32724,
+      "code": "SM-032724",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-07T18:10:00Z",
+      "probability": 0.45286375284194946,
+      "weather_index": 0.35,
+      "congestion_index": 0.804
+    },
+    {
+      "id": 32725,
+      "code": "SM-032725",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-07T18:20:00Z",
+      "probability": 0.3313669264316559,
+      "weather_index": 0.37,
+      "congestion_index": 0.601
+    },
+    {
+      "id": 32726,
+      "code": "SM-032726",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-07T18:30:00Z",
+      "probability": 0.5319803953170776,
+      "weather_index": 0.287,
+      "congestion_index": 0.553
+    },
+    {
+      "id": 32727,
+      "code": "SM-032727",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-07T18:00:00Z",
+      "probability": 0.4959099292755127,
+      "weather_index": 0.301,
+      "congestion_index": 0.357
+    },
+    {
+      "id": 32728,
+      "code": "SM-032728",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-07T18:10:00Z",
+      "probability": 0.23074431717395782,
+      "weather_index": 0.118,
+      "congestion_index": 0.682
+    },
+    {
+      "id": 32729,
+      "code": "SM-032729",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-07T18:20:00Z",
+      "probability": 0.3888142704963684,
+      "weather_index": 0.406,
+      "congestion_index": 0.61
+    },
+    {
+      "id": 32730,
+      "code": "SM-032730",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-07T18:30:00Z",
+      "probability": 0.7459689974784851,
+      "weather_index": 0.469,
+      "congestion_index": 0.644
+    },
+    {
+      "id": 32731,
+      "code": "SM-032731",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-07T18:00:00Z",
+      "probability": 0.6528613567352295,
+      "weather_index": 0.239,
+      "congestion_index": 0.745
+    },
+    {
+      "id": 32732,
+      "code": "SM-032732",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-07T18:10:00Z",
+      "probability": 0.5737379789352417,
+      "weather_index": 0.497,
+      "congestion_index": 0.783
+    },
+    {
+      "id": 32733,
+      "code": "SM-032733",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-07T18:20:00Z",
+      "probability": 0.3025652766227722,
+      "weather_index": 0.331,
+      "congestion_index": 0.514
+    },
+    {
+      "id": 32734,
+      "code": "SM-032734",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-07T18:30:00Z",
+      "probability": 0.252290278673172,
+      "weather_index": 0.217,
+      "congestion_index": 0.575
+    },
+    {
+      "id": 32735,
+      "code": "SM-032735",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-07T18:00:00Z",
+      "probability": 0.4308446943759918,
+      "weather_index": 0.238,
+      "congestion_index": 0.869
+    },
+    {
+      "id": 32736,
+      "code": "SM-032736",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-07T18:10:00Z",
+      "probability": 0.40863698720932007,
+      "weather_index": 0.423,
+      "congestion_index": 0.617
+    },
+    {
+      "id": 32737,
+      "code": "SM-032737",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-07T18:20:00Z",
+      "probability": 0.29966703057289124,
+      "weather_index": 0.268,
+      "congestion_index": 0.604
+    },
+    {
+      "id": 32738,
+      "code": "SM-032738",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-07T18:30:00Z",
+      "probability": 0.15788578987121582,
+      "weather_index": 0.072,
+      "congestion_index": 0.47
+    },
+    {
+      "id": 32739,
+      "code": "SM-032739",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-07T18:00:00Z",
+      "probability": 0.45484599471092224,
+      "weather_index": 0.405,
+      "congestion_index": 0.703
+    },
+    {
+      "id": 32740,
+      "code": "SM-032740",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-07T18:10:00Z",
+      "probability": 0.24769946932792664,
+      "weather_index": 0.172,
+      "congestion_index": 0.652
+    },
+    {
+      "id": 32741,
+      "code": "SM-032741",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-07T18:20:00Z",
+      "probability": 0.4939299523830414,
+      "weather_index": 0.586,
+      "congestion_index": 0.616
+    },
+    {
+      "id": 32742,
+      "code": "SM-032742",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-07T18:30:00Z",
+      "probability": 0.14513824880123138,
+      "weather_index": 0.11,
+      "congestion_index": 0.401
+    },
+    {
+      "id": 32743,
+      "code": "SM-032743",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-07T18:00:00Z",
+      "probability": 0.31442660093307495,
+      "weather_index": 0.298,
+      "congestion_index": 0.57
+    },
+    {
+      "id": 32744,
+      "code": "SM-032744",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-07T18:10:00Z",
+      "probability": 0.5488154292106628,
+      "weather_index": 0.376,
+      "congestion_index": 0.364
+    },
+    {
+      "id": 32745,
+      "code": "SM-032745",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-07T18:20:00Z",
+      "probability": 0.6000255942344666,
+      "weather_index": 0.4,
+      "congestion_index": 0.523
+    },
+    {
+      "id": 32746,
+      "code": "SM-032746",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-08T07:10:00Z",
+      "probability": 0.1765856295824051,
+      "weather_index": 0.036,
+      "congestion_index": 0.532
+    },
+    {
+      "id": 32747,
+      "code": "SM-032747",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-08T07:20:00Z",
+      "probability": 0.23855090141296387,
+      "weather_index": 0.148,
+      "congestion_index": 0.593
+    },
+    {
+      "id": 32748,
+      "code": "SM-032748",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-08T07:30:00Z",
+      "probability": 0.33659395575523376,
+      "weather_index": 0.139,
+      "congestion_index": 0.351
+    },
+    {
+      "id": 32749,
+      "code": "SM-032749",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-08T07:00:00Z",
+      "probability": 0.4680567681789398,
+      "weather_index": 0.055,
+      "congestion_index": 0.631
+    },
+    {
+      "id": 32750,
+      "code": "SM-032750",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-08T07:10:00Z",
+      "probability": 0.20356443524360657,
+      "weather_index": 0.073,
+      "congestion_index": 0.597
+    },
+    {
+      "id": 32751,
+      "code": "SM-032751",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-08T07:20:00Z",
+      "probability": 0.2768336832523346,
+      "weather_index": 0.371,
+      "congestion_index": 0.471
+    },
+    {
+      "id": 32752,
+      "code": "SM-032752",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-08T07:30:00Z",
+      "probability": 0.4338974952697754,
+      "weather_index": 0.033,
+      "congestion_index": 0.607
+    },
+    {
+      "id": 32753,
+      "code": "SM-032753",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-08T07:00:00Z",
+      "probability": 0.6744697690010071,
+      "weather_index": 0.492,
+      "congestion_index": 0.508
+    },
+    {
+      "id": 32754,
+      "code": "SM-032754",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-08T07:10:00Z",
+      "probability": 0.26677218079566956,
+      "weather_index": 0.27,
+      "congestion_index": 0.537
+    },
+    {
+      "id": 32755,
+      "code": "SM-032755",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-08T07:20:00Z",
+      "probability": 0.29022085666656494,
+      "weather_index": 0.193,
+      "congestion_index": 0.738
+    },
+    {
+      "id": 32756,
+      "code": "SM-032756",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-08T07:30:00Z",
+      "probability": 0.4183385372161865,
+      "weather_index": 0.322,
+      "congestion_index": 0.723
+    },
+    {
+      "id": 32757,
+      "code": "SM-032757",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-08T07:00:00Z",
+      "probability": 0.4069138169288635,
+      "weather_index": 0.206,
+      "congestion_index": 0.932
+    },
+    {
+      "id": 32758,
+      "code": "SM-032758",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-08T07:10:00Z",
+      "probability": 0.17410524189472198,
+      "weather_index": 0.026,
+      "congestion_index": 0.55
+    },
+    {
+      "id": 32759,
+      "code": "SM-032759",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-08T07:20:00Z",
+      "probability": 0.2013188749551773,
+      "weather_index": 0.264,
+      "congestion_index": 0.421
+    },
+    {
+      "id": 32760,
+      "code": "SM-032760",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-08T07:30:00Z",
+      "probability": 0.27049487829208374,
+      "weather_index": 0.256,
+      "congestion_index": 0.545
+    },
+    {
+      "id": 32761,
+      "code": "SM-032761",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-08T07:00:00Z",
+      "probability": 0.2903870940208435,
+      "weather_index": 0.215,
+      "congestion_index": 0.699
+    },
+    {
+      "id": 32762,
+      "code": "SM-032762",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-08T07:10:00Z",
+      "probability": 0.1973716914653778,
+      "weather_index": 0.127,
+      "congestion_index": 0.529
+    },
+    {
+      "id": 32763,
+      "code": "SM-032763",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-08T07:20:00Z",
+      "probability": 0.31263527274131775,
+      "weather_index": 0.141,
+      "congestion_index": 0.787
+    },
+    {
+      "id": 32764,
+      "code": "SM-032764",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-08T07:30:00Z",
+      "probability": 0.16974198818206787,
+      "weather_index": 0.109,
+      "congestion_index": 0.474
+    },
+    {
+      "id": 32765,
+      "code": "SM-032765",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-08T07:00:00Z",
+      "probability": 0.23777133226394653,
+      "weather_index": 0.216,
+      "congestion_index": 0.542
+    },
+    {
+      "id": 32766,
+      "code": "SM-032766",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-08T07:10:00Z",
+      "probability": 0.4877263307571411,
+      "weather_index": 0.296,
+      "congestion_index": 0.341
+    },
+    {
+      "id": 32767,
+      "code": "SM-032767",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-08T07:20:00Z",
+      "probability": 0.837203860282898,
+      "weather_index": 0.567,
+      "congestion_index": 0.837
+    },
+    {
+      "id": 32768,
+      "code": "SM-032768",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-08T12:10:00Z",
+      "probability": 0.18606488406658173,
+      "weather_index": 0.235,
+      "congestion_index": 0.401
+    },
+    {
+      "id": 32769,
+      "code": "SM-032769",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-08T12:20:00Z",
+      "probability": 0.23894250392913818,
+      "weather_index": 0.152,
+      "congestion_index": 0.586
+    },
+    {
+      "id": 32770,
+      "code": "SM-032770",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-08T12:00:00Z",
+      "probability": 0.7804825901985168,
+      "weather_index": 0.315,
+      "congestion_index": 0.878
+    },
+    {
+      "id": 32771,
+      "code": "SM-032771",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-08T12:10:00Z",
+      "probability": 0.23841361701488495,
+      "weather_index": 0.338,
+      "congestion_index": 0.439
+    },
+    {
+      "id": 32772,
+      "code": "SM-032772",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-08T12:30:00Z",
+      "probability": 0.5871774554252625,
+      "weather_index": 0.416,
+      "congestion_index": 0.403
+    },
+    {
+      "id": 32773,
+      "code": "SM-032773",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-08T12:00:00Z",
+      "probability": 0.4198184311389923,
+      "weather_index": 0.106,
+      "congestion_index": 0.575
+    },
+    {
+      "id": 32774,
+      "code": "SM-032774",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-08T12:20:00Z",
+      "probability": 0.28820401430130005,
+      "weather_index": 0.367,
+      "congestion_index": 0.489
+    },
+    {
+      "id": 32775,
+      "code": "SM-032775",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-08T12:30:00Z",
+      "probability": 0.13200786709785461,
+      "weather_index": 0.1,
+      "congestion_index": 0.353
+    },
+    {
+      "id": 32776,
+      "code": "SM-032776",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-08T12:10:00Z",
+      "probability": 0.303180068731308,
+      "weather_index": 0.318,
+      "congestion_index": 0.531
+    },
+    {
+      "id": 32777,
+      "code": "SM-032777",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-08T12:20:00Z",
+      "probability": 0.19712013006210327,
+      "weather_index": 0.174,
+      "congestion_index": 0.487
+    },
+    {
+      "id": 32778,
+      "code": "SM-032778",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-08T12:00:00Z",
+      "probability": 0.4857630431652069,
+      "weather_index": 0.527,
+      "congestion_index": 0.608
+    },
+    {
+      "id": 32779,
+      "code": "SM-032779",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-08T12:10:00Z",
+      "probability": 0.12003655731678009,
+      "weather_index": 0.129,
+      "congestion_index": 0.351
+    },
+    {
+      "id": 32780,
+      "code": "SM-032780",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-08T12:30:00Z",
+      "probability": 0.19902829825878143,
+      "weather_index": 0.123,
+      "congestion_index": 0.538
+    },
+    {
+      "id": 32781,
+      "code": "SM-032781",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-08T12:00:00Z",
+      "probability": 0.10353530943393707,
+      "weather_index": 0.211,
+      "congestion_index": 0.205
+    },
+    {
+      "id": 32782,
+      "code": "SM-032782",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-08T12:20:00Z",
+      "probability": 0.4313151240348816,
+      "weather_index": 0.188,
+      "congestion_index": 0.497
+    },
+    {
+      "id": 32783,
+      "code": "SM-032783",
+      "route_id": 1,
+      "route": "Vancouver → Kamloops",
+      "departure_utc": "2026-09-08T18:10:00Z",
+      "probability": 0.5396425724029541,
+      "weather_index": 0.554,
+      "congestion_index": 0.7
+    },
+    {
+      "id": 32784,
+      "code": "SM-032784",
+      "route_id": 2,
+      "route": "Kamloops → Vancouver",
+      "departure_utc": "2026-09-08T18:20:00Z",
+      "probability": 0.2731701731681824,
+      "weather_index": 0.161,
+      "congestion_index": 0.725
+    },
+    {
+      "id": 32785,
+      "code": "SM-032785",
+      "route_id": 3,
+      "route": "Kamloops → Calgary",
+      "departure_utc": "2026-09-08T18:30:00Z",
+      "probability": 0.24385188519954681,
+      "weather_index": 0.046,
+      "congestion_index": 0.28
+    },
+    {
+      "id": 32786,
+      "code": "SM-032786",
+      "route_id": 4,
+      "route": "Calgary → Kamloops",
+      "departure_utc": "2026-09-08T18:00:00Z",
+      "probability": 0.5594854354858398,
+      "weather_index": 0.307,
+      "congestion_index": 0.503
+    },
+    {
+      "id": 32787,
+      "code": "SM-032787",
+      "route_id": 5,
+      "route": "Calgary → Edmonton",
+      "departure_utc": "2026-09-08T18:10:00Z",
+      "probability": 0.2966815233230591,
+      "weather_index": 0.073,
+      "congestion_index": 0.82
+    },
+    {
+      "id": 32788,
+      "code": "SM-032788",
+      "route_id": 6,
+      "route": "Edmonton → Calgary",
+      "departure_utc": "2026-09-08T18:20:00Z",
+      "probability": 0.13929638266563416,
+      "weather_index": 0.172,
+      "congestion_index": 0.337
+    },
+    {
+      "id": 32789,
+      "code": "SM-032789",
+      "route_id": 7,
+      "route": "Edmonton → Saskatoon",
+      "departure_utc": "2026-09-08T18:30:00Z",
+      "probability": 0.5570986270904541,
+      "weather_index": 0.335,
+      "congestion_index": 0.444
+    },
+    {
+      "id": 32790,
+      "code": "SM-032790",
+      "route_id": 8,
+      "route": "Saskatoon → Edmonton",
+      "departure_utc": "2026-09-08T18:00:00Z",
+      "probability": 0.3711663782596588,
+      "weather_index": 0.178,
+      "congestion_index": 0.355
+    },
+    {
+      "id": 32791,
+      "code": "SM-032791",
+      "route_id": 9,
+      "route": "Saskatoon → Regina",
+      "departure_utc": "2026-09-08T18:10:00Z",
+      "probability": 0.2462567239999771,
+      "weather_index": 0.394,
+      "congestion_index": 0.372
+    },
+    {
+      "id": 32792,
+      "code": "SM-032792",
+      "route_id": 10,
+      "route": "Regina → Saskatoon",
+      "departure_utc": "2026-09-08T18:20:00Z",
+      "probability": 0.31306710839271545,
+      "weather_index": 0.142,
+      "congestion_index": 0.765
+    },
+    {
+      "id": 32793,
+      "code": "SM-032793",
+      "route_id": 11,
+      "route": "Regina → Brandon",
+      "departure_utc": "2026-09-08T18:30:00Z",
+      "probability": 0.4592965245246887,
+      "weather_index": 0.311,
+      "congestion_index": 0.808
+    },
+    {
+      "id": 32794,
+      "code": "SM-032794",
+      "route_id": 12,
+      "route": "Brandon → Regina",
+      "departure_utc": "2026-09-08T18:00:00Z",
+      "probability": 0.18845097720623016,
+      "weather_index": 0.28,
+      "congestion_index": 0.267
+    },
+    {
+      "id": 32795,
+      "code": "SM-032795",
+      "route_id": 13,
+      "route": "Brandon → Winnipeg",
+      "departure_utc": "2026-09-08T18:10:00Z",
+      "probability": 0.4233599007129669,
+      "weather_index": 0.201,
+      "congestion_index": 0.97
+    },
+    {
+      "id": 32796,
+      "code": "SM-032796",
+      "route_id": 14,
+      "route": "Winnipeg → Brandon",
+      "departure_utc": "2026-09-08T18:20:00Z",
+      "probability": 0.16791020333766937,
+      "weather_index": 0.258,
+      "congestion_index": 0.312
+    },
+    {
+      "id": 32797,
+      "code": "SM-032797",
+      "route_id": 15,
+      "route": "Toronto → Ottawa",
+      "departure_utc": "2026-09-08T18:30:00Z",
+      "probability": 0.2711244821548462,
+      "weather_index": 0.146,
+      "congestion_index": 0.71
+    },
+    {
+      "id": 32798,
+      "code": "SM-032798",
+      "route_id": 16,
+      "route": "Ottawa → Toronto",
+      "departure_utc": "2026-09-08T18:00:00Z",
+      "probability": 0.19192597270011902,
+      "weather_index": 0.073,
+      "congestion_index": 0.554
+    },
+    {
+      "id": 32799,
+      "code": "SM-032799",
+      "route_id": 17,
+      "route": "Ottawa → Montréal",
+      "departure_utc": "2026-09-08T18:10:00Z",
+      "probability": 0.3312726318836212,
+      "weather_index": 0.339,
+      "congestion_index": 0.581
+    },
+    {
+      "id": 32800,
+      "code": "SM-032800",
+      "route_id": 18,
+      "route": "Montréal → Ottawa",
+      "departure_utc": "2026-09-08T18:20:00Z",
+      "probability": 0.2571331262588501,
+      "weather_index": 0.426,
+      "congestion_index": 0.344
+    },
+    {
+      "id": 32801,
+      "code": "SM-032801",
+      "route_id": 19,
+      "route": "Montréal → Québec",
+      "departure_utc": "2026-09-08T18:30:00Z",
+      "probability": 0.3486391007900238,
+      "weather_index": 0.212,
+      "congestion_index": 0.789
+    },
+    {
+      "id": 32802,
+      "code": "SM-032802",
+      "route_id": 20,
+      "route": "Québec → Montréal",
+      "departure_utc": "2026-09-08T18:00:00Z",
+      "probability": 0.4661116600036621,
+      "weather_index": 0.486,
+      "congestion_index": 0.595
+    },
+    {
+      "id": 32803,
+      "code": "SM-032803",
+      "route_id": 21,
+      "route": "Toronto → Montréal",
+      "departure_utc": "2026-09-08T18:10:00Z",
+      "probability": 0.837203860282898,
+      "weather_index": 0.535,
+      "congestion_index": 0.81
+    },
+    {
+      "id": 32804,
+      "code": "SM-032804",
+      "route_id": 22,
+      "route": "Montréal → Toronto",
+      "departure_utc": "2026-09-08T18:20:00Z",
+      "probability": 0.6372557878494263,
+      "weather_index": 0.193,
+      "congestion_index": 0.783
+    }
+  ],
+  "model": {
+    "selected": "XGBoost",
+    "selection": "Highest validation PR-AUC; threshold selected on validation F1 only. Test labels were not used for selection.",
+    "features": [
+      "distance_km",
+      "duration_min",
+      "weather_index",
+      "congestion_index",
+      "peak_hour",
+      "weekday",
+      "month"
+    ],
+    "label": "late",
+    "models": [
+      {
+        "model": "Logistic Regression",
+        "validation_pr_auc": 0.5933671904992261,
+        "test": {
+          "roc_auc": 0.70061325257506,
+          "pr_auc": 0.5613518118212422,
+          "precision": 0.4332084893882647,
+          "recall": 0.7958715596330275,
+          "f1": 0.561034761519806,
+          "brier": 0.19954711835960584,
+          "confusion_matrix": [
+            [
+              1853,
+              2270
+            ],
+            [
+              445,
+              1735
+            ]
+          ],
+          "n": 6303,
+          "prevalence": 0.34586704743772806,
+          "threshold": 0.25,
+          "calibration": [
+            {
+              "predicted": 0.0820366400983888,
+              "observed": 0.08290155440414508,
+              "n": 193
+            },
+            {
+              "predicted": 0.15622459842121547,
+              "observed": 0.17076923076923076,
+              "n": 1300
+            },
+            {
+              "predicted": 0.2486213490929878,
+              "observed": 0.2729641693811075,
+              "n": 1535
+            },
+            {
+              "predicted": 0.3477148771949525,
+              "observed": 0.3481421647819063,
+              "n": 1238
+            },
+            {
+              "predicted": 0.4463289487460863,
+              "observed": 0.4264859228362878,
+              "n": 959
+            },
+            {
+              "predicted": 0.545354162840226,
+              "observed": 0.5667752442996743,
+              "n": 614
+            },
+            {
+              "predicted": 0.6465404403003119,
+              "observed": 0.6818181818181818,
+              "n": 308
+            },
+            {
+              "predicted": 0.7404464113825395,
+              "observed": 0.8015873015873016,
+              "n": 126
+            },
+            {
+              "predicted": 0.8319421680048662,
+              "observed": 0.8,
+              "n": 30
+            }
+          ]
+        }
+      },
+      {
+        "model": "Random Forest",
+        "validation_pr_auc": 0.6043915971411085,
+        "test": {
+          "roc_auc": 0.7084177594029465,
+          "pr_auc": 0.5677972751917001,
+          "precision": 0.48757357750163505,
+          "recall": 0.6839449541284404,
+          "f1": 0.5693012600229095,
+          "brier": 0.19764097382727686,
+          "confusion_matrix": [
+            [
+              2556,
+              1567
+            ],
+            [
+              689,
+              1491
+            ]
+          ],
+          "n": 6303,
+          "prevalence": 0.34586704743772806,
+          "threshold": 0.30000000000000004,
+          "calibration": [
+            {
+              "predicted": 0.09263476163155601,
+              "observed": 0.03333333333333333,
+              "n": 60
+            },
+            {
+              "predicted": 0.15804074965344359,
+              "observed": 0.16378714581893572,
+              "n": 1447
+            },
+            {
+              "predicted": 0.2462422994504755,
+              "observed": 0.25891829689298046,
+              "n": 1738
+            },
+            {
+              "predicted": 0.3500031107466322,
+              "observed": 0.35714285714285715,
+              "n": 1162
+            },
+            {
+              "predicted": 0.44661704419032827,
+              "observed": 0.4679012345679012,
+              "n": 810
+            },
+            {
+              "predicted": 0.545101077581537,
+              "observed": 0.5706618962432916,
+              "n": 559
+            },
+            {
+              "predicted": 0.646028767102837,
+              "observed": 0.6813559322033899,
+              "n": 295
+            },
+            {
+              "predicted": 0.7423627696724793,
+              "observed": 0.7514450867052023,
+              "n": 173
+            },
+            {
+              "predicted": 0.8390901600118599,
+              "observed": 0.7966101694915254,
+              "n": 59
+            }
+          ]
+        }
+      },
+      {
+        "model": "XGBoost",
+        "validation_pr_auc": 0.6086194597236191,
+        "test": {
+          "roc_auc": 0.7097661473897825,
+          "pr_auc": 0.5709093754764096,
+          "precision": 0.4828811369509044,
+          "recall": 0.6857798165137615,
+          "f1": 0.5667172100075815,
+          "brier": 0.19726544618606567,
+          "confusion_matrix": [
+            [
+              2522,
+              1601
+            ],
+            [
+              685,
+              1495
+            ]
+          ],
+          "n": 6303,
+          "prevalence": 0.34586704743772806,
+          "threshold": 0.30000000000000004,
+          "calibration": [
+            {
+              "predicted": 0.09050029516220093,
+              "observed": 0.07547169811320754,
+              "n": 106
+            },
+            {
+              "predicted": 0.1555979698896408,
+              "observed": 0.16292134831460675,
+              "n": 1424
+            },
+            {
+              "predicted": 0.24688324332237244,
+              "observed": 0.26535480023852115,
+              "n": 1677
+            },
+            {
+              "predicted": 0.3501405417919159,
+              "observed": 0.36113499570077384,
+              "n": 1163
+            },
+            {
+              "predicted": 0.4495489001274109,
+              "observed": 0.4378238341968912,
+              "n": 772
+            },
+            {
+              "predicted": 0.5431562662124634,
+              "observed": 0.5526315789473685,
+              "n": 570
+            },
+            {
+              "predicted": 0.6465386152267456,
+              "observed": 0.6804407713498623,
+              "n": 363
+            },
+            {
+              "predicted": 0.7408915758132935,
+              "observed": 0.7595628415300546,
+              "n": 183
+            },
+            {
+              "predicted": 0.8363478183746338,
+              "observed": 0.8,
+              "n": 45
+            }
+          ]
+        }
+      }
+    ],
+    "chronological_cv": [
+      {
+        "train_end": "2025-08-13",
+        "test_end": "2025-10-01",
+        "pr_auc": 0.5846508623730593,
+        "n": 2813
+      },
+      {
+        "train_end": "2025-10-01",
+        "test_end": "2025-11-19",
+        "pr_auc": 0.5653394162112151,
+        "n": 2824
+      },
+      {
+        "train_end": "2025-11-19",
+        "test_end": "2026-01-07",
+        "pr_auc": 0.6263302921073552,
+        "n": 2823
+      }
+    ],
+    "train_before": "2026-01-24",
+    "test_from": "2026-05-14",
+    "purge_days": 0,
+    "counts": {
+      "train": 18857,
+      "validation": 6315,
+      "test": 6303
+    },
+    "threshold": 0.30000000000000004,
+    "limits": "Results measure a synthetic generator, not field performance. Probabilities are model outputs, not guaranteed outcomes. Validate and calibrate on representative operational data before use."
+  },
+  "notice": "Probability of >15 minutes delay. Weather and congestion indices are synthetic pre-departure inputs, not live external feeds."
+}

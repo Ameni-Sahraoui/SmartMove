@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark"><meta name="description" content="SmartMove — synthetic transportation operations and business intelligence prototype.">
+<title>SmartMove | Transportation Intelligence</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="/static/vendor/plotly.min.js" defer></script>
+<script src="/static/app.js" defer></script>
+</head>
+<body>
+<div id="auth" class="auth-screen">
+ <div class="auth-visual"><div class="auth-brand brand"><svg viewBox="0 0 44 44" aria-hidden="true"><path d="M22 2 32 20H12Z" fill="#15d9b5"/><path d="M11 22 21 40H1Z" fill="#08caba"/><path d="M33 22 43 40H23Z" fill="#b9d9e6"/><path d="M22 18 32 36H12Z" fill="#153846"/></svg><span>Smart<b>Move</b></span></div><div class="auth-story"><span class="eyebrow">INTELLIGENCE IN MOTION</span><h1>A clearer view.<br>A smarter network.</h1><p>From Transportation Data<br>to Better Operational Decisions.</p><div class="auth-pills"><span>Operations</span><span>Business Intelligence</span><span>Predictive Analytics</span></div></div><div class="auth-disclaimer">Fictional Canadian network · Synthetic data only<br>Portfolio edition / 1.0</div></div>
+ <div class="auth-right"><div id="auth-form-container" class="auth-form-container"></div></div>
+</div>
+<div id="shell" class="shell hidden">
+ <aside class="sidebar" id="sidebar">
+  <a class="brand" href="#overview" aria-label="SmartMove home"><svg viewBox="0 0 44 44" aria-hidden="true"><path d="M22 2 32 20H12Z" fill="#15d9b5"/><path d="M11 22 21 40H1Z" fill="#08caba"/><path d="M33 22 43 40H23Z" fill="#b9d9e6"/><path d="M22 18 32 36H12Z" fill="#153846"/></svg><span>Smart<b>Move</b></span></a>
+  <p class="brand-description">Intelligent Transportation<br>Management & Business Intelligence System</p>
+  <p class="tagline">From Transportation Data<br>to Better Operational Decisions.</p>
+  <nav id="navigation" aria-label="Primary navigation"></nav>
+  <div class="sidebar-bottom"><div class="landscape-card"><p>Moving People<br>Stronger Communities<br>A More Connected Canada</p><span class="maple">✦</span></div><div class="sidebar-version"><span>SmartMove v1.0</span><span class="tiny-chip">SYNTHETIC</span></div></div>
+ </aside>
+ <div class="main-shell">
+  <header class="topbar"><button class="icon-button mobile-menu" id="mobile-menu" aria-label="Toggle navigation"></button><div class="search-wrap"><span id="search-icon"></span><input id="global-search" placeholder="Search routes, vehicles, trips or anything…" aria-label="Global search"><kbd>Ctrl K</kbd></div><div class="topbar-right"><span class="system-state"><span class="status-dot"></span>Demo systems ready</span><span class="top-date" id="top-date"></span><button id="notification-button" class="icon-button notification-button" aria-label="Notifications"><span class="notification-count" id="notification-count">0</span></button><button class="profile-button" id="profile-button"><span class="avatar" id="avatar">JD</span><span id="user-name">Jordan Davis</span><span class="chevron">⌄</span></button></div></header>
+  <main id="content" tabindex="-1" aria-live="polite"></main>
+  <footer class="app-footer"><span>ⓘ &nbsp; Fictional demo network. All operational records are synthetic. Not for live dispatch or real payments.</span><span>SmartMove &nbsp; | &nbsp; Intelligence in motion <b>✦</b></span></footer>
+ </div>
+</div>
+<div id="toast-area" aria-live="polite"></div>
+<div id="modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title"><div class="modal"><div class="modal-head"><div><span class="eyebrow">SMARTMOVE WORKSPACE</span><h2 id="modal-title"></h2></div><button id="modal-close" class="icon-button" aria-label="Close dialog">✕</button></div><div id="modal-body"></div></div></div>
+<div id="popover" class="popover hidden"></div>
+</body>
+</html>

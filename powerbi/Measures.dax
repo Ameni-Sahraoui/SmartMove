@@ -1,0 +1,27 @@
+Total Trips = COUNTROWS(fact_trip)
+
+Completed Trips = CALCULATE(COUNTROWS(fact_trip), fact_trip[status] = "Completed")
+
+On-Time Trips = CALCULATE(COUNTROWS(fact_trip), fact_trip[status] = "Completed", fact_trip[delay_min] <= 15)
+
+On-Time Performance = DIVIDE([On-Time Trips], [Completed Trips])
+
+Average Delay Minutes = CALCULATE(AVERAGE(fact_trip[delay_min]), fact_trip[status] = "Completed")
+
+Passenger Volume = SUM(fact_trip[passenger_count])
+
+Service Seat Capacity = CALCULATE(SUM(fact_trip[capacity]), fact_trip[status] <> "Cancelled")
+
+Occupancy Rate = DIVIDE([Passenger Volume], [Service Seat Capacity])
+
+Revenue CAD = DIVIDE(SUM(fact_trip[revenue_cents]), 100)
+
+Direct Operating Cost CAD = DIVIDE(SUM(fact_trip[operating_cost_cents]), 100)
+
+Route Contribution CAD = [Revenue CAD] - [Direct Operating Cost CAD]
+
+Cancellation Rate = DIVIDE(CALCULATE(COUNTROWS(fact_trip), fact_trip[status] = "Cancelled"), [Total Trips])
+
+Customer Satisfaction = AVERAGE(fact_satisfaction[score])
+
+Maintenance Cost CAD = DIVIDE(SUM(fact_maintenance[cost_cents]), 100)

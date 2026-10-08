@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.pytest_cache
+.git
+data/LOCAL_CREDENTIALS.txt
+data/outbox
+*.log

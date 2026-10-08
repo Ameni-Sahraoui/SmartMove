@@ -1,0 +1,17 @@
+﻿line,trip_id,reason
+2,1,Missing or nonnumeric fuel
+10,9,Impossible fuel quantity
+55,54,Missing or nonnumeric fuel
+108,107,Missing or nonnumeric fuel
+161,160,Missing or nonnumeric fuel
+214,213,Missing or nonnumeric fuel
+267,266,Missing or nonnumeric fuel
+320,319,Missing or nonnumeric fuel
+373,372,Missing or nonnumeric fuel
+426,425,Missing or nonnumeric fuel
+479,478,Missing or nonnumeric fuel
+532,531,Missing or nonnumeric fuel
+585,584,Missing or nonnumeric fuel
+602,1,Duplicate trip key
+603,999999,Unknown trip key
+604,2,Duplicate trip key; Missing or nonnumeric fuel

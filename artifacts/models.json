@@ -1,0 +1,584 @@
+{
+  "trained_at": "2026-09-13T16:11:28.551255+00:00",
+  "dataset_version": "synthetic-ca-v1-seed42",
+  "as_of": "2026-08-31",
+  "model_version": "smartmove-ml-v1",
+  "maintenance": {
+    "selected": "Logistic Regression",
+    "selection": "Highest validation PR-AUC; threshold selected on validation F1 only. Test labels were not used for selection.",
+    "features": [
+      "engine_temp",
+      "brake_wear",
+      "battery_voltage",
+      "km_since_service",
+      "vibration"
+    ],
+    "label": "fault_7d",
+    "models": [
+      {
+        "model": "Logistic Regression",
+        "validation_pr_auc": 0.5798522846193666,
+        "test": {
+          "roc_auc": 0.712200128680413,
+          "pr_auc": 0.5596836753793691,
+          "precision": 0.43921139101861995,
+          "recall": 0.7893700787401575,
+          "f1": 0.5643912737508796,
+          "brier": 0.19326396212327931,
+          "confusion_matrix": [
+            [
+              516,
+              512
+            ],
+            [
+              107,
+              401
+            ]
+          ],
+          "n": 1536,
+          "prevalence": 0.3307291666666667,
+          "threshold": 0.25,
+          "calibration": [
+            {
+              "predicted": 0.07380890831229939,
+              "observed": 0.11023622047244094,
+              "n": 127
+            },
+            {
+              "predicted": 0.14980280854986222,
+              "observed": 0.17088607594936708,
+              "n": 316
+            },
+            {
+              "predicted": 0.24716164434788507,
+              "observed": 0.25219941348973607,
+              "n": 341
+            },
+            {
+              "predicted": 0.3476600919948488,
+              "observed": 0.35294117647058826,
+              "n": 272
+            },
+            {
+              "predicted": 0.4478429293413169,
+              "observed": 0.4618834080717489,
+              "n": 223
+            },
+            {
+              "predicted": 0.5453061704874981,
+              "observed": 0.5285714285714286,
+              "n": 140
+            },
+            {
+              "predicted": 0.6429508195676726,
+              "observed": 0.6197183098591549,
+              "n": 71
+            },
+            {
+              "predicted": 0.7328616806397191,
+              "observed": 0.7352941176470589,
+              "n": 34
+            },
+            {
+              "predicted": 0.8321774649477465,
+              "observed": 1.0,
+              "n": 11
+            },
+            {
+              "predicted": 0.9098928214022258,
+              "observed": 1.0,
+              "n": 1
+            }
+          ]
+        }
+      },
+      {
+        "model": "Random Forest",
+        "validation_pr_auc": 0.5671806064834749,
+        "test": {
+          "roc_auc": 0.7128148074389533,
+          "pr_auc": 0.5631230888532137,
+          "precision": 0.46867167919799496,
+          "recall": 0.7362204724409449,
+          "f1": 0.5727411944869831,
+          "brier": 0.19337410246266687,
+          "confusion_matrix": [
+            [
+              604,
+              424
+            ],
+            [
+              134,
+              374
+            ]
+          ],
+          "n": 1536,
+          "prevalence": 0.3307291666666667,
+          "threshold": 0.30000000000000004,
+          "calibration": [
+            {
+              "predicted": 0.07377513121860321,
+              "observed": 0.14285714285714285,
+              "n": 119
+            },
+            {
+              "predicted": 0.1505078583220618,
+              "observed": 0.15625,
+              "n": 288
+            },
+            {
+              "predicted": 0.25065947565818475,
+              "observed": 0.2175226586102719,
+              "n": 331
+            },
+            {
+              "predicted": 0.3526338174644685,
+              "observed": 0.3576158940397351,
+              "n": 302
+            },
+            {
+              "predicted": 0.44737742004071435,
+              "observed": 0.4781021897810219,
+              "n": 274
+            },
+            {
+              "predicted": 0.5430262328080615,
+              "observed": 0.56,
+              "n": 125
+            },
+            {
+              "predicted": 0.6414742869411346,
+              "observed": 0.6103896103896104,
+              "n": 77
+            },
+            {
+              "predicted": 0.7340421728841641,
+              "observed": 0.8947368421052632,
+              "n": 19
+            },
+            {
+              "predicted": 0.8133320156524902,
+              "observed": 1.0,
+              "n": 1
+            }
+          ]
+        }
+      },
+      {
+        "model": "XGBoost",
+        "validation_pr_auc": 0.5788273242739662,
+        "test": {
+          "roc_auc": 0.7120105548576857,
+          "pr_auc": 0.5567293462776147,
+          "precision": 0.4382259767687434,
+          "recall": 0.8169291338582677,
+          "f1": 0.570446735395189,
+          "brier": 0.19375479221343994,
+          "confusion_matrix": [
+            [
+              496,
+              532
+            ],
+            [
+              93,
+              415
+            ]
+          ],
+          "n": 1536,
+          "prevalence": 0.3307291666666667,
+          "threshold": 0.25,
+          "calibration": [
+            {
+              "predicted": 0.07412626594305038,
+              "observed": 0.14173228346456693,
+              "n": 127
+            },
+            {
+              "predicted": 0.15103641152381897,
+              "observed": 0.15331010452961671,
+              "n": 287
+            },
+            {
+              "predicted": 0.2522673010826111,
+              "observed": 0.22946175637393768,
+              "n": 353
+            },
+            {
+              "predicted": 0.34831130504608154,
+              "observed": 0.35353535353535354,
+              "n": 297
+            },
+            {
+              "predicted": 0.4469033479690552,
+              "observed": 0.49795918367346936,
+              "n": 245
+            },
+            {
+              "predicted": 0.5448123216629028,
+              "observed": 0.5522388059701493,
+              "n": 134
+            },
+            {
+              "predicted": 0.6550360918045044,
+              "observed": 0.6206896551724138,
+              "n": 58
+            },
+            {
+              "predicted": 0.7322350740432739,
+              "observed": 0.7666666666666667,
+              "n": 30
+            },
+            {
+              "predicted": 0.8432302474975586,
+              "observed": 1.0,
+              "n": 5
+            }
+          ]
+        }
+      }
+    ],
+    "chronological_cv": [
+      {
+        "train_end": "2025-08-03",
+        "test_end": "2025-09-21",
+        "pr_auc": 0.571764565116304,
+        "n": 672
+      },
+      {
+        "train_end": "2025-09-21",
+        "test_end": "2025-11-09",
+        "pr_auc": 0.6245286322611723,
+        "n": 672
+      },
+      {
+        "train_end": "2025-11-09",
+        "test_end": "2025-12-21",
+        "pr_auc": 0.508555659675247,
+        "n": 576
+      }
+    ],
+    "train_before": "2026-01-18",
+    "test_from": "2026-05-10",
+    "purge_days": 7,
+    "counts": {
+      "train": 4320,
+      "validation": 1440,
+      "test": 1536
+    },
+    "threshold": 0.25,
+    "limits": "Results measure a synthetic generator, not field performance. Probabilities are model outputs, not guaranteed outcomes. Validate and calibrate on representative operational data before use.",
+    "shap": {
+      "status": "SHAP computed; contributions in log-odds; max reconstruction residual 0.00000000",
+      "global": [
+        {
+          "feature": "engine_temp",
+          "mean_abs_shap": 0.511128472802147
+        },
+        {
+          "feature": "brake_wear",
+          "mean_abs_shap": 0.48097537888240893
+        },
+        {
+          "feature": "battery_voltage",
+          "mean_abs_shap": 0.13375061553528791
+        },
+        {
+          "feature": "km_since_service",
+          "mean_abs_shap": 0.30698589579591784
+        },
+        {
+          "feature": "vibration",
+          "mean_abs_shap": 0.16556632415930742
+        }
+      ],
+      "units": "log-odds",
+      "base_value": -0.7058762313128603,
+      "max_reconstruction_residual": 1.1102230246251565e-16
+    }
+  },
+  "delay": {
+    "selected": "XGBoost",
+    "selection": "Highest validation PR-AUC; threshold selected on validation F1 only. Test labels were not used for selection.",
+    "features": [
+      "distance_km",
+      "duration_min",
+      "weather_index",
+      "congestion_index",
+      "peak_hour",
+      "weekday",
+      "month"
+    ],
+    "label": "late",
+    "models": [
+      {
+        "model": "Logistic Regression",
+        "validation_pr_auc": 0.5933671904992261,
+        "test": {
+          "roc_auc": 0.70061325257506,
+          "pr_auc": 0.5613518118212422,
+          "precision": 0.4332084893882647,
+          "recall": 0.7958715596330275,
+          "f1": 0.561034761519806,
+          "brier": 0.19954711835960584,
+          "confusion_matrix": [
+            [
+              1853,
+              2270
+            ],
+            [
+              445,
+              1735
+            ]
+          ],
+          "n": 6303,
+          "prevalence": 0.34586704743772806,
+          "threshold": 0.25,
+          "calibration": [
+            {
+              "predicted": 0.0820366400983888,
+              "observed": 0.08290155440414508,
+              "n": 193
+            },
+            {
+              "predicted": 0.15622459842121547,
+              "observed": 0.17076923076923076,
+              "n": 1300
+            },
+            {
+              "predicted": 0.2486213490929878,
+              "observed": 0.2729641693811075,
+              "n": 1535
+            },
+            {
+              "predicted": 0.3477148771949525,
+              "observed": 0.3481421647819063,
+              "n": 1238
+            },
+            {
+              "predicted": 0.4463289487460863,
+              "observed": 0.4264859228362878,
+              "n": 959
+            },
+            {
+              "predicted": 0.545354162840226,
+              "observed": 0.5667752442996743,
+              "n": 614
+            },
+            {
+              "predicted": 0.6465404403003119,
+              "observed": 0.6818181818181818,
+              "n": 308
+            },
+            {
+              "predicted": 0.7404464113825395,
+              "observed": 0.8015873015873016,
+              "n": 126
+            },
+            {
+              "predicted": 0.8319421680048662,
+              "observed": 0.8,
+              "n": 30
+            }
+          ]
+        }
+      },
+      {
+        "model": "Random Forest",
+        "validation_pr_auc": 0.6043915971411085,
+        "test": {
+          "roc_auc": 0.7084177594029465,
+          "pr_auc": 0.5677972751917001,
+          "precision": 0.48757357750163505,
+          "recall": 0.6839449541284404,
+          "f1": 0.5693012600229095,
+          "brier": 0.19764097382727686,
+          "confusion_matrix": [
+            [
+              2556,
+              1567
+            ],
+            [
+              689,
+              1491
+            ]
+          ],
+          "n": 6303,
+          "prevalence": 0.34586704743772806,
+          "threshold": 0.30000000000000004,
+          "calibration": [
+            {
+              "predicted": 0.09263476163155601,
+              "observed": 0.03333333333333333,
+              "n": 60
+            },
+            {
+              "predicted": 0.15804074965344359,
+              "observed": 0.16378714581893572,
+              "n": 1447
+            },
+            {
+              "predicted": 0.2462422994504755,
+              "observed": 0.25891829689298046,
+              "n": 1738
+            },
+            {
+              "predicted": 0.3500031107466322,
+              "observed": 0.35714285714285715,
+              "n": 1162
+            },
+            {
+              "predicted": 0.44661704419032827,
+              "observed": 0.4679012345679012,
+              "n": 810
+            },
+            {
+              "predicted": 0.545101077581537,
+              "observed": 0.5706618962432916,
+              "n": 559
+            },
+            {
+              "predicted": 0.646028767102837,
+              "observed": 0.6813559322033899,
+              "n": 295
+            },
+            {
+              "predicted": 0.7423627696724793,
+              "observed": 0.7514450867052023,
+              "n": 173
+            },
+            {
+              "predicted": 0.8390901600118599,
+              "observed": 0.7966101694915254,
+              "n": 59
+            }
+          ]
+        }
+      },
+      {
+        "model": "XGBoost",
+        "validation_pr_auc": 0.6086194597236191,
+        "test": {
+          "roc_auc": 0.7097661473897825,
+          "pr_auc": 0.5709093754764096,
+          "precision": 0.4828811369509044,
+          "recall": 0.6857798165137615,
+          "f1": 0.5667172100075815,
+          "brier": 0.19726544618606567,
+          "confusion_matrix": [
+            [
+              2522,
+              1601
+            ],
+            [
+              685,
+              1495
+            ]
+          ],
+          "n": 6303,
+          "prevalence": 0.34586704743772806,
+          "threshold": 0.30000000000000004,
+          "calibration": [
+            {
+              "predicted": 0.09050029516220093,
+              "observed": 0.07547169811320754,
+              "n": 106
+            },
+            {
+              "predicted": 0.1555979698896408,
+              "observed": 0.16292134831460675,
+              "n": 1424
+            },
+            {
+              "predicted": 0.24688324332237244,
+              "observed": 0.26535480023852115,
+              "n": 1677
+            },
+            {
+              "predicted": 0.3501405417919159,
+              "observed": 0.36113499570077384,
+              "n": 1163
+            },
+            {
+              "predicted": 0.4495489001274109,
+              "observed": 0.4378238341968912,
+              "n": 772
+            },
+            {
+              "predicted": 0.5431562662124634,
+              "observed": 0.5526315789473685,
+              "n": 570
+            },
+            {
+              "predicted": 0.6465386152267456,
+              "observed": 0.6804407713498623,
+              "n": 363
+            },
+            {
+              "predicted": 0.7408915758132935,
+              "observed": 0.7595628415300546,
+              "n": 183
+            },
+            {
+              "predicted": 0.8363478183746338,
+              "observed": 0.8,
+              "n": 45
+            }
+          ]
+        }
+      }
+    ],
+    "chronological_cv": [
+      {
+        "train_end": "2025-08-13",
+        "test_end": "2025-10-01",
+        "pr_auc": 0.5846508623730593,
+        "n": 2813
+      },
+      {
+        "train_end": "2025-10-01",
+        "test_end": "2025-11-19",
+        "pr_auc": 0.5653394162112151,
+        "n": 2824
+      },
+      {
+        "train_end": "2025-11-19",
+        "test_end": "2026-01-07",
+        "pr_auc": 0.6263302921073552,
+        "n": 2823
+      }
+    ],
+    "train_before": "2026-01-24",
+    "test_from": "2026-05-14",
+    "purge_days": 0,
+    "counts": {
+      "train": 18857,
+      "validation": 6315,
+      "test": 6303
+    },
+    "threshold": 0.30000000000000004,
+    "limits": "Results measure a synthetic generator, not field performance. Probabilities are model outputs, not guaranteed outcomes. Validate and calibrate on representative operational data before use."
+  },
+  "route_performance": {
+    "model": "Random Forest Regressor",
+    "target": "Trip contribution (CAD), before central overhead",
+    "mae_cad": 274.5218438409975,
+    "baseline_mae_cad": 723.0976468306668,
+    "test_n": 6295,
+    "split": "Chronological 80/20; no final refit affects the reported holdout metric.",
+    "limitation": "Synthetic revenue and cost assumptions. Not audited accounting or a causal profitability estimate."
+  },
+  "forecast": {
+    "mean_route_mae": 21.04031730527168,
+    "mean_band_coverage": 0.8603896103896105,
+    "routes": 22,
+    "details": "Calendar Ridge vs weekday trailing-8 mean, selected by validation MAE, then evaluated on a separate last-28-day holdout."
+  },
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "xgboost": "3.1.3",
+    "scipy": "1.17.0"
+  },
+  "deployment_note": "Models are reproducible from source. Serving uses bundled prediction snapshots; rerun this pipeline after operational data changes. No untrusted pickle files are loaded."
+}

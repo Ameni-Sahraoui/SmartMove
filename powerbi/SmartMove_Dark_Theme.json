@@ -1,0 +1,40 @@
+{
+  "name": "SmartMove Night Transit",
+  "dataColors": [
+    "#00DCC0",
+    "#35D6A4",
+    "#F1C754",
+    "#FF8474",
+    "#85ACBE",
+    "#66889F"
+  ],
+  "background": "#071923",
+  "foreground": "#EDF6F9",
+  "tableAccent": "#00DCC0",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0B202B"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#EDF6F9"
+              }
+            },
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}

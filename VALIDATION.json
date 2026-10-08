@@ -1,0 +1,94 @@
+{
+  "application": "SmartMove",
+  "version": "1.0.0",
+  "created_at": "2026-09-13T16:57:08.497929+00:00",
+  "python_tested": "3.13.5",
+  "platform_tested": "Linux x86_64",
+  "dataset_version": "synthetic-ca-v1-seed42",
+  "dataset_as_of": "2026-08-31",
+  "data_counts": {
+    "customers": 12000,
+    "facilities": 12,
+    "vehicles": 96,
+    "trips": 32804,
+    "reservations": 328985,
+    "payments": 328985,
+    "telemetry": 7584,
+    "maintenance": 586,
+    "incidents": 364,
+    "satisfaction": 19093
+  },
+  "validation": {
+    "pytest": {
+      "tests": 45,
+      "failures": 0,
+      "errors": 0,
+      "duration_seconds": 5.26
+    },
+    "browser": {
+      "checks": 40,
+      "passed": true,
+      "page_errors": [],
+      "method": "Chromium offline-render transport with HTTP bridge to real FastAPI. Enterprise browser policy blocked direct navigation; no policy was changed. Native browser cookie/CSP transport is not covered."
+    },
+    "core_runtime": {
+      "passed": true,
+      "checks": [
+        "/",
+        "/static/app.js",
+        "/static/vendor/plotly.min.js",
+        "/api/dashboard",
+        "/api/network",
+        "/api/resources",
+        "/api/analytics/quality",
+        "/api/analytics/forecast",
+        "/api/analytics/maintenance",
+        "/api/analytics/delay",
+        "/api/analytics/models",
+        "/api/experience",
+        "optimizer fallback without numerical stack"
+      ],
+      "optional_import_attempts_blocked": [
+        "scipy"
+      ],
+      "method": "Fresh subprocess denying all numerical, ML, PyArrow and Streamlit imports while exercising actual ASGI endpoints."
+    },
+    "data_quality_critical_pass": true,
+    "shap_reconstruction_max_residual": 1.1102230246251565e-16,
+    "clean_start": {
+      "fresh_copy_bootstrap": true,
+      "accounts_generated": 6,
+      "authenticated_dashboard": true,
+      "critical_quality": true,
+      "static_map": true,
+      "model_snapshot": true
+    }
+  },
+  "not_executed": [
+    "Windows installation scripts",
+    "Docker build/runtime",
+    "ASP.NET Core gateway compilation/runtime",
+    "SQL Server schema/import",
+    "Native Power BI Desktop import/DAX/theme rendering",
+    "Native browser navigation/cookie/CSP transport (managed policy; offline browser with real HTTP bridge used instead)"
+  ],
+  "production_ready": false,
+  "packaged_database": {
+    "sqlite_integrity": "ok",
+    "foreign_keys": "pass",
+    "row_counts": {
+      "users": 0,
+      "sessions": 0,
+      "account_tokens": 0,
+      "audit_log": 0,
+      "jobs": 0,
+      "trips": 32804,
+      "reservations": 328985,
+      "vehicles": 96,
+      "customers": 12000
+    },
+    "auth_tables_cleared": true,
+    "vacuumed_after_auth_clear": true,
+    "generated_credentials_in_zip": false
+  }
+}

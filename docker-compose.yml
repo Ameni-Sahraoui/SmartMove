@@ -1,0 +1,14 @@
+services:
+  smartmove:
+    build: .
+    ports:
+      - "127.0.0.1:8501:8501"
+    volumes:
+      - smartmove-data:/app/data
+      - smartmove-artifacts:/app/artifacts
+      - smartmove-exports:/app/exports
+    restart: unless-stopped
+volumes:
+  smartmove-data:
+  smartmove-artifacts:
+  smartmove-exports:

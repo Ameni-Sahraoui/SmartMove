@@ -1,0 +1,8 @@
+{
+  "fresh_copy_bootstrap": true,
+  "accounts_generated": 6,
+  "authenticated_dashboard": true,
+  "critical_quality": true,
+  "static_map": true,
+  "model_snapshot": true
+}

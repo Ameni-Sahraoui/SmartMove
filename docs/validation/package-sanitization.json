@@ -1,0 +1,18 @@
+{
+  "sqlite_integrity": "ok",
+  "foreign_keys": "pass",
+  "row_counts": {
+    "users": 0,
+    "sessions": 0,
+    "account_tokens": 0,
+    "audit_log": 0,
+    "jobs": 0,
+    "trips": 32804,
+    "reservations": 328985,
+    "vehicles": 96,
+    "customers": 12000
+  },
+  "auth_tables_cleared": true,
+  "vacuumed_after_auth_clear": true,
+  "generated_credentials_in_zip": false
+}

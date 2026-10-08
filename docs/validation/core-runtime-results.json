@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "checks": [
+    "/",
+    "/static/app.js",
+    "/static/vendor/plotly.min.js",
+    "/api/dashboard",
+    "/api/network",
+    "/api/resources",
+    "/api/analytics/quality",
+    "/api/analytics/forecast",
+    "/api/analytics/maintenance",
+    "/api/analytics/delay",
+    "/api/analytics/models",
+    "/api/experience",
+    "optimizer fallback without numerical stack"
+  ],
+  "optional_import_attempts_blocked": [
+    "scipy"
+  ],
+  "method": "Fresh subprocess denying all numerical, ML, PyArrow and Streamlit imports while exercising actual ASGI endpoints."
+}

@@ -1,0 +1,23 @@
+﻿id,name,origin_id,destination_id,distance_km,duration_min,fare_cents,status,origin_city,province,destination_city
+1,Vancouver → Kamloops,1,2,354.0,280,5600,Active,Vancouver,British Columbia,Kamloops
+2,Kamloops → Vancouver,2,1,354.0,280,5600,Active,Kamloops,British Columbia,Vancouver
+3,Kamloops → Calgary,2,3,620.0,470,8500,Active,Kamloops,British Columbia,Calgary
+4,Calgary → Kamloops,3,2,620.0,470,8500,Active,Calgary,Alberta,Kamloops
+5,Calgary → Edmonton,3,4,299.0,200,4200,Active,Calgary,Alberta,Edmonton
+6,Edmonton → Calgary,4,3,299.0,200,4200,Active,Edmonton,Alberta,Calgary
+7,Edmonton → Saskatoon,4,6,523.0,395,7200,Active,Edmonton,Alberta,Saskatoon
+8,Saskatoon → Edmonton,6,4,523.0,395,7200,Active,Saskatoon,Saskatchewan,Edmonton
+9,Saskatoon → Regina,6,5,258.0,185,3900,Active,Saskatoon,Saskatchewan,Regina
+10,Regina → Saskatoon,5,6,258.0,185,3900,Active,Regina,Saskatchewan,Saskatoon
+11,Regina → Brandon,5,8,360.0,270,5100,Active,Regina,Saskatchewan,Brandon
+12,Brandon → Regina,8,5,360.0,270,5100,Active,Brandon,Manitoba,Regina
+13,Brandon → Winnipeg,8,7,197.0,155,3300,Active,Brandon,Manitoba,Winnipeg
+14,Winnipeg → Brandon,7,8,197.0,155,3300,Active,Winnipeg,Manitoba,Brandon
+15,Toronto → Ottawa,9,10,450.0,290,6200,Active,Toronto,Ontario,Ottawa
+16,Ottawa → Toronto,10,9,450.0,290,6200,Active,Ottawa,Ontario,Toronto
+17,Ottawa → Montréal,10,11,199.0,145,3400,Active,Ottawa,Ontario,Montréal
+18,Montréal → Ottawa,11,10,199.0,145,3400,Active,Montréal,Quebec,Ottawa
+19,Montréal → Québec,11,12,255.0,190,4500,Active,Montréal,Quebec,Québec
+20,Québec → Montréal,12,11,255.0,190,4500,Active,Québec,Quebec,Montréal
+21,Toronto → Montréal,9,11,540.0,355,7800,Active,Toronto,Ontario,Montréal
+22,Montréal → Toronto,11,9,540.0,355,7800,Active,Montréal,Quebec,Toronto

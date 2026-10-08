@@ -1,0 +1,4618 @@
+{
+  "records": [
+    {
+      "id": 7505,
+      "vehicle_id": 95,
+      "captured_at": "2026-08-30",
+      "engine_temp": 92.34,
+      "brake_wear": 50.11,
+      "battery_voltage": 12.58,
+      "km_since_service": 15968.6,
+      "vibration": 2.123,
+      "code": "PB-7895",
+      "type": "Paratransit",
+      "facility_id": 11,
+      "probability": 0.49382676194265746,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 92.34,
+          "contribution": 0.14918417787851568
+        },
+        {
+          "feature": "brake_wear",
+          "value": 50.11,
+          "contribution": -0.0139361150757869
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.58,
+          "contribution": -0.04788470327191325
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15968.6,
+          "contribution": 0.5770890325478159
+        },
+        {
+          "feature": "vibration",
+          "value": 2.123,
+          "contribution": 0.016729632196143922
+        }
+      ],
+      "risk_score": 49,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 3792,
+      "vehicle_id": 48,
+      "captured_at": "2026-08-30",
+      "engine_temp": 84.83,
+      "brake_wear": 64.52,
+      "battery_voltage": 13.1,
+      "km_since_service": 4756.4,
+      "vibration": 1.657,
+      "code": "TR-7848",
+      "type": "Transit Bus",
+      "facility_id": 12,
+      "probability": 0.23721994696205762,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 84.83,
+          "contribution": -0.3868282495770637
+        },
+        {
+          "feature": "brake_wear",
+          "value": 64.52,
+          "contribution": 0.4550489812392275
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.1,
+          "contribution": -0.20121010783715262
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4756.4,
+          "contribution": -0.23847774181166986
+        },
+        {
+          "feature": "vibration",
+          "value": 1.657,
+          "contribution": -0.0906386174031268
+        }
+      ],
+      "risk_score": 24,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 7347,
+      "vehicle_id": 93,
+      "captured_at": "2026-08-30",
+      "engine_temp": 97.03,
+      "brake_wear": 90.08,
+      "battery_voltage": 12.51,
+      "km_since_service": 505.9,
+      "vibration": 1.767,
+      "code": "PB-7893",
+      "type": "Paratransit",
+      "facility_id": 9,
+      "probability": 0.6046248558372715,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 97.03,
+          "contribution": 0.48392429569032175
+        },
+        {
+          "feature": "brake_wear",
+          "value": 90.08,
+          "contribution": 1.2869198391026397
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.51,
+          "contribution": -0.027244744965054003
+        },
+        {
+          "feature": "km_since_service",
+          "value": 505.9,
+          "contribution": -0.5476558312512975
+        },
+        {
+          "feature": "vibration",
+          "value": 1.767,
+          "contribution": -0.06529418080244061
+        }
+      ],
+      "risk_score": 60,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 1975,
+      "vehicle_id": 25,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.52,
+      "brake_wear": 37.3,
+      "battery_voltage": 12.77,
+      "km_since_service": 4810.9,
+      "vibration": 2.41,
+      "code": "MV-7825",
+      "type": "Coach",
+      "facility_id": 1,
+      "probability": 0.23886995034800507,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.52,
+          "contribution": 0.23340450602732782
+        },
+        {
+          "feature": "brake_wear",
+          "value": 37.3,
+          "contribution": -0.4308479182538116
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.77,
+          "contribution": -0.1039074472476737
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4810.9,
+          "contribution": -0.23451345387508363
+        },
+        {
+          "feature": "vibration",
+          "value": 2.41,
+          "contribution": 0.0828555713270252
+        }
+      ],
+      "risk_score": 24,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 2054,
+      "vehicle_id": 26,
+      "captured_at": "2026-08-30",
+      "engine_temp": 104.32,
+      "brake_wear": 45.12,
+      "battery_voltage": 12.6,
+      "km_since_service": 10522.3,
+      "vibration": 1.235,
+      "code": "MV-7826",
+      "type": "Coach",
+      "facility_id": 2,
+      "probability": 0.5153194901296879,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 104.32,
+          "contribution": 1.004234628067308
+        },
+        {
+          "feature": "brake_wear",
+          "value": 45.12,
+          "contribution": -0.17633969804677394
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.6,
+          "contribution": -0.05378183421673003
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10522.3,
+          "contribution": 0.1809293740335129
+        },
+        {
+          "feature": "vibration",
+          "value": 1.235,
+          "contribution": -0.18786909236212296
+        }
+      ],
+      "risk_score": 52,
+      "risk_level": "Moderate",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 2133,
+      "vehicle_id": 27,
+      "captured_at": "2026-08-30",
+      "engine_temp": 91.75,
+      "brake_wear": 72.5,
+      "battery_voltage": 13.33,
+      "km_since_service": 9771.0,
+      "vibration": 1.354,
+      "code": "MV-7827",
+      "type": "Coach",
+      "facility_id": 3,
+      "probability": 0.4533274137315534,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 91.75,
+          "contribution": 0.10707401380410908
+        },
+        {
+          "feature": "brake_wear",
+          "value": 72.5,
+          "contribution": 0.7147645307599643
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.33,
+          "contribution": -0.2690271137025471
+        },
+        {
+          "feature": "km_since_service",
+          "value": 9771.0,
+          "contribution": 0.12628039189117854
+        },
+        {
+          "feature": "vibration",
+          "value": 1.354,
+          "contribution": -0.16045102003956244
+        }
+      ],
+      "risk_score": 45,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 2212,
+      "vehicle_id": 28,
+      "captured_at": "2026-08-30",
+      "engine_temp": 95.91,
+      "brake_wear": 53.67,
+      "battery_voltage": 11.29,
+      "km_since_service": 8545.3,
+      "vibration": 2.756,
+      "code": "MV-7828",
+      "type": "Coach",
+      "facility_id": 4,
+      "probability": 0.5822986106413196,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 95.91,
+          "contribution": 0.40398635710839753
+        },
+        {
+          "feature": "brake_wear",
+          "value": 53.67,
+          "contribution": 0.1019269621540155
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.29,
+          "contribution": 0.3324802426687773
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8545.3,
+          "contribution": 0.037123919893495484
+        },
+        {
+          "feature": "vibration",
+          "value": 2.756,
+          "contribution": 0.1625753446346381
+        }
+      ],
+      "risk_score": 58,
+      "risk_level": "Moderate",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 2291,
+      "vehicle_id": 29,
+      "captured_at": "2026-08-30",
+      "engine_temp": 101.28,
+      "brake_wear": 85.32,
+      "battery_voltage": 12.53,
+      "km_since_service": 3047.8,
+      "vibration": 2.761,
+      "code": "MV-7829",
+      "type": "Coach",
+      "facility_id": 5,
+      "probability": 0.7273484957357481,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 101.28,
+          "contribution": 0.7872602233449438
+        },
+        {
+          "feature": "brake_wear",
+          "value": 85.32,
+          "contribution": 1.1320017920200949
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.53,
+          "contribution": -0.033141875909870784
+        },
+        {
+          "feature": "km_since_service",
+          "value": 3047.8,
+          "contribution": -0.36275998710435253
+        },
+        {
+          "feature": "vibration",
+          "value": 2.761,
+          "contribution": 0.1637273644801239
+        }
+      ],
+      "risk_score": 73,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 2370,
+      "vehicle_id": 30,
+      "captured_at": "2026-08-30",
+      "engine_temp": 103.64,
+      "brake_wear": 59.24,
+      "battery_voltage": 12.54,
+      "km_since_service": 8891.3,
+      "vibration": 2.999,
+      "code": "MV-7830",
+      "type": "Coach",
+      "facility_id": 6,
+      "probability": 0.6852050199656281,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 103.64,
+          "contribution": 0.955700879642569
+        },
+        {
+          "feature": "brake_wear",
+          "value": 59.24,
+          "contribution": 0.2832071138871613
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.54,
+          "contribution": -0.03609044138227917
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8891.3,
+          "contribution": 0.06229169284870338
+        },
+        {
+          "feature": "vibration",
+          "value": 2.999,
+          "contribution": 0.218563509125245
+        }
+      ],
+      "risk_score": 69,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 2449,
+      "vehicle_id": 31,
+      "captured_at": "2026-08-30",
+      "engine_temp": 96.21,
+      "brake_wear": 54.36,
+      "battery_voltage": 12.65,
+      "km_since_service": 15378.6,
+      "vibration": 2.448,
+      "code": "MV-7831",
+      "type": "Coach",
+      "facility_id": 7,
+      "probability": 0.5989674816944512,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 96.21,
+          "contribution": 0.4253983049428413
+        },
+        {
+          "feature": "brake_wear",
+          "value": 54.36,
+          "contribution": 0.12438356981934227
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.65,
+          "contribution": -0.0685246615787725
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15378.6,
+          "contribution": 0.5341728879132127
+        },
+        {
+          "feature": "vibration",
+          "value": 2.448,
+          "contribution": 0.09161092215271675
+        }
+      ],
+      "risk_score": 60,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 2528,
+      "vehicle_id": 32,
+      "captured_at": "2026-08-30",
+      "engine_temp": 87.39,
+      "brake_wear": 60.89,
+      "battery_voltage": 13.02,
+      "km_since_service": 11958.6,
+      "vibration": 1.876,
+      "code": "MV-7832",
+      "type": "Coach",
+      "facility_id": 8,
+      "probability": 0.3762540673494909,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 87.39,
+          "contribution": -0.2041129613898089
+        },
+        {
+          "feature": "brake_wear",
+          "value": 60.89,
+          "contribution": 0.336907697434682
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.02,
+          "contribution": -0.177621584057885
+        },
+        {
+          "feature": "km_since_service",
+          "value": 11958.6,
+          "contribution": 0.28540472748890344
+        },
+        {
+          "feature": "vibration",
+          "value": 1.876,
+          "contribution": -0.040180148170851554
+        }
+      ],
+      "risk_score": 38,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 2607,
+      "vehicle_id": 33,
+      "captured_at": "2026-08-30",
+      "engine_temp": 86.2,
+      "brake_wear": 64.35,
+      "battery_voltage": 12.87,
+      "km_since_service": 4239.0,
+      "vibration": 2.275,
+      "code": "MV-7833",
+      "type": "Coach",
+      "facility_id": 9,
+      "probability": 0.2884011096195403,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 86.2,
+          "contribution": -0.2890470211331028
+        },
+        {
+          "feature": "brake_wear",
+          "value": 64.35,
+          "contribution": 0.44951619384342223
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.87,
+          "contribution": -0.1333931019717581
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4239.0,
+          "contribution": -0.27611301847937086
+        },
+        {
+          "feature": "vibration",
+          "value": 2.275,
+          "contribution": 0.05175103549891025
+        }
+      ],
+      "risk_score": 29,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 2686,
+      "vehicle_id": 34,
+      "captured_at": "2026-08-30",
+      "engine_temp": 94.15,
+      "brake_wear": 34.77,
+      "battery_voltage": 12.78,
+      "km_since_service": 12651.3,
+      "vibration": 1.599,
+      "code": "MV-7834",
+      "type": "Coach",
+      "facility_id": 10,
+      "probability": 0.30666394198780883,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 94.15,
+          "contribution": 0.27836959647966064
+        },
+        {
+          "feature": "brake_wear",
+          "value": 34.77,
+          "contribution": -0.5131888130266765
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.78,
+          "contribution": -0.10685601272008206
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12651.3,
+          "contribution": 0.3357911908590551
+        },
+        {
+          "feature": "vibration",
+          "value": 1.599,
+          "contribution": -0.10400204761076136
+        }
+      ],
+      "risk_score": 31,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 2765,
+      "vehicle_id": 35,
+      "captured_at": "2026-08-30",
+      "engine_temp": 89.65,
+      "brake_wear": 50.17,
+      "battery_voltage": 12.77,
+      "km_since_service": 1236.0,
+      "vibration": 2.77,
+      "code": "MV-7835",
+      "type": "Coach",
+      "facility_id": 11,
+      "probability": 0.2326648634525963,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 89.65,
+          "contribution": -0.042809621036997814
+        },
+        {
+          "feature": "brake_wear",
+          "value": 50.17,
+          "contribution": -0.011983366583149706
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.77,
+          "contribution": -0.1039074472476737
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1236.0,
+          "contribution": -0.49454892074668105
+        },
+        {
+          "feature": "vibration",
+          "value": 2.77,
+          "contribution": 0.16580100020199823
+        }
+      ],
+      "risk_score": 23,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 2844,
+      "vehicle_id": 36,
+      "captured_at": "2026-08-30",
+      "engine_temp": 92.01,
+      "brake_wear": 19.52,
+      "battery_voltage": 12.98,
+      "km_since_service": 1778.2,
+      "vibration": 0.95,
+      "code": "MV-7836",
+      "type": "Coach",
+      "facility_id": 12,
+      "probability": 0.07840422847329258,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 92.01,
+          "contribution": 0.1256310352606275
+        },
+        {
+          "feature": "brake_wear",
+          "value": 19.52,
+          "contribution": -1.0095123882386108
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.98,
+          "contribution": -0.16582732216825144
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1778.2,
+          "contribution": -0.4551097112197628
+        },
+        {
+          "feature": "vibration",
+          "value": 0.95,
+          "contribution": -0.25353422355481
+        }
+      ],
+      "risk_score": 8,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 2923,
+      "vehicle_id": 37,
+      "captured_at": "2026-08-30",
+      "engine_temp": 97.04,
+      "brake_wear": 57.76,
+      "battery_voltage": 11.95,
+      "km_since_service": 7208.7,
+      "vibration": 0.729,
+      "code": "MV-7837",
+      "type": "Coach",
+      "facility_id": 1,
+      "probability": 0.44698086968760325,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 97.04,
+          "contribution": 0.4846380272848036
+        },
+        {
+          "feature": "brake_wear",
+          "value": 57.76,
+          "contribution": 0.23503931773544556
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.95,
+          "contribution": 0.13787492148981947
+        },
+        {
+          "feature": "km_since_service",
+          "value": 7208.7,
+          "contribution": -0.06009933251092898
+        },
+        {
+          "feature": "vibration",
+          "value": 0.729,
+          "contribution": -0.30445350072527955
+        }
+      ],
+      "risk_score": 45,
+      "risk_level": "Moderate",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 3002,
+      "vehicle_id": 38,
+      "captured_at": "2026-08-30",
+      "engine_temp": 102.29,
+      "brake_wear": 99.79,
+      "battery_voltage": 12.81,
+      "km_since_service": 15740.6,
+      "vibration": 1.686,
+      "code": "MV-7838",
+      "type": "Coach",
+      "facility_id": 2,
+      "probability": 0.8925691300662381,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 102.29,
+          "contribution": 0.8593471143875719
+        },
+        {
+          "feature": "brake_wear",
+          "value": 99.79,
+          "contribution": 1.6029396368277469
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.81,
+          "contribution": -0.11570170913730778
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15740.6,
+          "contribution": 0.5605044885195285
+        },
+        {
+          "feature": "vibration",
+          "value": 1.686,
+          "contribution": -0.08395690229930955
+        }
+      ],
+      "risk_score": 89,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 3081,
+      "vehicle_id": 39,
+      "captured_at": "2026-08-30",
+      "engine_temp": 90.8,
+      "brake_wear": 45.21,
+      "battery_voltage": 12.45,
+      "km_since_service": 14329.4,
+      "vibration": 0.884,
+      "code": "MV-7839",
+      "type": "Coach",
+      "facility_id": 3,
+      "probability": 0.3406370406634662,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 90.8,
+          "contribution": 0.03926951232836986
+        },
+        {
+          "feature": "brake_wear",
+          "value": 45.21,
+          "contribution": -0.17341057530781814
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.45,
+          "contribution": -0.009553352130603144
+        },
+        {
+          "feature": "km_since_service",
+          "value": 14329.4,
+          "contribution": 0.4578548896918135
+        },
+        {
+          "feature": "vibration",
+          "value": 0.884,
+          "contribution": -0.26874088551522174
+        }
+      ],
+      "risk_score": 34,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 3160,
+      "vehicle_id": 40,
+      "captured_at": "2026-08-30",
+      "engine_temp": 81.55,
+      "brake_wear": 40.42,
+      "battery_voltage": 12.62,
+      "km_since_service": 14204.4,
+      "vibration": 3.651,
+      "code": "MV-7840",
+      "type": "Coach",
+      "facility_id": 4,
+      "probability": 0.289411690561649,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 81.55,
+          "contribution": -0.6209322125669837
+        },
+        {
+          "feature": "brake_wear",
+          "value": 40.42,
+          "contribution": -0.32930499663668134
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.62,
+          "contribution": -0.05967896516154681
+        },
+        {
+          "feature": "km_since_service",
+          "value": 14204.4,
+          "contribution": 0.4487624861675332
+        },
+        {
+          "feature": "vibration",
+          "value": 3.651,
+          "contribution": 0.368786896976585
+        }
+      ],
+      "risk_score": 29,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 3239,
+      "vehicle_id": 41,
+      "captured_at": "2026-08-30",
+      "engine_temp": 83.48,
+      "brake_wear": 71.05,
+      "battery_voltage": 12.8,
+      "km_since_service": 6741.2,
+      "vibration": 0.28,
+      "code": "TR-7841",
+      "type": "Transit Bus",
+      "facility_id": 5,
+      "probability": 0.24300988283034863,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 83.48,
+          "contribution": -0.4831820148320608
+        },
+        {
+          "feature": "brake_wear",
+          "value": 71.05,
+          "contribution": 0.667573108854567
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.8,
+          "contribution": -0.11275314366489939
+        },
+        {
+          "feature": "km_since_service",
+          "value": 6741.2,
+          "contribution": -0.09410492169173734
+        },
+        {
+          "feature": "vibration",
+          "value": 0.28,
+          "contribution": -0.40790488284989873
+        }
+      ],
+      "risk_score": 24,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 3318,
+      "vehicle_id": 42,
+      "captured_at": "2026-08-30",
+      "engine_temp": 96.17,
+      "brake_wear": 72.19,
+      "battery_voltage": 12.45,
+      "km_since_service": 1751.5,
+      "vibration": 2.174,
+      "code": "TR-7842",
+      "type": "Transit Bus",
+      "facility_id": 6,
+      "probability": 0.4958044763085669,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 96.17,
+          "contribution": 0.42254337856491603
+        },
+        {
+          "feature": "brake_wear",
+          "value": 72.19,
+          "contribution": 0.7046753302146723
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.45,
+          "contribution": -0.009553352130603144
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1751.5,
+          "contribution": -0.45705184861254905
+        },
+        {
+          "feature": "vibration",
+          "value": 2.174,
+          "contribution": 0.028480234620098372
+        }
+      ],
+      "risk_score": 50,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 3397,
+      "vehicle_id": 43,
+      "captured_at": "2026-08-30",
+      "engine_temp": 82.96,
+      "brake_wear": 77.35,
+      "battery_voltage": 12.24,
+      "km_since_service": 1318.5,
+      "vibration": 1.7,
+      "code": "TR-7843",
+      "type": "Transit Bus",
+      "facility_id": 7,
+      "probability": 0.2951558387210853,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 82.96,
+          "contribution": -0.5202960577450977
+        },
+        {
+          "feature": "brake_wear",
+          "value": 77.35,
+          "contribution": 0.8726117005814644
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.24,
+          "contribution": 0.05236652278997407
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1318.5,
+          "contribution": -0.488547934420656
+        },
+        {
+          "feature": "vibration",
+          "value": 1.7,
+          "contribution": -0.08073124673194948
+        }
+      ],
+      "risk_score": 30,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 1896,
+      "vehicle_id": 24,
+      "captured_at": "2026-08-30",
+      "engine_temp": 101.47,
+      "brake_wear": 61.14,
+      "battery_voltage": 11.61,
+      "km_since_service": 1166.5,
+      "vibration": 2.673,
+      "code": "MV-7824",
+      "type": "Coach",
+      "facility_id": 12,
+      "probability": 0.5798025043841768,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 101.47,
+          "contribution": 0.8008211236400914
+        },
+        {
+          "feature": "brake_wear",
+          "value": 61.14,
+          "contribution": 0.34504414948733664
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.61,
+          "contribution": 0.23812614755170677
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1166.5,
+          "contribution": -0.4996042971061809
+        },
+        {
+          "feature": "vibration",
+          "value": 2.673,
+          "contribution": 0.14345181519957492
+        }
+      ],
+      "risk_score": 58,
+      "risk_level": "Moderate",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 1817,
+      "vehicle_id": 23,
+      "captured_at": "2026-08-30",
+      "engine_temp": 78.98,
+      "brake_wear": 49.47,
+      "battery_voltage": 13.05,
+      "km_since_service": 1208.1,
+      "vibration": 1.143,
+      "code": "MV-7823",
+      "type": "Coach",
+      "facility_id": 11,
+      "probability": 0.08038594129797352,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 78.98,
+          "contribution": -0.8043612323487194
+        },
+        {
+          "feature": "brake_wear",
+          "value": 49.47,
+          "contribution": -0.03476543233058284
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.05,
+          "contribution": -0.18646728047511069
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1208.1,
+          "contribution": -0.49657834521330035
+        },
+        {
+          "feature": "vibration",
+          "value": 1.143,
+          "contribution": -0.2090662575190605
+        }
+      ],
+      "risk_score": 8,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 1738,
+      "vehicle_id": 22,
+      "captured_at": "2026-08-30",
+      "engine_temp": 101.13,
+      "brake_wear": 74.44,
+      "battery_voltage": 12.0,
+      "km_since_service": 5014.3,
+      "vibration": 2.198,
+      "code": "MV-7822",
+      "type": "Coach",
+      "facility_id": 10,
+      "probability": 0.6869729149748732,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 101.13,
+          "contribution": 0.7765542494277214
+        },
+        {
+          "feature": "brake_wear",
+          "value": 74.44,
+          "contribution": 0.7779033986885643
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.0,
+          "contribution": 0.12313209412777697
+        },
+        {
+          "feature": "km_since_service",
+          "value": 5014.3,
+          "contribution": -0.21971829486037464
+        },
+        {
+          "feature": "vibration",
+          "value": 2.198,
+          "contribution": 0.03400992987842991
+        }
+      ],
+      "risk_score": 69,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 1659,
+      "vehicle_id": 21,
+      "captured_at": "2026-08-30",
+      "engine_temp": 106.36,
+      "brake_wear": 60.49,
+      "battery_voltage": 11.8,
+      "km_since_service": 4843.8,
+      "vibration": 2.768,
+      "code": "MV-7821",
+      "type": "Coach",
+      "facility_id": 9,
+      "probability": 0.7074791636207017,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 106.36,
+          "contribution": 1.149835873341527
+        },
+        {
+          "feature": "brake_wear",
+          "value": 60.49,
+          "contribution": 0.32388937415043456
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.8,
+          "contribution": 0.18210340357594582
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4843.8,
+          "contribution": -0.23212033326749304
+        },
+        {
+          "feature": "vibration",
+          "value": 2.768,
+          "contribution": 0.16534019226380386
+        }
+      ],
+      "risk_score": 71,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 79,
+      "vehicle_id": 1,
+      "captured_at": "2026-08-30",
+      "engine_temp": 94.11,
+      "brake_wear": 72.97,
+      "battery_voltage": 12.46,
+      "km_since_service": 12784.4,
+      "vibration": 3.247,
+      "code": "MV-7801",
+      "type": "Coach",
+      "facility_id": 1,
+      "probability": 0.7126673294088667,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 94.11,
+          "contribution": 0.27551467010173436
+        },
+        {
+          "feature": "brake_wear",
+          "value": 72.97,
+          "contribution": 0.7300610606189548
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.46,
+          "contribution": -0.012501917603012058
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12784.4,
+          "contribution": 0.3454727821317089
+        },
+        {
+          "feature": "vibration",
+          "value": 3.247,
+          "contribution": 0.2757036934613375
+        }
+      ],
+      "risk_score": 71,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 158,
+      "vehicle_id": 2,
+      "captured_at": "2026-08-30",
+      "engine_temp": 96.22,
+      "brake_wear": 38.35,
+      "battery_voltage": 12.46,
+      "km_since_service": 7372.4,
+      "vibration": 2.082,
+      "code": "MV-7802",
+      "type": "Coach",
+      "facility_id": 2,
+      "probability": 0.3252276922813321,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 96.22,
+          "contribution": 0.42611203653732316
+        },
+        {
+          "feature": "brake_wear",
+          "value": 38.35,
+          "contribution": -0.3966748196326619
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.46,
+          "contribution": -0.012501917603012058
+        },
+        {
+          "feature": "km_since_service",
+          "value": 7372.4,
+          "contribution": -0.048191920855531506
+        },
+        {
+          "feature": "vibration",
+          "value": 2.082,
+          "contribution": 0.007283069463160797
+        }
+      ],
+      "risk_score": 33,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 237,
+      "vehicle_id": 3,
+      "captured_at": "2026-08-30",
+      "engine_temp": 94.33,
+      "brake_wear": 61.72,
+      "battery_voltage": 13.02,
+      "km_since_service": 12731.2,
+      "vibration": 0.692,
+      "code": "MV-7803",
+      "type": "Coach",
+      "facility_id": 3,
+      "probability": 0.45023141615646756,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 94.33,
+          "contribution": 0.2912167651803265
+        },
+        {
+          "feature": "brake_wear",
+          "value": 61.72,
+          "contribution": 0.36392071824949535
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.02,
+          "contribution": -0.177621584057885
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12731.2,
+          "contribution": 0.3416030551917752
+        },
+        {
+          "feature": "vibration",
+          "value": 0.692,
+          "contribution": -0.312978447581874
+        }
+      ],
+      "risk_score": 45,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 316,
+      "vehicle_id": 4,
+      "captured_at": "2026-08-30",
+      "engine_temp": 90.57,
+      "brake_wear": 86.24,
+      "battery_voltage": 12.74,
+      "km_since_service": 15330.9,
+      "vibration": 4.038,
+      "code": "MV-7804",
+      "type": "Coach",
+      "facility_id": 4,
+      "probability": 0.7977863630323329,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 90.57,
+          "contribution": 0.022853685655295934
+        },
+        {
+          "feature": "brake_wear",
+          "value": 86.24,
+          "contribution": 1.161943935573864
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.74,
+          "contribution": -0.09506175083044853
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15330.9,
+          "contribution": 0.5307032267283474
+        },
+        {
+          "feature": "vibration",
+          "value": 4.038,
+          "contribution": 0.45795323301718116
+        }
+      ],
+      "risk_score": 80,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 395,
+      "vehicle_id": 5,
+      "captured_at": "2026-08-30",
+      "engine_temp": 83.33,
+      "brake_wear": 76.55,
+      "battery_voltage": 11.45,
+      "km_since_service": 15616.0,
+      "vibration": 2.78,
+      "code": "MV-7805",
+      "type": "Coach",
+      "facility_id": 5,
+      "probability": 0.6573844985473802,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 83.33,
+          "contribution": -0.4938879887492832
+        },
+        {
+          "feature": "brake_wear",
+          "value": 76.55,
+          "contribution": 0.8465750540129695
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.45,
+          "contribution": 0.28530319511024205
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15616.0,
+          "contribution": 0.5514411806865259
+        },
+        {
+          "feature": "vibration",
+          "value": 2.78,
+          "contribution": 0.16810503989296965
+        }
+      ],
+      "risk_score": 66,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 474,
+      "vehicle_id": 6,
+      "captured_at": "2026-08-30",
+      "engine_temp": 96.21,
+      "brake_wear": 51.74,
+      "battery_voltage": 13.41,
+      "km_since_service": 8917.7,
+      "vibration": 1.364,
+      "code": "MV-7806",
+      "type": "Coach",
+      "facility_id": 6,
+      "probability": 0.34798345917726164,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 96.21,
+          "contribution": 0.4253983049428413
+        },
+        {
+          "feature": "brake_wear",
+          "value": 51.74,
+          "contribution": 0.03911355230752155
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.41,
+          "contribution": -0.2926156374818148
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8917.7,
+          "contribution": 0.06421200847303149
+        },
+        {
+          "feature": "vibration",
+          "value": 1.364,
+          "contribution": -0.15814698034859095
+        }
+      ],
+      "risk_score": 35,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 553,
+      "vehicle_id": 7,
+      "captured_at": "2026-08-30",
+      "engine_temp": 94.3,
+      "brake_wear": 15.85,
+      "battery_voltage": 11.75,
+      "km_since_service": 7082.7,
+      "vibration": 2.467,
+      "code": "MV-7807",
+      "type": "Coach",
+      "facility_id": 7,
+      "probability": 0.21045486118309145,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 94.3,
+          "contribution": 0.28907557039688203
+        },
+        {
+          "feature": "brake_wear",
+          "value": 15.85,
+          "contribution": -1.128955504371581
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.75,
+          "contribution": 0.19684623093798825
+        },
+        {
+          "feature": "km_since_service",
+          "value": 7082.7,
+          "contribution": -0.06926447526340353
+        },
+        {
+          "feature": "vibration",
+          "value": 2.467,
+          "contribution": 0.09598859756556258
+        }
+      ],
+      "risk_score": 21,
+      "risk_level": "Low",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 632,
+      "vehicle_id": 8,
+      "captured_at": "2026-08-30",
+      "engine_temp": 87.89,
+      "brake_wear": 63.96,
+      "battery_voltage": 12.29,
+      "km_since_service": 6104.4,
+      "vibration": 1.885,
+      "code": "MV-7808",
+      "type": "Coach",
+      "facility_id": 8,
+      "probability": 0.35930374564098,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 87.89,
+          "contribution": -0.16842638166573573
+        },
+        {
+          "feature": "brake_wear",
+          "value": 63.96,
+          "contribution": 0.43682332864128115
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.29,
+          "contribution": 0.037623695427932126
+        },
+        {
+          "feature": "km_since_service",
+          "value": 6104.4,
+          "contribution": -0.140425262205831
+        },
+        {
+          "feature": "vibration",
+          "value": 1.885,
+          "contribution": -0.0381065124489772
+        }
+      ],
+      "risk_score": 36,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 711,
+      "vehicle_id": 9,
+      "captured_at": "2026-08-30",
+      "engine_temp": 106.52,
+      "brake_wear": 82.7,
+      "battery_voltage": 12.19,
+      "km_since_service": 4754.1,
+      "vibration": 1.753,
+      "code": "MV-7809",
+      "type": "Coach",
+      "facility_id": 9,
+      "probability": 0.7793797638352403,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 106.52,
+          "contribution": 1.1612555788532302
+        },
+        {
+          "feature": "brake_wear",
+          "value": 82.7,
+          "contribution": 1.0467317745082743
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.19,
+          "contribution": 0.06710935015201655
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4754.1,
+          "contribution": -0.2386450420365165
+        },
+        {
+          "feature": "vibration",
+          "value": 1.753,
+          "contribution": -0.06851983636980068
+        }
+      ],
+      "risk_score": 78,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 3476,
+      "vehicle_id": 44,
+      "captured_at": "2026-08-30",
+      "engine_temp": 82.59,
+      "brake_wear": 64.02,
+      "battery_voltage": 12.63,
+      "km_since_service": 7082.5,
+      "vibration": 2.25,
+      "code": "TR-7844",
+      "type": "Transit Bus",
+      "facility_id": 8,
+      "probability": 0.28910806174260306,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 82.59,
+          "contribution": -0.5467041267409111
+        },
+        {
+          "feature": "brake_wear",
+          "value": 64.02,
+          "contribution": 0.4387760771339182
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.63,
+          "contribution": -0.06262753063395572
+        },
+        {
+          "feature": "km_since_service",
+          "value": 7082.5,
+          "contribution": -0.06927902310904237
+        },
+        {
+          "feature": "vibration",
+          "value": 2.25,
+          "contribution": 0.04599093627148158
+        }
+      ],
+      "risk_score": 29,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 790,
+      "vehicle_id": 10,
+      "captured_at": "2026-08-30",
+      "engine_temp": 89.17,
+      "brake_wear": 69.39,
+      "battery_voltage": 12.39,
+      "km_since_service": 12376.8,
+      "vibration": 1.72,
+      "code": "MV-7810",
+      "type": "Coach",
+      "facility_id": 10,
+      "probability": 0.5196002620524276,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 89.17,
+          "contribution": -0.07706873757210833
+        },
+        {
+          "feature": "brake_wear",
+          "value": 69.39,
+          "contribution": 0.6135470672249402
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.39,
+          "contribution": 0.008138040703847185
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12376.8,
+          "contribution": 0.31582427271973557
+        },
+        {
+          "feature": "vibration",
+          "value": 1.72,
+          "contribution": -0.07612316735000653
+        }
+      ],
+      "risk_score": 52,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 948,
+      "vehicle_id": 12,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.35,
+      "brake_wear": 50.34,
+      "battery_voltage": 12.89,
+      "km_since_service": 2256.4,
+      "vibration": 1.345,
+      "code": "MV-7812",
+      "type": "Coach",
+      "facility_id": 12,
+      "probability": 0.22913596598411365,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.35,
+          "contribution": 0.2212710689211428
+        },
+        {
+          "feature": "brake_wear",
+          "value": 50.34,
+          "contribution": -0.006450579187344481
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.89,
+          "contribution": -0.1392902329165754
+        },
+        {
+          "feature": "km_since_service",
+          "value": 2256.4,
+          "contribution": -0.42032581229727606
+        },
+        {
+          "feature": "vibration",
+          "value": 1.345,
+          "contribution": -0.16252465576143676
+        }
+      ],
+      "risk_score": 23,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 1027,
+      "vehicle_id": 13,
+      "captured_at": "2026-08-30",
+      "engine_temp": 94.32,
+      "brake_wear": 43.46,
+      "battery_voltage": 12.81,
+      "km_since_service": 8049.0,
+      "vibration": 2.963,
+      "code": "MV-7813",
+      "type": "Coach",
+      "facility_id": 1,
+      "probability": 0.365830017008042,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 94.32,
+          "contribution": 0.29050303358584467
+        },
+        {
+          "feature": "brake_wear",
+          "value": 43.46,
+          "contribution": -0.23036573967640073
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.81,
+          "contribution": -0.11570170913730778
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8049.0,
+          "contribution": 0.0010234409406929916
+        },
+        {
+          "feature": "vibration",
+          "value": 2.963,
+          "contribution": 0.2102689662377477
+        }
+      ],
+      "risk_score": 37,
+      "risk_level": "Moderate",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 1106,
+      "vehicle_id": 14,
+      "captured_at": "2026-08-30",
+      "engine_temp": 106.64,
+      "brake_wear": 54.93,
+      "battery_voltage": 12.65,
+      "km_since_service": 8615.2,
+      "vibration": 1.686,
+      "code": "MV-7814",
+      "type": "Coach",
+      "facility_id": 2,
+      "probability": 0.6216613119348617,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 106.64,
+          "contribution": 1.1698203579870081
+        },
+        {
+          "feature": "brake_wear",
+          "value": 54.93,
+          "contribution": 0.14293468049939492
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.65,
+          "contribution": -0.0685246615787725
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8615.2,
+          "contribution": 0.04220839194427314
+        },
+        {
+          "feature": "vibration",
+          "value": 1.686,
+          "contribution": -0.08395690229930955
+        }
+      ],
+      "risk_score": 62,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 1185,
+      "vehicle_id": 15,
+      "captured_at": "2026-08-30",
+      "engine_temp": 83.38,
+      "brake_wear": 48.93,
+      "battery_voltage": 12.08,
+      "km_since_service": 1367.8,
+      "vibration": 2.361,
+      "code": "MV-7815",
+      "type": "Coach",
+      "facility_id": 3,
+      "probability": 0.173304212294371,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 83.38,
+          "contribution": -0.49031933077687606
+        },
+        {
+          "feature": "brake_wear",
+          "value": 48.93,
+          "contribution": -0.05234016876431687
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.08,
+          "contribution": 0.09954357034850934
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1367.8,
+          "contribution": -0.4849618904706799
+        },
+        {
+          "feature": "vibration",
+          "value": 2.361,
+          "contribution": 0.071565776841265
+        }
+      ],
+      "risk_score": 17,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 1264,
+      "vehicle_id": 16,
+      "captured_at": "2026-08-30",
+      "engine_temp": 86.77,
+      "brake_wear": 76.78,
+      "battery_voltage": 12.4,
+      "km_since_service": 2329.8,
+      "vibration": 1.071,
+      "code": "MV-7816",
+      "type": "Coach",
+      "facility_id": 4,
+      "probability": 0.3239599149890491,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 86.77,
+          "contribution": -0.24836432024765995
+        },
+        {
+          "feature": "brake_wear",
+          "value": 76.78,
+          "contribution": 0.8540605899014119
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.4,
+          "contribution": 0.005189475231438801
+        },
+        {
+          "feature": "km_since_service",
+          "value": 2329.8,
+          "contribution": -0.41498675294781856
+        },
+        {
+          "feature": "vibration",
+          "value": 1.071,
+          "contribution": -0.22565534329405518
+        }
+      ],
+      "risk_score": 32,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 1343,
+      "vehicle_id": 17,
+      "captured_at": "2026-08-30",
+      "engine_temp": 104.49,
+      "brake_wear": 74.78,
+      "battery_voltage": 12.51,
+      "km_since_service": 14273.3,
+      "vibration": 2.504,
+      "code": "MV-7817",
+      "type": "Coach",
+      "facility_id": 5,
+      "probability": 0.8362386461689195,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 104.49,
+          "contribution": 1.0163680651734932
+        },
+        {
+          "feature": "brake_wear",
+          "value": 74.78,
+          "contribution": 0.7889689734801747
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.51,
+          "contribution": -0.027244744965054003
+        },
+        {
+          "feature": "km_since_service",
+          "value": 14273.3,
+          "contribution": 0.45377421899011644
+        },
+        {
+          "feature": "vibration",
+          "value": 2.504,
+          "contribution": 0.104513544422157
+        }
+      ],
+      "risk_score": 84,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 1422,
+      "vehicle_id": 18,
+      "captured_at": "2026-08-30",
+      "engine_temp": 94.94,
+      "brake_wear": 73.35,
+      "battery_voltage": 12.55,
+      "km_since_service": 7024.2,
+      "vibration": 2.495,
+      "code": "MV-7818",
+      "type": "Coach",
+      "facility_id": 6,
+      "probability": 0.5893279390693732,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 94.94,
+          "contribution": 0.3347543924436957
+        },
+        {
+          "feature": "brake_wear",
+          "value": 73.35,
+          "contribution": 0.7424284677389899
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.55,
+          "contribution": -0.03903900685468808
+        },
+        {
+          "feature": "km_since_service",
+          "value": 7024.2,
+          "contribution": -0.07351972011276672
+        },
+        {
+          "feature": "vibration",
+          "value": 2.495,
+          "contribution": 0.10243990870028272
+        }
+      ],
+      "risk_score": 59,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 1501,
+      "vehicle_id": 19,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.75,
+      "brake_wear": 69.35,
+      "battery_voltage": 12.43,
+      "km_since_service": 10877.3,
+      "vibration": 2.715,
+      "code": "MV-7819",
+      "type": "Coach",
+      "facility_id": 7,
+      "probability": 0.625372130724591,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.75,
+          "contribution": 0.24982033270040171
+        },
+        {
+          "feature": "brake_wear",
+          "value": 69.35,
+          "contribution": 0.6122452348965153
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.43,
+          "contribution": -0.0036562211857863658
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10877.3,
+          "contribution": 0.20675180004246893
+        },
+        {
+          "feature": "vibration",
+          "value": 2.715,
+          "contribution": 0.15312878190165508
+        }
+      ],
+      "risk_score": 63,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 1580,
+      "vehicle_id": 20,
+      "captured_at": "2026-08-30",
+      "engine_temp": 103.59,
+      "brake_wear": 50.56,
+      "battery_voltage": 11.45,
+      "km_since_service": 1941.8,
+      "vibration": 0.443,
+      "code": "MV-7820",
+      "type": "Coach",
+      "facility_id": 8,
+      "probability": 0.4301375621023751,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 103.59,
+          "contribution": 0.9521322216701619
+        },
+        {
+          "feature": "brake_wear",
+          "value": 50.56,
+          "contribution": 0.0007094986189915743
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.45,
+          "contribution": 0.28530319511024205
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1941.8,
+          "contribution": -0.4432095734871847
+        },
+        {
+          "feature": "vibration",
+          "value": 0.443,
+          "contribution": -0.3703490358870637
+        }
+      ],
+      "risk_score": 43,
+      "risk_level": "Moderate",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 869,
+      "vehicle_id": 11,
+      "captured_at": "2026-08-30",
+      "engine_temp": 103.25,
+      "brake_wear": 89.09,
+      "battery_voltage": 11.82,
+      "km_since_service": 4373.2,
+      "vibration": 1.676,
+      "code": "MV-7811",
+      "type": "Coach",
+      "facility_id": 11,
+      "probability": 0.7858825271430177,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 103.25,
+          "contribution": 0.927865347457792
+        },
+        {
+          "feature": "brake_wear",
+          "value": 89.09,
+          "contribution": 1.2546994889741274
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.82,
+          "contribution": 0.17620627263112904
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4373.2,
+          "contribution": -0.26635141405570356
+        },
+        {
+          "feature": "vibration",
+          "value": 1.676,
+          "contribution": -0.08626094199028102
+        }
+      ],
+      "risk_score": 79,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 3555,
+      "vehicle_id": 45,
+      "captured_at": "2026-08-30",
+      "engine_temp": 95.16,
+      "brake_wear": 78.41,
+      "battery_voltage": 13.23,
+      "km_since_service": 12073.4,
+      "vibration": 0.929,
+      "code": "TR-7845",
+      "type": "Transit Bus",
+      "facility_id": 9,
+      "probability": 0.586018855722478,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 95.16,
+          "contribution": 0.3504564875222878
+        },
+        {
+          "feature": "brake_wear",
+          "value": 78.41,
+          "contribution": 0.9071102572847202
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.23,
+          "contribution": -0.23954145897846274
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12073.4,
+          "contribution": 0.2937551908856024
+        },
+        {
+          "feature": "vibration",
+          "value": 0.929,
+          "contribution": -0.25837270690585007
+        }
+      ],
+      "risk_score": 59,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 3634,
+      "vehicle_id": 46,
+      "captured_at": "2026-08-30",
+      "engine_temp": 98.6,
+      "brake_wear": 51.07,
+      "battery_voltage": 12.42,
+      "km_since_service": 3326.5,
+      "vibration": 1.078,
+      "code": "TR-7846",
+      "type": "Transit Bus",
+      "facility_id": 10,
+      "probability": 0.34077871057007086,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 98.6,
+          "contribution": 0.5959801560239111
+        },
+        {
+          "feature": "brake_wear",
+          "value": 51.07,
+          "contribution": 0.017307860806407012
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.42,
+          "contribution": -0.0007076557133779768
+        },
+        {
+          "feature": "km_since_service",
+          "value": 3326.5,
+          "contribution": -0.34248756420661713
+        },
+        {
+          "feature": "vibration",
+          "value": 1.078,
+          "contribution": -0.22404251551037507
+        }
+      ],
+      "risk_score": 34,
+      "risk_level": "Low",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 3713,
+      "vehicle_id": 47,
+      "captured_at": "2026-08-30",
+      "engine_temp": 86.37,
+      "brake_wear": 39.47,
+      "battery_voltage": 11.76,
+      "km_since_service": 9917.4,
+      "vibration": 1.003,
+      "code": "TR-7847",
+      "type": "Transit Bus",
+      "facility_id": 11,
+      "probability": 0.2220932944108459,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 86.37,
+          "contribution": -0.2769135840269179
+        },
+        {
+          "feature": "brake_wear",
+          "value": 39.47,
+          "contribution": -0.36022351443676914
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.76,
+          "contribution": 0.1938976654655799
+        },
+        {
+          "feature": "km_since_service",
+          "value": 9917.4,
+          "contribution": 0.13692941489881563
+        },
+        {
+          "feature": "vibration",
+          "value": 1.003,
+          "contribution": -0.24132281319266122
+        }
+      ],
+      "risk_score": 22,
+      "risk_level": "Low",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 5767,
+      "vehicle_id": 73,
+      "captured_at": "2026-08-30",
+      "engine_temp": 82.11,
+      "brake_wear": 51.29,
+      "battery_voltage": 13.15,
+      "km_since_service": 14264.3,
+      "vibration": 2.902,
+      "code": "PB-7873",
+      "type": "Minibus",
+      "facility_id": 1,
+      "probability": 0.3038585487854298,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 82.11,
+          "contribution": -0.5809632432760217
+        },
+        {
+          "feature": "brake_wear",
+          "value": 51.29,
+          "contribution": 0.024467938612743077
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.15,
+          "contribution": -0.21595293519919506
+        },
+        {
+          "feature": "km_since_service",
+          "value": 14264.3,
+          "contribution": 0.45311956593636826
+        },
+        {
+          "feature": "vibration",
+          "value": 2.902,
+          "contribution": 0.19621432412282172
+        }
+      ],
+      "risk_score": 30,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 5846,
+      "vehicle_id": 74,
+      "captured_at": "2026-08-30",
+      "engine_temp": 83.4,
+      "brake_wear": 44.63,
+      "battery_voltage": 13.02,
+      "km_since_service": 12028.3,
+      "vibration": 1.453,
+      "code": "PB-7874",
+      "type": "Minibus",
+      "facility_id": 2,
+      "probability": 0.19594349772186823,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 83.4,
+          "contribution": -0.4888918675879124
+        },
+        {
+          "feature": "brake_wear",
+          "value": 44.63,
+          "contribution": -0.19228714406997688
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.02,
+          "contribution": -0.177621584057885
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12028.3,
+          "contribution": 0.2904746516940421
+        },
+        {
+          "feature": "vibration",
+          "value": 1.453,
+          "contribution": -0.13764102709894485
+        }
+      ],
+      "risk_score": 20,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 5925,
+      "vehicle_id": 75,
+      "captured_at": "2026-08-30",
+      "engine_temp": 77.7,
+      "brake_wear": 42.22,
+      "battery_voltage": 13.19,
+      "km_since_service": 1283.4,
+      "vibration": 3.508,
+      "code": "PB-7875",
+      "type": "Minibus",
+      "facility_id": 3,
+      "probability": 0.0948909755525016,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 77.7,
+          "contribution": -0.8957188764423467
+        },
+        {
+          "feature": "brake_wear",
+          "value": 42.22,
+          "contribution": -0.27072254185756794
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.19,
+          "contribution": -0.22774719708882865
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1283.4,
+          "contribution": -0.49110108133027397
+        },
+        {
+          "feature": "vibration",
+          "value": 3.508,
+          "contribution": 0.335839129395693
+        }
+      ],
+      "risk_score": 9,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 6004,
+      "vehicle_id": 76,
+      "captured_at": "2026-08-30",
+      "engine_temp": 89.38,
+      "brake_wear": 52.6,
+      "battery_voltage": 12.58,
+      "km_since_service": 4631.3,
+      "vibration": 3.741,
+      "code": "PB-7876",
+      "type": "Minibus",
+      "facility_id": 4,
+      "probability": 0.35279121274233577,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 89.38,
+          "contribution": -0.06208037408799805
+        },
+        {
+          "feature": "brake_wear",
+          "value": 52.6,
+          "contribution": 0.06710294736865355
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.58,
+          "contribution": -0.04788470327191325
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4631.3,
+          "contribution": -0.24757741925876955
+        },
+        {
+          "feature": "vibration",
+          "value": 3.741,
+          "contribution": 0.3895232541953284
+        }
+      ],
+      "risk_score": 35,
+      "risk_level": "Moderate",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 6083,
+      "vehicle_id": 77,
+      "captured_at": "2026-08-30",
+      "engine_temp": 76.29,
+      "brake_wear": 62.87,
+      "battery_voltage": 12.2,
+      "km_since_service": 5740.1,
+      "vibration": 3.164,
+      "code": "PB-7877",
+      "type": "Minibus",
+      "facility_id": 5,
+      "probability": 0.2410253836102992,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 76.29,
+          "contribution": -0.9963550312642326
+        },
+        {
+          "feature": "brake_wear",
+          "value": 62.87,
+          "contribution": 0.40134839769170677
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.2,
+          "contribution": 0.06416078467960816
+        },
+        {
+          "feature": "km_since_service",
+          "value": 5740.1,
+          "contribution": -0.16692416303699348
+        },
+        {
+          "feature": "vibration",
+          "value": 3.164,
+          "contribution": 0.25658016402627437
+        }
+      ],
+      "risk_score": 24,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 6162,
+      "vehicle_id": 78,
+      "captured_at": "2026-08-30",
+      "engine_temp": 90.03,
+      "brake_wear": 70.72,
+      "battery_voltage": 12.93,
+      "km_since_service": 10637.4,
+      "vibration": 1.371,
+      "code": "PB-7878",
+      "type": "Minibus",
+      "facility_id": 6,
+      "probability": 0.4543653387674166,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 90.03,
+          "contribution": -0.015687820446702524
+        },
+        {
+          "feature": "brake_wear",
+          "value": 70.72,
+          "contribution": 0.656832992145063
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.93,
+          "contribution": -0.15108449480620895
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10637.4,
+          "contribution": 0.1893016591986702
+        },
+        {
+          "feature": "vibration",
+          "value": 1.371,
+          "contribution": -0.15653415256491096
+        }
+      ],
+      "risk_score": 45,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 6241,
+      "vehicle_id": 79,
+      "captured_at": "2026-08-30",
+      "engine_temp": 85.48,
+      "brake_wear": 74.17,
+      "battery_voltage": 12.97,
+      "km_since_service": 4212.6,
+      "vibration": 1.571,
+      "code": "PB-7879",
+      "type": "Minibus",
+      "facility_id": 7,
+      "probability": 0.30394935183432964,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 85.48,
+          "contribution": -0.3404356959357681
+        },
+        {
+          "feature": "brake_wear",
+          "value": 74.17,
+          "contribution": 0.7691160304716974
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.97,
+          "contribution": -0.16287875669584304
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4212.6,
+          "contribution": -0.27803333410369885
+        },
+        {
+          "feature": "vibration",
+          "value": 1.571,
+          "contribution": -0.11045335874548148
+        }
+      ],
+      "risk_score": 30,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 6320,
+      "vehicle_id": 80,
+      "captured_at": "2026-08-30",
+      "engine_temp": 81.21,
+      "brake_wear": 50.87,
+      "battery_voltage": 12.65,
+      "km_since_service": 9241.0,
+      "vibration": 4.366,
+      "code": "PB-7880",
+      "type": "Minibus",
+      "facility_id": 8,
+      "probability": 0.3126956305014095,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 81.21,
+          "contribution": -0.6451990867793537
+        },
+        {
+          "feature": "brake_wear",
+          "value": 50.87,
+          "contribution": 0.010798699164283195
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.65,
+          "contribution": -0.0685246615787725
+        },
+        {
+          "feature": "km_since_service",
+          "value": 9241.0,
+          "contribution": 0.08772860094823003
+        },
+        {
+          "feature": "vibration",
+          "value": 4.366,
+          "contribution": 0.5335257348810454
+        }
+      ],
+      "risk_score": 31,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 6399,
+      "vehicle_id": 81,
+      "captured_at": "2026-08-30",
+      "engine_temp": 68.71,
+      "brake_wear": 65.24,
+      "battery_voltage": 12.99,
+      "km_since_service": 12952.8,
+      "vibration": 2.653,
+      "code": "PB-7881",
+      "type": "Minibus",
+      "facility_id": 9,
+      "probability": 0.19201532088858989,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 68.71,
+          "contribution": -1.5373635798811829
+        },
+        {
+          "feature": "brake_wear",
+          "value": 65.24,
+          "contribution": 0.4784819631508728
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.99,
+          "contribution": -0.16877588764065982
+        },
+        {
+          "feature": "km_since_service",
+          "value": 12952.8,
+          "contribution": 0.35772206815961927
+        },
+        {
+          "feature": "vibration",
+          "value": 2.653,
+          "contribution": 0.13884373581763199
+        }
+      ],
+      "risk_score": 19,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 5688,
+      "vehicle_id": 72,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.26,
+      "brake_wear": 66.36,
+      "battery_voltage": 12.49,
+      "km_since_service": 15177.6,
+      "vibration": 3.172,
+      "code": "TR-7872",
+      "type": "Transit Bus",
+      "facility_id": 12,
+      "probability": 0.6857948914601518,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.26,
+          "contribution": 0.21484748457081043
+        },
+        {
+          "feature": "brake_wear",
+          "value": 66.36,
+          "contribution": 0.5149332683467659
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.49,
+          "contribution": -0.021347614020237226
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15177.6,
+          "contribution": 0.51955230304617
+        },
+        {
+          "feature": "vibration",
+          "value": 3.172,
+          "contribution": 0.2584233957790515
+        }
+      ],
+      "risk_score": 69,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 6478,
+      "vehicle_id": 82,
+      "captured_at": "2026-08-30",
+      "engine_temp": 72.99,
+      "brake_wear": 54.66,
+      "battery_voltage": 11.27,
+      "km_since_service": 1240.9,
+      "vibration": 1.43,
+      "code": "PB-7882",
+      "type": "Minibus",
+      "facility_id": 10,
+      "probability": 0.10886660353187731,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 72.99,
+          "contribution": -1.2318864574431165
+        },
+        {
+          "feature": "brake_wear",
+          "value": 54.66,
+          "contribution": 0.13414731228252777
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.27,
+          "contribution": 0.33837737361359416
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1240.9,
+          "contribution": -0.4941924985285293
+        },
+        {
+          "feature": "vibration",
+          "value": 1.43,
+          "contribution": -0.14294031838817928
+        }
+      ],
+      "risk_score": 11,
+      "risk_level": "Low",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 6636,
+      "vehicle_id": 84,
+      "captured_at": "2026-08-30",
+      "engine_temp": 81.12,
+      "brake_wear": 48.79,
+      "battery_voltage": 12.53,
+      "km_since_service": 1904.4,
+      "vibration": 0.592,
+      "code": "PB-7884",
+      "type": "Minibus",
+      "facility_id": 12,
+      "probability": 0.09713368904590122,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 81.12,
+          "contribution": -0.6516226711296861
+        },
+        {
+          "feature": "brake_wear",
+          "value": 48.79,
+          "contribution": -0.0568965819138035
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.53,
+          "contribution": -0.033141875909870784
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1904.4,
+          "contribution": -0.4459300206216494
+        },
+        {
+          "feature": "vibration",
+          "value": 0.592,
+          "contribution": -0.3360188444915887
+        }
+      ],
+      "risk_score": 10,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 6715,
+      "vehicle_id": 85,
+      "captured_at": "2026-08-30",
+      "engine_temp": 84.85,
+      "brake_wear": 76.08,
+      "battery_voltage": 12.27,
+      "km_since_service": 13790.7,
+      "vibration": 2.495,
+      "code": "PB-7885",
+      "type": "Minibus",
+      "facility_id": 1,
+      "probability": 0.5755745797153725,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 84.85,
+          "contribution": -0.38540078638810105
+        },
+        {
+          "feature": "brake_wear",
+          "value": 76.08,
+          "contribution": 0.8312785241539787
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.27,
+          "contribution": 0.043520826372748914
+        },
+        {
+          "feature": "km_since_service",
+          "value": 13790.7,
+          "contribution": 0.4186702674635751
+        },
+        {
+          "feature": "vibration",
+          "value": 2.495,
+          "contribution": 0.10243990870028272
+        }
+      ],
+      "risk_score": 58,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 6794,
+      "vehicle_id": 86,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.28,
+      "brake_wear": 27.64,
+      "battery_voltage": 11.69,
+      "km_since_service": 1674.1,
+      "vibration": 2.66,
+      "code": "PB-7886",
+      "type": "Minibus",
+      "facility_id": 2,
+      "probability": 0.20709440958201483,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.28,
+          "contribution": 0.21627494775977307
+        },
+        {
+          "feature": "brake_wear",
+          "value": 27.64,
+          "contribution": -0.7452404255683875
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.69,
+          "contribution": 0.21453762377243912
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1674.1,
+          "contribution": -0.46268186487478336
+        },
+        {
+          "feature": "vibration",
+          "value": 2.66,
+          "contribution": 0.14045656360131203
+        }
+      ],
+      "risk_score": 21,
+      "risk_level": "Low",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 6873,
+      "vehicle_id": 87,
+      "captured_at": "2026-08-30",
+      "engine_temp": 91.42,
+      "brake_wear": 59.57,
+      "battery_voltage": 12.03,
+      "km_since_service": 15115.4,
+      "vibration": 1.332,
+      "code": "PB-7887",
+      "type": "Minibus",
+      "facility_id": 3,
+      "probability": 0.5337949664802661,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 91.42,
+          "contribution": 0.08352087118622092
+        },
+        {
+          "feature": "brake_wear",
+          "value": 59.57,
+          "contribution": 0.29394723059666533
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.03,
+          "contribution": 0.11428639771055182
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15115.4,
+          "contribution": 0.515027923052488
+        },
+        {
+          "feature": "vibration",
+          "value": 1.332,
+          "contribution": -0.16551990735969968
+        }
+      ],
+      "risk_score": 53,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 6952,
+      "vehicle_id": 88,
+      "captured_at": "2026-08-30",
+      "engine_temp": 88.28,
+      "brake_wear": 51.78,
+      "battery_voltage": 12.18,
+      "km_since_service": 13946.0,
+      "vibration": 2.385,
+      "code": "PB-7888",
+      "type": "Minibus",
+      "facility_id": 4,
+      "probability": 0.4430157504328272,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 88.28,
+          "contribution": -0.14059084948095862
+        },
+        {
+          "feature": "brake_wear",
+          "value": 51.78,
+          "contribution": 0.04041538463594627
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.18,
+          "contribution": 0.07005791562442493
+        },
+        {
+          "feature": "km_since_service",
+          "value": 13946.0,
+          "contribution": 0.4299666696021409
+        },
+        {
+          "feature": "vibration",
+          "value": 2.385,
+          "contribution": 0.07709547209959643
+        }
+      ],
+      "risk_score": 44,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 7031,
+      "vehicle_id": 89,
+      "captured_at": "2026-08-30",
+      "engine_temp": 109.49,
+      "brake_wear": 57.1,
+      "battery_voltage": 12.85,
+      "km_since_service": 10684.2,
+      "vibration": 0.832,
+      "code": "PB-7889",
+      "type": "Paratransit",
+      "facility_id": 5,
+      "probability": 0.6604734339456103,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 109.49,
+          "contribution": 1.3732338624142244
+        },
+        {
+          "feature": "brake_wear",
+          "value": 57.1,
+          "contribution": 0.21355908431643736
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.85,
+          "contribution": -0.12749597102694132
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10684.2,
+          "contribution": 0.19270585507816082
+        },
+        {
+          "feature": "vibration",
+          "value": 0.832,
+          "contribution": -0.2807218919082734
+        }
+      ],
+      "risk_score": 66,
+      "risk_level": "High",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 7110,
+      "vehicle_id": 90,
+      "captured_at": "2026-08-30",
+      "engine_temp": 72.22,
+      "brake_wear": 90.05,
+      "battery_voltage": 12.0,
+      "km_since_service": 5005.3,
+      "vibration": 0.706,
+      "code": "PB-7890",
+      "type": "Paratransit",
+      "facility_id": 6,
+      "probability": 0.2471686746184121,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 72.22,
+          "contribution": -1.2868437902181888
+        },
+        {
+          "feature": "brake_wear",
+          "value": 90.05,
+          "contribution": 1.285943464856321
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.0,
+          "contribution": 0.12313209412777697
+        },
+        {
+          "feature": "km_since_service",
+          "value": 5005.3,
+          "contribution": -0.22037294791412285
+        },
+        {
+          "feature": "vibration",
+          "value": 0.706,
+          "contribution": -0.30975279201451394
+        }
+      ],
+      "risk_score": 25,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 7189,
+      "vehicle_id": 91,
+      "captured_at": "2026-08-30",
+      "engine_temp": 74.64,
+      "brake_wear": 69.74,
+      "battery_voltage": 11.57,
+      "km_since_service": 3802.7,
+      "vibration": 1.792,
+      "code": "PB-7891",
+      "type": "Paratransit",
+      "facility_id": 7,
+      "probability": 0.21206517983463916,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 74.64,
+          "contribution": -1.1141207443536747
+        },
+        {
+          "feature": "brake_wear",
+          "value": 69.74,
+          "contribution": 0.6249381000986567
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.57,
+          "contribution": 0.24992040944134034
+        },
+        {
+          "feature": "km_since_service",
+          "value": 3802.7,
+          "contribution": -0.30784914374051886
+        },
+        {
+          "feature": "vibration",
+          "value": 1.792,
+          "contribution": -0.059534081575011895
+        }
+      ],
+      "risk_score": 21,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 7268,
+      "vehicle_id": 92,
+      "captured_at": "2026-08-30",
+      "engine_temp": 96.23,
+      "brake_wear": 35.99,
+      "battery_voltage": 12.89,
+      "km_since_service": 4521.0,
+      "vibration": 1.427,
+      "code": "PB-7892",
+      "type": "Paratransit",
+      "facility_id": 8,
+      "probability": 0.21567417463478003,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 96.23,
+          "contribution": 0.42682576813180495
+        },
+        {
+          "feature": "brake_wear",
+          "value": 35.99,
+          "contribution": -0.4734829270097219
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.89,
+          "contribution": -0.1392902329165754
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4521.0,
+          "contribution": -0.2556005561285945
+        },
+        {
+          "feature": "vibration",
+          "value": 1.427,
+          "contribution": -0.14363153029547068
+        }
+      ],
+      "risk_score": 22,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 6557,
+      "vehicle_id": 83,
+      "captured_at": "2026-08-30",
+      "engine_temp": 100.64,
+      "brake_wear": 5.24,
+      "battery_voltage": 12.52,
+      "km_since_service": 15307.0,
+      "vibration": 1.45,
+      "code": "PB-7883",
+      "type": "Minibus",
+      "facility_id": 11,
+      "probability": 0.25386154684761014,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 100.64,
+          "contribution": 0.74158140129813
+        },
+        {
+          "feature": "brake_wear",
+          "value": 5.24,
+          "contribution": -1.474266529486245
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.52,
+          "contribution": -0.030193310437462394
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15307.0,
+          "contribution": 0.5289647591745049
+        },
+        {
+          "feature": "vibration",
+          "value": 1.45,
+          "contribution": -0.1383322390062363
+        }
+      ],
+      "risk_score": 25,
+      "risk_level": "Low",
+      "issue": "Elevated engine temperature"
+    },
+    {
+      "id": 7426,
+      "vehicle_id": 94,
+      "captured_at": "2026-08-30",
+      "engine_temp": 92.98,
+      "brake_wear": 55.87,
+      "battery_voltage": 12.54,
+      "km_since_service": 13045.7,
+      "vibration": 1.728,
+      "code": "PB-7894",
+      "type": "Paratransit",
+      "facility_id": 10,
+      "probability": 0.47916798518579845,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 92.98,
+          "contribution": 0.19486299992532938
+        },
+        {
+          "feature": "brake_wear",
+          "value": 55.87,
+          "contribution": 0.17352774021737633
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.54,
+          "contribution": -0.03609044138227917
+        },
+        {
+          "feature": "km_since_service",
+          "value": 13045.7,
+          "contribution": 0.3644795424588645
+        },
+        {
+          "feature": "vibration",
+          "value": 1.728,
+          "contribution": -0.07427993559722934
+        }
+      ],
+      "risk_score": 48,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 5609,
+      "vehicle_id": 71,
+      "captured_at": "2026-08-30",
+      "engine_temp": 91.78,
+      "brake_wear": 47.65,
+      "battery_voltage": 12.14,
+      "km_since_service": 8912.9,
+      "vibration": 3.308,
+      "code": "TR-7871",
+      "type": "Transit Bus",
+      "facility_id": 11,
+      "probability": 0.43654735071574113,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 91.78,
+          "contribution": 0.10921520858755356
+        },
+        {
+          "feature": "brake_wear",
+          "value": 47.65,
+          "contribution": -0.09399880327390875
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.14,
+          "contribution": 0.08185217751405849
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8912.9,
+          "contribution": 0.06386286017769904
+        },
+        {
+          "feature": "vibration",
+          "value": 3.308,
+          "contribution": 0.2897583355762635
+        }
+      ],
+      "risk_score": 44,
+      "risk_level": "Moderate",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 5451,
+      "vehicle_id": 69,
+      "captured_at": "2026-08-30",
+      "engine_temp": 88.28,
+      "brake_wear": 33.95,
+      "battery_voltage": 13.15,
+      "km_since_service": 15559.6,
+      "vibration": 1.398,
+      "code": "TR-7869",
+      "type": "Transit Bus",
+      "facility_id": 9,
+      "probability": 0.23053887144078702,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 88.28,
+          "contribution": -0.14059084948095862
+        },
+        {
+          "feature": "brake_wear",
+          "value": 33.95,
+          "contribution": -0.5398763757593839
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.15,
+          "contribution": -0.21595293519919506
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15559.6,
+          "contribution": 0.5473386882163707
+        },
+        {
+          "feature": "vibration",
+          "value": 1.398,
+          "contribution": -0.150313245399288
+        }
+      ],
+      "risk_score": 23,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 3871,
+      "vehicle_id": 49,
+      "captured_at": "2026-08-30",
+      "engine_temp": 89.37,
+      "brake_wear": 48.45,
+      "battery_voltage": 12.58,
+      "km_since_service": 3648.4,
+      "vibration": 1.505,
+      "code": "TR-7849",
+      "type": "Transit Bus",
+      "facility_id": 1,
+      "probability": 0.20928344704188903,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 89.37,
+          "contribution": -0.06279410568247887
+        },
+        {
+          "feature": "brake_wear",
+          "value": 48.45,
+          "contribution": -0.06796215670541371
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.58,
+          "contribution": -0.04788470327191325
+        },
+        {
+          "feature": "km_since_service",
+          "value": 3648.4,
+          "contribution": -0.3190728066508905
+        },
+        {
+          "feature": "vibration",
+          "value": 1.505,
+          "contribution": -0.12566002070589322
+        }
+      ],
+      "risk_score": 21,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 3950,
+      "vehicle_id": 50,
+      "captured_at": "2026-08-30",
+      "engine_temp": 88.58,
+      "brake_wear": 58.31,
+      "battery_voltage": 12.88,
+      "km_since_service": 1502.2,
+      "vibration": 2.146,
+      "code": "TR-7850",
+      "type": "Transit Bus",
+      "facility_id": 2,
+      "probability": 0.23837411797978567,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 88.58,
+          "contribution": -0.1191789016465149
+        },
+        {
+          "feature": "brake_wear",
+          "value": 58.31,
+          "contribution": 0.25293951225128597
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.88,
+          "contribution": -0.136341667444167
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1502.2,
+          "contribution": -0.4751857382013737
+        },
+        {
+          "feature": "vibration",
+          "value": 2.146,
+          "contribution": 0.02202892348537824
+        }
+      ],
+      "risk_score": 24,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 4029,
+      "vehicle_id": 51,
+      "captured_at": "2026-08-30",
+      "engine_temp": 65.56,
+      "brake_wear": 57.65,
+      "battery_voltage": 13.75,
+      "km_since_service": 4016.5,
+      "vibration": 2.113,
+      "code": "TR-7851",
+      "type": "Transit Bus",
+      "facility_id": 3,
+      "probability": 0.05179167773756957,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 65.56,
+          "contribution": -1.7621890321428433
+        },
+        {
+          "feature": "brake_wear",
+          "value": 57.65,
+          "contribution": 0.23145927883227752
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.75,
+          "contribution": -0.39286686354370215
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4016.5,
+          "contribution": -0.29229749675258987
+        },
+        {
+          "feature": "vibration",
+          "value": 2.113,
+          "contribution": 0.014425592505172394
+        }
+      ],
+      "risk_score": 5,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 4108,
+      "vehicle_id": 52,
+      "captured_at": "2026-08-30",
+      "engine_temp": 78.06,
+      "brake_wear": 62.11,
+      "battery_voltage": 11.66,
+      "km_since_service": 15476.4,
+      "vibration": 1.851,
+      "code": "TR-7852",
+      "type": "Transit Bus",
+      "facility_id": 4,
+      "probability": 0.38212052858195883,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 78.06,
+          "contribution": -0.8700245390410141
+        },
+        {
+          "feature": "brake_wear",
+          "value": 62.11,
+          "contribution": 0.3766135834516367
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.66,
+          "contribution": 0.22338332018966428
+        },
+        {
+          "feature": "km_since_service",
+          "value": 15476.4,
+          "contribution": 0.5412867844306096
+        },
+        {
+          "feature": "vibration",
+          "value": 1.851,
+          "contribution": -0.04594024739828022
+        }
+      ],
+      "risk_score": 38,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 4187,
+      "vehicle_id": 53,
+      "captured_at": "2026-08-30",
+      "engine_temp": 96.99,
+      "brake_wear": 87.07,
+      "battery_voltage": 14.05,
+      "km_since_service": 10284.2,
+      "vibration": 3.403,
+      "code": "TR-7853",
+      "type": "Transit Bus",
+      "facility_id": 5,
+      "probability": 0.7227378543453387,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 96.99,
+          "contribution": 0.48106936931239547
+        },
+        {
+          "feature": "brake_wear",
+          "value": 87.07,
+          "contribution": 1.1889569563886775
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 14.05,
+          "contribution": -0.4813238277159559
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10284.2,
+          "contribution": 0.16361016380046384
+        },
+        {
+          "feature": "vibration",
+          "value": 3.403,
+          "contribution": 0.3116467126404925
+        }
+      ],
+      "risk_score": 72,
+      "risk_level": "High",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 4266,
+      "vehicle_id": 54,
+      "captured_at": "2026-08-30",
+      "engine_temp": 84.12,
+      "brake_wear": 84.18,
+      "battery_voltage": 13.01,
+      "km_since_service": 3321.5,
+      "vibration": 2.77,
+      "code": "TR-7854",
+      "type": "Transit Bus",
+      "facility_id": 6,
+      "probability": 0.40126353617961386,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 84.12,
+          "contribution": -0.43750319278524713
+        },
+        {
+          "feature": "brake_wear",
+          "value": 84.18,
+          "contribution": 1.09489957065999
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.01,
+          "contribution": -0.1746730185854766
+        },
+        {
+          "feature": "km_since_service",
+          "value": 3321.5,
+          "contribution": -0.34285126034758834
+        },
+        {
+          "feature": "vibration",
+          "value": 2.77,
+          "contribution": 0.16580100020199823
+        }
+      ],
+      "risk_score": 40,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 4345,
+      "vehicle_id": 55,
+      "captured_at": "2026-08-30",
+      "engine_temp": 81.94,
+      "brake_wear": 67.13,
+      "battery_voltage": 13.32,
+      "km_since_service": 9847.3,
+      "vibration": 0.629,
+      "code": "TR-7855",
+      "type": "Transit Bus",
+      "facility_id": 7,
+      "probability": 0.22780951863990154,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 81.94,
+          "contribution": -0.5930966803822066
+        },
+        {
+          "feature": "brake_wear",
+          "value": 67.13,
+          "contribution": 0.539993540668942
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.32,
+          "contribution": -0.26607854823013877
+        },
+        {
+          "feature": "km_since_service",
+          "value": 9847.3,
+          "contribution": 0.1318303950023992
+        },
+        {
+          "feature": "vibration",
+          "value": 0.629,
+          "contribution": -0.32749389763499426
+        }
+      ],
+      "risk_score": 23,
+      "risk_level": "Low",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 4424,
+      "vehicle_id": 56,
+      "captured_at": "2026-08-30",
+      "engine_temp": 87.11,
+      "brake_wear": 44.48,
+      "battery_voltage": 12.13,
+      "km_since_service": 14807.1,
+      "vibration": 1.821,
+      "code": "TR-7856",
+      "type": "Transit Bus",
+      "facility_id": 8,
+      "probability": 0.353750932671673,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 87.11,
+          "contribution": -0.22409744603528997
+        },
+        {
+          "feature": "brake_wear",
+          "value": 44.48,
+          "contribution": -0.19716901530156988
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.13,
+          "contribution": 0.08480074298646686
+        },
+        {
+          "feature": "km_since_service",
+          "value": 14807.1,
+          "contribution": 0.49260241900020313
+        },
+        {
+          "feature": "vibration",
+          "value": 1.821,
+          "contribution": -0.05285236647119464
+        }
+      ],
+      "risk_score": 35,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 4503,
+      "vehicle_id": 57,
+      "captured_at": "2026-08-30",
+      "engine_temp": 66.65,
+      "brake_wear": 60.61,
+      "battery_voltage": 13.08,
+      "km_since_service": 8511.0,
+      "vibration": 2.043,
+      "code": "TR-7857",
+      "type": "Transit Bus",
+      "facility_id": 9,
+      "probability": 0.09754012950686461,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 66.65,
+          "contribution": -1.6843922883443634
+        },
+        {
+          "feature": "brake_wear",
+          "value": 60.61,
+          "contribution": 0.3277948711357087
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.08,
+          "contribution": -0.19531297689233584
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8511.0,
+          "contribution": 0.03462896436643302
+        },
+        {
+          "feature": "vibration",
+          "value": 2.043,
+          "contribution": -0.001702685331627883
+        }
+      ],
+      "risk_score": 10,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 5530,
+      "vehicle_id": 70,
+      "captured_at": "2026-08-30",
+      "engine_temp": 92.07,
+      "brake_wear": 41.36,
+      "battery_voltage": 11.62,
+      "km_since_service": 2586.9,
+      "vibration": 2.361,
+      "code": "TR-7870",
+      "type": "Transit Bus",
+      "facility_id": 10,
+      "probability": 0.2760346997493248,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 92.07,
+          "contribution": 0.12991342482751542
+        },
+        {
+          "feature": "brake_wear",
+          "value": 41.36,
+          "contribution": -0.2987119369186999
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 11.62,
+          "contribution": 0.2351775820792984
+        },
+        {
+          "feature": "km_since_service",
+          "value": 2586.9,
+          "contribution": -0.39628549737907887
+        },
+        {
+          "feature": "vibration",
+          "value": 2.361,
+          "contribution": 0.071565776841265
+        }
+      ],
+      "risk_score": 28,
+      "risk_level": "Low",
+      "issue": "Low battery voltage"
+    },
+    {
+      "id": 4582,
+      "vehicle_id": 58,
+      "captured_at": "2026-08-30",
+      "engine_temp": 85.05,
+      "brake_wear": 57.55,
+      "battery_voltage": 12.34,
+      "km_since_service": 13618.5,
+      "vibration": 2.379,
+      "code": "TR-7858",
+      "type": "Transit Bus",
+      "facility_id": 10,
+      "probability": 0.4148237872858002,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 85.05,
+          "contribution": -0.3711261544984715
+        },
+        {
+          "feature": "brake_wear",
+          "value": 57.55,
+          "contribution": 0.22820469801121562
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.34,
+          "contribution": 0.02288086806588966
+        },
+        {
+          "feature": "km_since_service",
+          "value": 13618.5,
+          "contribution": 0.4061445723685266
+        },
+        {
+          "feature": "vibration",
+          "value": 2.379,
+          "contribution": 0.0757130482850136
+        }
+      ],
+      "risk_score": 41,
+      "risk_level": "Moderate",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 4740,
+      "vehicle_id": 60,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.33,
+      "brake_wear": 52.27,
+      "battery_voltage": 12.81,
+      "km_since_service": 1236.5,
+      "vibration": 2.744,
+      "code": "TR-7860",
+      "type": "Transit Bus",
+      "facility_id": 12,
+      "probability": 0.2931625360749659,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.33,
+          "contribution": 0.2198436057321802
+        },
+        {
+          "feature": "brake_wear",
+          "value": 52.27,
+          "contribution": 0.05636283065914947
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.81,
+          "contribution": -0.11570170913730778
+        },
+        {
+          "feature": "km_since_service",
+          "value": 1236.5,
+          "contribution": -0.4945125511325839
+        },
+        {
+          "feature": "vibration",
+          "value": 2.744,
+          "contribution": 0.15981049700547245
+        }
+      ],
+      "risk_score": 29,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 4819,
+      "vehicle_id": 61,
+      "captured_at": "2026-08-30",
+      "engine_temp": 90.96,
+      "brake_wear": 32.6,
+      "battery_voltage": 14.09,
+      "km_since_service": 10143.7,
+      "vibration": 2.528,
+      "code": "TR-7861",
+      "type": "Transit Bus",
+      "facility_id": 1,
+      "probability": 0.18714260354651693,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 90.96,
+          "contribution": 0.05068921784007303
+        },
+        {
+          "feature": "brake_wear",
+          "value": 32.6,
+          "contribution": -0.583813216843719
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 14.09,
+          "contribution": -0.4931180896055895
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10143.7,
+          "contribution": 0.15339030223917277
+        },
+        {
+          "feature": "vibration",
+          "value": 2.528,
+          "contribution": 0.11004323968048856
+        }
+      ],
+      "risk_score": 19,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 4898,
+      "vehicle_id": 62,
+      "captured_at": "2026-08-30",
+      "engine_temp": 86.92,
+      "brake_wear": 50.93,
+      "battery_voltage": 12.81,
+      "km_since_service": 4480.6,
+      "vibration": 2.298,
+      "code": "TR-7862",
+      "type": "Transit Bus",
+      "facility_id": 2,
+      "probability": 0.22305109236863407,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 86.92,
+          "contribution": -0.23765834633043756
+        },
+        {
+          "feature": "brake_wear",
+          "value": 50.93,
+          "contribution": 0.012751447656920389
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.81,
+          "contribution": -0.11570170913730778
+        },
+        {
+          "feature": "km_since_service",
+          "value": 4480.6,
+          "contribution": -0.25853922094764187
+        },
+        {
+          "feature": "vibration",
+          "value": 2.298,
+          "contribution": 0.05705032678814467
+        }
+      ],
+      "risk_score": 22,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 4977,
+      "vehicle_id": 63,
+      "captured_at": "2026-08-30",
+      "engine_temp": 79.71,
+      "brake_wear": 87.8,
+      "battery_voltage": 13.81,
+      "km_since_service": 10980.5,
+      "vibration": 1.779,
+      "code": "TR-7863",
+      "type": "Transit Bus",
+      "facility_id": 3,
+      "probability": 0.3765427146835108,
+      "anomaly": true,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 79.71,
+          "contribution": -0.7522588259515731
+        },
+        {
+          "feature": "brake_wear",
+          "value": 87.8,
+          "contribution": 1.212715396382429
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.81,
+          "contribution": -0.410558256378153
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10980.5,
+          "contribution": 0.21425848839211484
+        },
+        {
+          "feature": "vibration",
+          "value": 1.779,
+          "contribution": -0.06252933317327485
+        }
+      ],
+      "risk_score": 38,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 5056,
+      "vehicle_id": 64,
+      "captured_at": "2026-08-30",
+      "engine_temp": 86.22,
+      "brake_wear": 73.97,
+      "battery_voltage": 12.8,
+      "km_since_service": 13246.6,
+      "vibration": 2.41,
+      "code": "TR-7864",
+      "type": "Transit Bus",
+      "facility_id": 4,
+      "probability": 0.5295421412382426,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 86.22,
+          "contribution": -0.2876195579441402
+        },
+        {
+          "feature": "brake_wear",
+          "value": 73.97,
+          "contribution": 0.7626068688295736
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.8,
+          "contribution": -0.11275314366489939
+        },
+        {
+          "feature": "km_since_service",
+          "value": 13246.6,
+          "contribution": 0.3790928534030878
+        },
+        {
+          "feature": "vibration",
+          "value": 2.41,
+          "contribution": 0.0828555713270252
+        }
+      ],
+      "risk_score": 53,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    },
+    {
+      "id": 5135,
+      "vehicle_id": 65,
+      "captured_at": "2026-08-30",
+      "engine_temp": 84.51,
+      "brake_wear": 47.79,
+      "battery_voltage": 12.42,
+      "km_since_service": 5331.4,
+      "vibration": 3.007,
+      "code": "TR-7865",
+      "type": "Transit Bus",
+      "facility_id": 5,
+      "probability": 0.23470357949203824,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 84.51,
+          "contribution": -0.40966766060047005
+        },
+        {
+          "feature": "brake_wear",
+          "value": 47.79,
+          "contribution": -0.08944239012442214
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.42,
+          "contribution": -0.0007076557133779768
+        },
+        {
+          "feature": "km_since_service",
+          "value": 5331.4,
+          "contribution": -0.19665268559998042
+        },
+        {
+          "feature": "vibration",
+          "value": 3.007,
+          "contribution": 0.2204067408780222
+        }
+      ],
+      "risk_score": 23,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 5214,
+      "vehicle_id": 66,
+      "captured_at": "2026-08-30",
+      "engine_temp": 88.68,
+      "brake_wear": 45.23,
+      "battery_voltage": 12.76,
+      "km_since_service": 8669.5,
+      "vibration": 2.674,
+      "code": "TR-7866",
+      "type": "Transit Bus",
+      "facility_id": 6,
+      "probability": 0.28868155731837086,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 88.68,
+          "contribution": -0.11204158570169967
+        },
+        {
+          "feature": "brake_wear",
+          "value": 45.23,
+          "contribution": -0.1727596591436059
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.76,
+          "contribution": -0.1009588817752653
+        },
+        {
+          "feature": "km_since_service",
+          "value": 8669.5,
+          "contribution": 0.04615813203522045
+        },
+        {
+          "feature": "vibration",
+          "value": 2.674,
+          "contribution": 0.14368221916867205
+        }
+      ],
+      "risk_score": 29,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 5293,
+      "vehicle_id": 67,
+      "captured_at": "2026-08-30",
+      "engine_temp": 75.31,
+      "brake_wear": 49.51,
+      "battery_voltage": 13.22,
+      "km_since_service": 10632.9,
+      "vibration": 1.039,
+      "code": "TR-7867",
+      "type": "Transit Bus",
+      "facility_id": 7,
+      "probability": 0.11043677584494291,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 75.31,
+          "contribution": -1.0663007275234164
+        },
+        {
+          "feature": "brake_wear",
+          "value": 49.51,
+          "contribution": -0.033463600002158124
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 13.22,
+          "contribution": -0.23659289350605434
+        },
+        {
+          "feature": "km_since_service",
+          "value": 10632.9,
+          "contribution": 0.18897433267179614
+        },
+        {
+          "feature": "vibration",
+          "value": 1.039,
+          "contribution": -0.23302827030516385
+        }
+      ],
+      "risk_score": 11,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 5372,
+      "vehicle_id": 68,
+      "captured_at": "2026-08-30",
+      "engine_temp": 83.88,
+      "brake_wear": 30.9,
+      "battery_voltage": 12.32,
+      "km_since_service": 11040.1,
+      "vibration": 0.956,
+      "code": "TR-7868",
+      "type": "Transit Bus",
+      "facility_id": 8,
+      "probability": 0.14131264356632997,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 83.88,
+          "contribution": -0.4546327510528029
+        },
+        {
+          "feature": "brake_wear",
+          "value": 30.9,
+          "contribution": -0.639141090801771
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.32,
+          "contribution": 0.028777999010706438
+        },
+        {
+          "feature": "km_since_service",
+          "value": 11040.1,
+          "contribution": 0.21859374639249168
+        },
+        {
+          "feature": "vibration",
+          "value": 0.956,
+          "contribution": -0.2521517997402271
+        }
+      ],
+      "risk_score": 14,
+      "risk_level": "Low",
+      "issue": "Service interval review"
+    },
+    {
+      "id": 4661,
+      "vehicle_id": 59,
+      "captured_at": "2026-08-30",
+      "engine_temp": 83.78,
+      "brake_wear": 27.74,
+      "battery_voltage": 12.22,
+      "km_since_service": 7022.6,
+      "vibration": 0.784,
+      "code": "TR-7859",
+      "type": "Transit Bus",
+      "facility_id": 11,
+      "probability": 0.09825320676037295,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 83.78,
+          "contribution": -0.46177006699761713
+        },
+        {
+          "feature": "brake_wear",
+          "value": 27.74,
+          "contribution": -0.7419858447473258
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.22,
+          "contribution": 0.05826365373479085
+        },
+        {
+          "feature": "km_since_service",
+          "value": 7022.6,
+          "contribution": -0.07363610287787746
+        },
+        {
+          "feature": "vibration",
+          "value": 0.784,
+          "contribution": -0.29178128242493645
+        }
+      ],
+      "risk_score": 10,
+      "risk_level": "Low",
+      "issue": "Combined telemetry pattern"
+    },
+    {
+      "id": 7584,
+      "vehicle_id": 96,
+      "captured_at": "2026-08-30",
+      "engine_temp": 93.97,
+      "brake_wear": 63.31,
+      "battery_voltage": 12.24,
+      "km_since_service": 11654.8,
+      "vibration": 1.217,
+      "code": "PB-7896",
+      "type": "Paratransit",
+      "facility_id": 12,
+      "probability": 0.5247226873594661,
+      "anomaly": false,
+      "explanation": [
+        {
+          "feature": "engine_temp",
+          "value": 93.97,
+          "contribution": 0.2655224277789939
+        },
+        {
+          "feature": "brake_wear",
+          "value": 63.31,
+          "contribution": 0.41566855330437913
+        },
+        {
+          "feature": "battery_voltage",
+          "value": 12.24,
+          "contribution": 0.05236652278997407
+        },
+        {
+          "feature": "km_since_service",
+          "value": 11654.8,
+          "contribution": 0.2633065499634925
+        },
+        {
+          "feature": "vibration",
+          "value": 1.217,
+          "contribution": -0.19201636380587161
+        }
+      ],
+      "risk_score": 52,
+      "risk_level": "Moderate",
+      "issue": "Brake-wear trend"
+    }
+  ],
+  "model": {
+    "selected": "Logistic Regression",
+    "selection": "Highest validation PR-AUC; threshold selected on validation F1 only. Test labels were not used for selection.",
+    "features": [
+      "engine_temp",
+      "brake_wear",
+      "battery_voltage",
+      "km_since_service",
+      "vibration"
+    ],
+    "label": "fault_7d",
+    "models": [
+      {
+        "model": "Logistic Regression",
+        "validation_pr_auc": 0.5798522846193666,
+        "test": {
+          "roc_auc": 0.712200128680413,
+          "pr_auc": 0.5596836753793691,
+          "precision": 0.43921139101861995,
+          "recall": 0.7893700787401575,
+          "f1": 0.5643912737508796,
+          "brier": 0.19326396212327931,
+          "confusion_matrix": [
+            [
+              516,
+              512
+            ],
+            [
+              107,
+              401
+            ]
+          ],
+          "n": 1536,
+          "prevalence": 0.3307291666666667,
+          "threshold": 0.25,
+          "calibration": [
+            {
+              "predicted": 0.07380890831229939,
+              "observed": 0.11023622047244094,
+              "n": 127
+            },
+            {
+              "predicted": 0.14980280854986222,
+              "observed": 0.17088607594936708,
+              "n": 316
+            },
+            {
+              "predicted": 0.24716164434788507,
+              "observed": 0.25219941348973607,
+              "n": 341
+            },
+            {
+              "predicted": 0.3476600919948488,
+              "observed": 0.35294117647058826,
+              "n": 272
+            },
+            {
+              "predicted": 0.4478429293413169,
+              "observed": 0.4618834080717489,
+              "n": 223
+            },
+            {
+              "predicted": 0.5453061704874981,
+              "observed": 0.5285714285714286,
+              "n": 140
+            },
+            {
+              "predicted": 0.6429508195676726,
+              "observed": 0.6197183098591549,
+              "n": 71
+            },
+            {
+              "predicted": 0.7328616806397191,
+              "observed": 0.7352941176470589,
+              "n": 34
+            },
+            {
+              "predicted": 0.8321774649477465,
+              "observed": 1.0,
+              "n": 11
+            },
+            {
+              "predicted": 0.9098928214022258,
+              "observed": 1.0,
+              "n": 1
+            }
+          ]
+        }
+      },
+      {
+        "model": "Random Forest",
+        "validation_pr_auc": 0.5671806064834749,
+        "test": {
+          "roc_auc": 0.7128148074389533,
+          "pr_auc": 0.5631230888532137,
+          "precision": 0.46867167919799496,
+          "recall": 0.7362204724409449,
+          "f1": 0.5727411944869831,
+          "brier": 0.19337410246266687,
+          "confusion_matrix": [
+            [
+              604,
+              424
+            ],
+            [
+              134,
+              374
+            ]
+          ],
+          "n": 1536,
+          "prevalence": 0.3307291666666667,
+          "threshold": 0.30000000000000004,
+          "calibration": [
+            {
+              "predicted": 0.07377513121860321,
+              "observed": 0.14285714285714285,
+              "n": 119
+            },
+            {
+              "predicted": 0.1505078583220618,
+              "observed": 0.15625,
+              "n": 288
+            },
+            {
+              "predicted": 0.25065947565818475,
+              "observed": 0.2175226586102719,
+              "n": 331
+            },
+            {
+              "predicted": 0.3526338174644685,
+              "observed": 0.3576158940397351,
+              "n": 302
+            },
+            {
+              "predicted": 0.44737742004071435,
+              "observed": 0.4781021897810219,
+              "n": 274
+            },
+            {
+              "predicted": 0.5430262328080615,
+              "observed": 0.56,
+              "n": 125
+            },
+            {
+              "predicted": 0.6414742869411346,
+              "observed": 0.6103896103896104,
+              "n": 77
+            },
+            {
+              "predicted": 0.7340421728841641,
+              "observed": 0.8947368421052632,
+              "n": 19
+            },
+            {
+              "predicted": 0.8133320156524902,
+              "observed": 1.0,
+              "n": 1
+            }
+          ]
+        }
+      },
+      {
+        "model": "XGBoost",
+        "validation_pr_auc": 0.5788273242739662,
+        "test": {
+          "roc_auc": 0.7120105548576857,
+          "pr_auc": 0.5567293462776147,
+          "precision": 0.4382259767687434,
+          "recall": 0.8169291338582677,
+          "f1": 0.570446735395189,
+          "brier": 0.19375479221343994,
+          "confusion_matrix": [
+            [
+              496,
+              532
+            ],
+            [
+              93,
+              415
+            ]
+          ],
+          "n": 1536,
+          "prevalence": 0.3307291666666667,
+          "threshold": 0.25,
+          "calibration": [
+            {
+              "predicted": 0.07412626594305038,
+              "observed": 0.14173228346456693,
+              "n": 127
+            },
+            {
+              "predicted": 0.15103641152381897,
+              "observed": 0.15331010452961671,
+              "n": 287
+            },
+            {
+              "predicted": 0.2522673010826111,
+              "observed": 0.22946175637393768,
+              "n": 353
+            },
+            {
+              "predicted": 0.34831130504608154,
+              "observed": 0.35353535353535354,
+              "n": 297
+            },
+            {
+              "predicted": 0.4469033479690552,
+              "observed": 0.49795918367346936,
+              "n": 245
+            },
+            {
+              "predicted": 0.5448123216629028,
+              "observed": 0.5522388059701493,
+              "n": 134
+            },
+            {
+              "predicted": 0.6550360918045044,
+              "observed": 0.6206896551724138,
+              "n": 58
+            },
+            {
+              "predicted": 0.7322350740432739,
+              "observed": 0.7666666666666667,
+              "n": 30
+            },
+            {
+              "predicted": 0.8432302474975586,
+              "observed": 1.0,
+              "n": 5
+            }
+          ]
+        }
+      }
+    ],
+    "chronological_cv": [
+      {
+        "train_end": "2025-08-03",
+        "test_end": "2025-09-21",
+        "pr_auc": 0.571764565116304,
+        "n": 672
+      },
+      {
+        "train_end": "2025-09-21",
+        "test_end": "2025-11-09",
+        "pr_auc": 0.6245286322611723,
+        "n": 672
+      },
+      {
+        "train_end": "2025-11-09",
+        "test_end": "2025-12-21",
+        "pr_auc": 0.508555659675247,
+        "n": 576
+      }
+    ],
+    "train_before": "2026-01-18",
+    "test_from": "2026-05-10",
+    "purge_days": 7,
+    "counts": {
+      "train": 4320,
+      "validation": 1440,
+      "test": 1536
+    },
+    "threshold": 0.25,
+    "limits": "Results measure a synthetic generator, not field performance. Probabilities are model outputs, not guaranteed outcomes. Validate and calibrate on representative operational data before use.",
+    "shap": {
+      "status": "SHAP computed; contributions in log-odds; max reconstruction residual 0.00000000",
+      "global": [
+        {
+          "feature": "engine_temp",
+          "mean_abs_shap": 0.511128472802147
+        },
+        {
+          "feature": "brake_wear",
+          "mean_abs_shap": 0.48097537888240893
+        },
+        {
+          "feature": "battery_voltage",
+          "mean_abs_shap": 0.13375061553528791
+        },
+        {
+          "feature": "km_since_service",
+          "mean_abs_shap": 0.30698589579591784
+        },
+        {
+          "feature": "vibration",
+          "mean_abs_shap": 0.16556632415930742
+        }
+      ],
+      "units": "log-odds",
+      "base_value": -0.7058762313128603,
+      "max_reconstruction_residual": 1.1102230246251565e-16
+    }
+  },
+  "explanation_notice": "SHAP explains the model, not physical causation. Engineers must assess the vehicle; this is not a safety certification."
+}

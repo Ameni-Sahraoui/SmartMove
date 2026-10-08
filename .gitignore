@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/*.db*
+data/LOCAL_CREDENTIALS.txt
+data/outbox/
+artifacts/*.tmp
+exports/*.tmp
+integration/**/bin/
+integration/**/obj/

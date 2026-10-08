@@ -1,0 +1,97 @@
+﻿id,code,type,capacity,facility_id,status,odometer_km,energy,last_service
+1,MV-7801,Coach,56,1,Maintenance,218925.0,Diesel,2026-07-16
+2,MV-7802,Coach,56,2,Active,205328.0,Hybrid,2026-07-21
+3,MV-7803,Coach,56,3,Active,200135.0,Diesel,2026-08-15
+4,MV-7804,Coach,56,4,Active,171503.0,Hybrid,2026-06-05
+5,MV-7805,Coach,56,5,Active,60111.0,Hybrid,2026-06-30
+6,MV-7806,Coach,56,6,Active,36854.0,Diesel,2026-07-24
+7,MV-7807,Coach,56,7,Active,47665.0,Diesel,2026-08-09
+8,MV-7808,Coach,56,8,Active,216708.0,Diesel,2026-08-12
+9,MV-7809,Coach,56,9,Standby,199532.0,Diesel,2026-08-13
+10,MV-7810,Coach,56,10,Maintenance,24337.0,Diesel,2026-06-09
+11,MV-7811,Coach,56,11,Standby,160927.0,Diesel,2026-06-05
+12,MV-7812,Coach,56,12,Active,171900.0,Diesel,2026-06-15
+13,MV-7813,Coach,56,1,Active,200490.0,Diesel,2026-07-06
+14,MV-7814,Coach,56,2,Active,93172.0,Hybrid,2026-08-03
+15,MV-7815,Coach,56,3,Active,230138.0,Electric,2026-05-29
+16,MV-7816,Coach,56,4,Active,168688.0,Diesel,2026-08-04
+17,MV-7817,Coach,56,5,Active,70874.0,Diesel,2026-07-04
+18,MV-7818,Coach,56,6,Maintenance,204594.0,Hybrid,2026-07-28
+19,MV-7819,Coach,56,7,Active,53742.0,Diesel,2026-06-29
+20,MV-7820,Coach,56,8,Standby,178111.0,Diesel,2026-08-17
+21,MV-7821,Coach,56,9,Maintenance,256685.0,Electric,2026-08-15
+22,MV-7822,Coach,56,10,Standby,36302.0,Diesel,2026-06-01
+23,MV-7823,Coach,56,11,Active,157617.0,Hybrid,2026-08-12
+24,MV-7824,Coach,56,12,Active,246746.0,Electric,2026-06-23
+25,MV-7825,Coach,56,1,Active,98163.0,Hybrid,2026-08-20
+26,MV-7826,Coach,56,2,Active,203314.0,Diesel,2026-08-03
+27,MV-7827,Coach,56,3,Active,246614.0,Hybrid,2026-07-20
+28,MV-7828,Coach,56,4,Maintenance,83074.0,Electric,2026-06-29
+29,MV-7829,Coach,56,5,Active,143261.0,Diesel,2026-06-18
+30,MV-7830,Coach,56,6,Active,116456.0,Diesel,2026-06-21
+31,MV-7831,Coach,56,7,Active,210904.0,Electric,2026-07-09
+32,MV-7832,Coach,56,8,Active,185184.0,Diesel,2026-07-26
+33,MV-7833,Coach,56,9,Active,112913.0,Hybrid,2026-07-28
+34,MV-7834,Coach,56,10,Active,20841.0,Hybrid,2026-05-31
+35,MV-7835,Coach,56,11,Active,182424.0,Electric,2026-08-14
+36,MV-7836,Coach,56,12,Active,237550.0,Electric,2026-08-16
+37,MV-7837,Coach,56,1,Active,246996.0,Electric,2026-06-28
+38,MV-7838,Coach,56,2,Maintenance,22120.0,Hybrid,2026-06-11
+39,MV-7839,Coach,56,3,Active,239368.0,Hybrid,2026-08-16
+40,MV-7840,Coach,56,4,Active,241972.0,Diesel,2026-08-22
+41,TR-7841,Transit Bus,46,5,Active,173261.0,Diesel,2026-06-08
+42,TR-7842,Transit Bus,46,6,Standby,118045.0,Diesel,2026-06-07
+43,TR-7843,Transit Bus,46,7,Active,201619.0,Diesel,2026-07-23
+44,TR-7844,Transit Bus,46,8,Active,134904.0,Diesel,2026-06-21
+45,TR-7845,Transit Bus,46,9,Active,192569.0,Diesel,2026-08-22
+46,TR-7846,Transit Bus,46,10,Active,166042.0,Diesel,2026-08-15
+47,TR-7847,Transit Bus,46,11,Active,26728.0,Electric,2026-07-29
+48,TR-7848,Transit Bus,46,12,Active,70676.0,Diesel,2026-08-20
+49,TR-7849,Transit Bus,46,1,Active,120488.0,Diesel,2026-06-16
+50,TR-7850,Transit Bus,46,2,Active,90848.0,Diesel,2026-06-15
+51,TR-7851,Transit Bus,46,3,Active,158719.0,Diesel,2026-06-01
+52,TR-7852,Transit Bus,46,4,Active,136714.0,Diesel,2026-08-23
+53,TR-7853,Transit Bus,46,5,Standby,143207.0,Diesel,2026-06-17
+54,TR-7854,Transit Bus,46,6,Standby,99202.0,Hybrid,2026-08-05
+55,TR-7855,Transit Bus,46,7,Active,158286.0,Hybrid,2026-07-19
+56,TR-7856,Transit Bus,46,8,Active,242135.0,Diesel,2026-06-05
+57,TR-7857,Transit Bus,46,9,Active,248400.0,Electric,2026-07-01
+58,TR-7858,Transit Bus,46,10,Active,70300.0,Hybrid,2026-06-18
+59,TR-7859,Transit Bus,46,11,Standby,218022.0,Hybrid,2026-06-30
+60,TR-7860,Transit Bus,46,12,Active,161008.0,Hybrid,2026-06-14
+61,TR-7861,Transit Bus,46,1,Active,65236.0,Diesel,2026-06-12
+62,TR-7862,Transit Bus,46,2,Standby,64464.0,Diesel,2026-07-24
+63,TR-7863,Transit Bus,46,3,Active,22530.0,Diesel,2026-07-24
+64,TR-7864,Transit Bus,46,4,Active,129074.0,Diesel,2026-07-15
+65,TR-7865,Transit Bus,46,5,Active,249558.0,Hybrid,2026-06-18
+66,TR-7866,Transit Bus,46,6,Active,139726.0,Hybrid,2026-07-20
+67,TR-7867,Transit Bus,46,7,Active,74525.0,Diesel,2026-08-12
+68,TR-7868,Transit Bus,46,8,Active,118942.0,Diesel,2026-06-26
+69,TR-7869,Transit Bus,46,9,Active,247376.0,Diesel,2026-06-28
+70,TR-7870,Transit Bus,46,10,Active,23782.0,Diesel,2026-07-09
+71,TR-7871,Transit Bus,46,11,Active,15276.0,Electric,2026-08-09
+72,TR-7872,Transit Bus,46,12,Active,84609.0,Diesel,2026-08-13
+73,PB-7873,Minibus,22,1,Active,60730.0,Electric,2026-07-15
+74,PB-7874,Minibus,22,2,Active,198299.0,Diesel,2026-08-15
+75,PB-7875,Minibus,22,3,Active,155299.0,Diesel,2026-08-10
+76,PB-7876,Minibus,22,4,Active,254499.0,Diesel,2026-07-29
+77,PB-7877,Minibus,22,5,Standby,33956.0,Diesel,2026-06-07
+78,PB-7878,Minibus,22,6,Active,210218.0,Hybrid,2026-07-12
+79,PB-7879,Minibus,22,7,Active,199932.0,Electric,2026-07-06
+80,PB-7880,Minibus,22,8,Maintenance,252489.0,Diesel,2026-07-04
+81,PB-7881,Minibus,22,9,Active,78696.0,Diesel,2026-07-22
+82,PB-7882,Minibus,22,10,Maintenance,218170.0,Hybrid,2026-07-25
+83,PB-7883,Minibus,22,11,Active,37463.0,Hybrid,2026-08-20
+84,PB-7884,Minibus,22,12,Active,243975.0,Hybrid,2026-07-20
+85,PB-7885,Minibus,22,1,Active,96512.0,Diesel,2026-07-11
+86,PB-7886,Minibus,22,2,Standby,106844.0,Electric,2026-06-30
+87,PB-7887,Minibus,22,3,Active,74520.0,Hybrid,2026-08-12
+88,PB-7888,Minibus,22,4,Active,122439.0,Electric,2026-08-06
+89,PB-7889,Paratransit,12,5,Active,217275.0,Diesel,2026-07-26
+90,PB-7890,Paratransit,12,6,Maintenance,112672.0,Hybrid,2026-06-24
+91,PB-7891,Paratransit,12,7,Standby,194090.0,Diesel,2026-08-11
+92,PB-7892,Paratransit,12,8,Active,204520.0,Hybrid,2026-06-28
+93,PB-7893,Paratransit,12,9,Active,224481.0,Diesel,2026-06-17
+94,PB-7894,Paratransit,12,10,Active,110377.0,Electric,2026-08-16
+95,PB-7895,Paratransit,12,11,Maintenance,99155.0,Hybrid,2026-06-04
+96,PB-7896,Paratransit,12,12,Active,221092.0,Electric,2026-07-21

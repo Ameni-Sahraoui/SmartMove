@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-09-13T16:42:53.745656+00:00",
+  "dataset_version": "synthetic-ca-v1-seed42",
+  "tables": [
+    {
+      "table": "dim_customer",
+      "rows": 12000,
+      "file": "dim_customer.csv"
+    },
+    {
+      "table": "dim_date",
+      "rows": 556,
+      "file": "dim_date.csv"
+    },
+    {
+      "table": "dim_driver",
+      "rows": 160,
+      "file": "dim_driver.csv"
+    },
+    {
+      "table": "dim_location",
+      "rows": 12,
+      "file": "dim_location.csv"
+    },
+    {
+      "table": "dim_route",
+      "rows": 22,
+      "file": "dim_route.csv"
+    },
+    {
+      "table": "dim_station",
+      "rows": 12,
+      "file": "dim_station.csv"
+    },
+    {
+      "table": "dim_time",
+      "rows": 12,
+      "file": "dim_time.csv"
+    },
+    {
+      "table": "dim_vehicle",
+      "rows": 96,
+      "file": "dim_vehicle.csv"
+    },
+    {
+      "table": "fact_incident",
+      "rows": 364,
+      "file": "fact_incident.csv"
+    },
+    {
+      "table": "fact_maintenance",
+      "rows": 586,
+      "file": "fact_maintenance.csv"
+    },
+    {
+      "table": "fact_payment",
+      "rows": 328985,
+      "file": "fact_payment.csv"
+    },
+    {
+      "table": "fact_reservation",
+      "rows": 328985,
+      "file": "fact_reservation.csv"
+    },
+    {
+      "table": "fact_route_daily",
+      "rows": 12232,
+      "file": "fact_route_daily.csv"
+    },
+    {
+      "table": "fact_satisfaction",
+      "rows": 19093,
+      "file": "fact_satisfaction.csv"
+    },
+    {
+      "table": "fact_trip",
+      "rows": 32804,
+      "file": "fact_trip.csv"
+    }
+  ],
+  "quality": true,
+  "mode": "Full snapshot; operational database unchanged; customer names and emails excluded from warehouse dimensions."
+}

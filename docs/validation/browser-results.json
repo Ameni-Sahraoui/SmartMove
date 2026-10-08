@@ -1,0 +1,171 @@
+{
+  "mode": "Chromium offline-render transport with HTTP bridge to real FastAPI. Enterprise browser policy blocked direct navigation; no policy was changed. Native browser cookie/CSP transport is not covered.",
+  "viewport": [
+    1672,
+    1020
+  ],
+  "checks": [
+    {
+      "name": "Admin role renders",
+      "passed": true
+    },
+    {
+      "name": "Eight live KPI cards",
+      "passed": true
+    },
+    {
+      "name": "Workspace operations",
+      "passed": true
+    },
+    {
+      "name": "Workspace fleet",
+      "passed": true
+    },
+    {
+      "name": "Workspace routes",
+      "passed": true
+    },
+    {
+      "name": "Workspace trips",
+      "passed": true
+    },
+    {
+      "name": "Workspace reservations",
+      "passed": true
+    },
+    {
+      "name": "Workspace maintenance",
+      "passed": true
+    },
+    {
+      "name": "Workspace demand",
+      "passed": true
+    },
+    {
+      "name": "Workspace predictive",
+      "passed": true
+    },
+    {
+      "name": "Workspace delay",
+      "passed": true
+    },
+    {
+      "name": "Workspace experience",
+      "passed": true
+    },
+    {
+      "name": "Workspace simulation",
+      "passed": true
+    },
+    {
+      "name": "Workspace quality",
+      "passed": true
+    },
+    {
+      "name": "Workspace security",
+      "passed": true
+    },
+    {
+      "name": "Workspace models",
+      "passed": true
+    },
+    {
+      "name": "Period updates trip KPI",
+      "passed": true
+    },
+    {
+      "name": "Map zoom",
+      "passed": true
+    },
+    {
+      "name": "Vehicle explanation modal",
+      "passed": true
+    },
+    {
+      "name": "Route forecast filter",
+      "passed": true
+    },
+    {
+      "name": "What-if result",
+      "passed": true
+    },
+    {
+      "name": "Allocation result",
+      "passed": true
+    },
+    {
+      "name": "Mobile no page overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile sidebar navigation",
+      "passed": true
+    },
+    {
+      "name": "Admin editable profile dialog",
+      "passed": true
+    },
+    {
+      "name": "Manager role renders",
+      "passed": true
+    },
+    {
+      "name": "Manager editable profile dialog",
+      "passed": true
+    },
+    {
+      "name": "Driver role renders",
+      "passed": true
+    },
+    {
+      "name": "Driver lacks admin nav",
+      "passed": true
+    },
+    {
+      "name": "Driver owned work visible",
+      "passed": true
+    },
+    {
+      "name": "Driver editable profile dialog",
+      "passed": true
+    },
+    {
+      "name": "Engineer role renders",
+      "passed": true
+    },
+    {
+      "name": "Engineer editable profile dialog",
+      "passed": true
+    },
+    {
+      "name": "Analyst role renders",
+      "passed": true
+    },
+    {
+      "name": "Analyst editable profile dialog",
+      "passed": true
+    },
+    {
+      "name": "Customer role renders",
+      "passed": true
+    },
+    {
+      "name": "Customer lacks admin nav",
+      "passed": true
+    },
+    {
+      "name": "Customer owned work visible",
+      "passed": true
+    },
+    {
+      "name": "Customer editable profile dialog",
+      "passed": true
+    },
+    {
+      "name": "No JavaScript page errors",
+      "passed": true
+    }
+  ],
+  "page_errors": [],
+  "passed": true
+}
